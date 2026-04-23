@@ -96,5 +96,19 @@ tm_player_values.to_csv("data/raw/tm_player_values.csv", index=False)
 tm_squad_values = (tm_player_values.groupby(["club", "season"], as_index=False).agg(squad_value_m=("market_value_m", "sum")))
 
 print("tm_squad_values shape:", tm_squad_values.shape)
+print(tm_squad_values.head(10).to_string())
 
+# Align season format with Understat
+
+season_format_map = {2022: "2022/2023", 2023: "2023/2024", 2024: "2024/2025"}
+
+tm_player_values["season"] = tm_player_values["season"].map(season_format_map)
+tm_squad_values["season"]  = tm_squad_values["season"].map(season_format_map)
+
+print(tm_player_values[["player", "age", "club", "season", "market_value_m"]].head(10).to_string())
+print(tm_squad_values.head(10).to_string())
+
+# Export player values to csv
+
+tm_player_values.to_csv("data/raw/tm_player_values.csv", index=False)
 tm_squad_values.to_csv("data/raw/tm_squad_values.csv", index=False)
