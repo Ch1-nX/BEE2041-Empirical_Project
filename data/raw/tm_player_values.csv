@@ -1,0 +1,2130 @@
+player_id,season,market_value_m,club,current_club_id,player,position,age
+6636,2022,0.5,Leicester City,1003,Christian Fuchs,Defender,36.3
+77760,2022,4.0,Tottenham Hotspur Football Club,148,Victor Wanyama,Midfield,31.1
+128287,2022,0.6,Aston Villa Football Club,405,Derrick Williams,Defender,29.5
+170540,2022,0.25,Southampton FC,180,Cody Cropper,Goalkeeper,29.5
+307763,2022,1.0,Tottenham Hotspur Football Club,148,Anton Walkes,Defender,25.5
+203394,2022,7.0,Fulham Football Club,931,Andreas Pereira,Midfield,26.6
+51716,2022,0.25,West Ham United Football Club,379,Wellington Paulista,Attack,39.3
+26267,2022,1.5,Manchester City Football Club,281,Fernandinho,Midfield,37.2
+381362,2022,5.0,Aston Villa Football Club,405,Wesley Moraes,Attack,25.7
+984096,2022,0.1,Nottingham Forest Football Club,703,Jair Cunha,Defender,17.4
+119164,2022,0.15,Brighton and Hove Albion Football Club,1237,Ezequiel Schelotto,Defender,33.2
+586980,2022,0.1,Arsenal Football Club,11,Alex Kirk,Defender,19.8
+655173,2022,0.025,Association Football Club Bournemouth,989,Brooklyn Genesini,Defender,20.6
+609883,2022,2.0,Manchester City Football Club,281,Luke Mbete,Defender,18.9
+531461,2022,0.35,West Ham United Football Club,379,Armstrong Oko-Flex,Attack,20.4
+599739,2022,0.5,Chelsea Football Club,631,Xavier Simons,Midfield,19.4
+268185,2022,0.8,Everton Football Club,29,Joe Williams,Midfield,25.6
+296986,2022,5.0,Leeds United Association Football Club,399,Tyler Roberts,Attack,23.6
+307497,2022,4.0,Brighton and Hove Albion Football Club,1237,Matt Clarke,Defender,25.9
+314384,2022,1.5,Arsenal Football Club,11,Ben Sheaf,Midfield,24.5
+495993,2022,2.5,Wolverhampton Wanderers Football Club,543,Dion Sanderson,Defender,22.6
+339253,2022,0.8,Manchester City Football Club,281,Daniel Grimshaw,Goalkeeper,24.5
+511550,2022,1.2,Everton Football Club,29,Ellis Simms,Attack,21.6
+512175,2022,0.9,Brighton and Hove Albion Football Club,1237,Ryan Longman,Attack,21.7
+44794,2022,0.5,Aston Villa Football Club,405,Henri Lansbury,Midfield,31.8
+62688,2022,0.3,Crystal Palace Football Club,873,Scott Dann,Defender,35.5
+78959,2022,0.7,Crystal Palace Football Club,873,Martin Kelly,Defender,32.3
+98240,2022,1.2,Newcastle United Football Club,762,Ciaran Clark,Defender,32.8
+111073,2022,0.7,Association Football Club Bournemouth,989,Ryan Allsop,Goalkeeper,30.1
+124845,2022,0.8,Tottenham Hotspur Football Club,148,Grant Hall,Defender,30.8
+128906,2022,1.5,Leicester City,1003,Liam Moore,Defender,29.5
+134424,2022,1.8,Manchester United Football Club,985,Nick Powell,Midfield,28.4
+148657,2022,2.5,Chelsea Football Club,631,Tomas Kalas,Defender,29.2
+154287,2022,0.5,Chelsea Football Club,631,Todd Kane,Defender,28.9
+181498,2022,0.8,Manchester City Football Club,281,George Evans,Midfield,27.6
+200782,2022,0.6,Liverpool Football Club,31,Kevin Stewart,Midfield,28.9
+255703,2022,0.8,Association Football Club Bournemouth,989,Harry Cornick,Attack,27.3
+52059,2022,1.5,Brentford Football Club,1148,Zanka,Defender,32.3
+260827,2022,28.0,Crystal Palace Football Club,873,Joachim Andersen,Defender,26.2
+272622,2022,13.0,Fulham Football Club,931,Issa Diop,Defender,25.6
+272642,2022,40.0,Newcastle United Football Club,762,Allan Saint-Maximin,Attack,25.4
+272999,2022,18.0,Newcastle United Football Club,762,Miguel Almirón,Attack,28.5
+274839,2022,50.0,Leicester City,1003,Wilfred Ndidi,Midfield,25.6
+284857,2022,55.0,Chelsea Football Club,631,Marc Cucurella,Defender,24.0
+288255,2022,20.0,Manchester United Football Club,985,Donny van de Beek,Midfield,25.3
+354362,2022,35.0,Tottenham Hotspur Football Club,148,Rodrigo Bentancur,Midfield,25.1
+293257,2022,2.0,Wolverhampton Wanderers Football Club,543,Matija Sarkic,Goalkeeper,25.0
+316264,2022,50.0,Arsenal Football Club,11,Martin Ødegaard,Midfield,23.6
+319859,2022,12.0,Brentford Football Club,1148,Mathias Jensen,Midfield,26.6
+320141,2022,28.0,Leicester City,1003,Çağlar Söyüncü,Defender,26.2
+329145,2022,30.0,Aston Villa Football Club,405,Diego Carlos,Defender,29.4
+331560,2022,22.0,Arsenal Football Club,11,Takehiro Tomiyasu,Defender,23.7
+333241,2022,28.0,Newcastle United Football Club,762,Joelinton,Midfield,26.0
+71292,2022,8.0,Newcastle United Football Club,762,Jonjo Shelvey,Midfield,30.4
+339340,2022,22.0,Manchester United Football Club,985,Tyrell Malacia,Defender,23.0
+340329,2022,25.0,Newcastle United Football Club,762,Joe Willock,Midfield,22.9
+341051,2022,25.0,Southampton FC,180,Kyle Walker-Peters,Defender,25.3
+344152,2022,15.0,Crystal Palace Football Club,873,Odsonne Édouard,Attack,24.5
+346707,2022,15.0,Newcastle United Football Club,762,Sean Longstaff,Midfield,24.8
+346779,2022,22.0,Southampton FC,180,Ché Adams,Attack,26.1
+349066,2022,50.0,Newcastle United Football Club,762,Alexander Isak,Attack,22.9
+40611,2022,1.8,Leicester City,1003,Ryan Bertrand,Defender,33.0
+72476,2022,10.0,Fulham Football Club,931,Bernd Leno,Goalkeeper,30.4
+181778,2022,15.0,West Ham United Football Club,379,Emerson,Defender,28.0
+183288,2022,30.0,Manchester United Football Club,985,Luke Shaw,Defender,27.1
+175446,2022,17.0,Wolverhampton Wanderers Football Club,543,Jonny Otto,Defender,28.4
+336869,2022,12.0,Leeds United Association Football Club,399,Marc Roca,Midfield,25.7
+202886,2022,22.0,Chelsea Football Club,631,Ruben Loftus-Cheek,Midfield,26.5
+214056,2022,15.0,Leicester City,1003,Daniel Amartey,Defender,27.6
+41416,2022,0.9,Crystal Palace Football Club,873,James McArthur,Midfield,34.8
+215876,2022,18.0,Leicester City,1003,Ricardo Pereira,Defender,28.8
+184573,2022,18.0,Manchester United Football Club,985,Victor Lindelöf,Defender,28.0
+186590,2022,30.0,Manchester City Football Club,281,John Stones,Defender,28.2
+186901,2022,3.5,Fulham Football Club,931,Marek Rodák,Goalkeeper,25.6
+192080,2022,18.0,Newcastle United Football Club,762,Nick Pope,Goalkeeper,30.3
+198516,2022,3.5,Nottingham Forest Football Club,703,Harry Toffolo,Defender,27.0
+199527,2022,7.0,Newcastle United Football Club,762,Jacob Murphy,Attack,27.4
+242631,2022,22.0,Everton Football Club,29,Alex Iwobi,Attack,26.2
+243589,2022,3.0,Fulham Football Club,931,Josh Onomah,Midfield,25.3
+203853,2022,32.0,Arsenal Football Club,11,Oleksandr Zinchenko,Defender,25.6
+204103,2022,15.0,Wolverhampton Wanderers Football Club,543,Adama Traoré,Attack,26.5
+206040,2022,15.0,Wolverhampton Wanderers Football Club,543,Raúl Jiménez,Attack,31.2
+206746,2022,7.0,Fulham Football Club,931,Kenny Tete,Defender,26.8
+209212,2022,12.0,Brighton and Hove Albion Football Club,1237,Solly March,Attack,28.0
+167799,2022,42.0,Tottenham Hotspur Football Club,148,Pierre-Emile Højbjerg,Midfield,27.0
+174094,2022,8.0,Aston Villa Football Club,405,Morgan Sanson,Midfield,28.0
+217111,2022,20.0,Chelsea Football Club,631,Hakim Ziyech,Attack,29.4
+217115,2022,15.0,Everton Football Club,29,Neal Maupay,Attack,26.0
+222209,2022,5.0,Brentford Football Club,1148,Thomas Strakosha,Goalkeeper,27.4
+225122,2022,35.0,Wolverhampton Wanderers Football Club,543,Gonçalo Guedes,Attack,25.7
+231572,2022,20.0,Wolverhampton Wanderers Football Club,543,Nélson Semedo,Defender,28.7
+234781,2022,17.0,West Ham United Football Club,379,Maxwel Cornet,Attack,25.8
+8198,2022,20.0,Manchester United Football Club,985,Cristiano Ronaldo,Attack,37.5
+177907,2022,30.0,Manchester United Football Club,985,Harry Maguire,Defender,29.4
+143424,2022,13.0,Liverpool Football Club,31,Alex Oxlade-Chamberlain,Midfield,29.0
+144028,2022,25.0,Brighton and Hove Albion Football Club,1237,Leandro Trossard,Attack,27.7
+145466,2022,0.8,Fulham Football Club,931,Tim Ream,Defender,34.8
+148252,2022,13.0,Nottingham Forest Football Club,703,Remo Freuler,Midfield,30.3
+157509,2022,32.0,West Ham United Football Club,379,Kurt Zouma,Defender,27.8
+158764,2022,3.0,Leeds United Association Football Club,399,Stuart Dallas,Defender,31.3
+512354,2022,2.0,Crystal Palace Football Club,873,Malcolm Ebiowei,Attack,18.9
+480116,2022,15.0,Association Football Club Bournemouth,989,Lloyd Kelly,Defender,23.8
+480692,2022,75.0,Liverpool Football Club,31,Luis Díaz,Attack,25.5
+480762,2022,50.0,Manchester United Football Club,985,Lisandro Martínez,Defender,24.5
+483348,2022,13.0,Tottenham Hotspur Football Club,148,Djed Spence,Defender,22.0
+485424,2022,13.0,Southampton FC,180,Moussa Djenepo,Attack,24.1
+485706,2022,30.0,Everton Football Club,29,Amadou Onana,Midfield,21.0
+487465,2022,38.0,Wolverhampton Wanderers Football Club,543,Pedro Neto,Attack,22.4
+537598,2022,30.0,Arsenal Football Club,11,Fábio Vieira,Midfield,22.2
+495666,2022,40.0,Arsenal Football Club,11,William Saliba,Defender,21.4
+503680,2022,15.0,Nottingham Forest Football Club,703,Neco Williams,Defender,21.3
+503733,2022,40.0,Everton Football Club,29,Anthony Gordon,Attack,21.4
+503980,2022,8.0,Leeds United Association Football Club,399,Joe Gelhardt,Attack,20.2
+504849,2022,3.0,Brighton and Hove Albion Football Club,1237,Kaoru Mitoma,Attack,25.2
+505219,2022,11.0,Everton Football Club,29,James Garner,Midfield,21.4
+506189,2022,8.0,West Ham United Football Club,379,Flynn Downes,Midfield,23.5
+369567,2022,22.0,Wolverhampton Wanderers Football Club,543,Sasa Kalajdzic,Attack,25.1
+520624,2022,50.0,Newcastle United Football Club,762,Bruno Guimarães,Midfield,24.7
+525247,2022,20.0,Wolverhampton Wanderers Football Club,543,Maximilian Kilman,Defender,25.2
+525287,2022,6.0,Fulham Football Club,931,Carlos Vinícius,Attack,27.4
+532178,2022,3.0,Leeds United Association Football Club,399,Sam Greenwood,Midfield,20.5
+534033,2022,25.0,Brighton and Hove Albion Football Club,1237,Alexis Mac Allister,Midfield,23.6
+536507,2022,8.0,Nottingham Forest Football Club,703,Giulian Biancone,Defender,22.3
+537382,2022,12.0,Tottenham Hotspur Football Club,148,Bryan Gil,Attack,21.5
+406638,2022,15.0,Tottenham Hotspur Football Club,148,Oliver Skipp,Midfield,21.9
+355915,2022,55.0,Tottenham Hotspur Football Club,148,Cristian Romero,Defender,24.3
+357147,2022,28.0,Manchester United Football Club,985,Diogo Dalot,Defender,23.4
+357885,2022,25.0,West Ham United Football Club,379,Pablo Fornals,Midfield,26.4
+361093,2022,35.0,Newcastle United Football Club,762,Sven Botman,Defender,22.6
+361914,2022,25.0,West Ham United Football Club,379,Nayef Aguerd,Defender,26.3
+363205,2022,65.0,Arsenal Football Club,11,Gabriel Jesus,Attack,25.3
+366930,2022,13.0,Manchester City Football Club,281,Sergio Gómez,Defender,21.9
+680806,2022,7.0,Southampton FC,180,Samuel Edozie,Attack,19.5
+571743,2022,25.0,Chelsea Football Club,631,Armando Broja,Attack,20.9
+576024,2022,28.0,Manchester City Football Club,281,Julián Alvarez,Attack,22.5
+578391,2022,22.0,Wolverhampton Wanderers Football Club,543,Rayan Aït-Nouri,Defender,21.2
+578539,2022,12.0,Crystal Palace Football Club,873,Chris Richards,Defender,22.3
+583189,2022,25.0,Manchester United Football Club,985,Anthony Elanga,Attack,20.3
+601883,2022,45.0,Wolverhampton Wanderers Football Club,543,Matheus Nunes,Defender,23.9
+602105,2022,75.0,Manchester United Football Club,985,Antony,Attack,22.4
+92738,2022,2.0,Leeds United Association Football Club,399,Mateusz Klich,Midfield,32.1
+628451,2022,25.0,Southampton FC,180,Roméo Lavia,Midfield,18.6
+644401,2022,17.0,Brentford Football Club,1148,Keane Lewis-Potter,Midfield,21.4
+646738,2022,5.0,Southampton FC,180,Juan Larios,Defender,18.6
+648046,2022,1.0,Brighton and Hove Albion Football Club,1237,Evan Ferguson,Attack,17.8
+649020,2022,4.0,Wolverhampton Wanderers Football Club,543,Boubacar Traoré,Midfield,20.9
+659459,2022,15.0,Chelsea Football Club,631,Carney Chukwuemeka,Midfield,18.8
+663264,2022,3.0,Leeds United Association Football Club,399,Darko Gyabi,Midfield,18.5
+479999,2022,25.0,Crystal Palace Football Club,873,Eberechi Eze,Midfield,24.1
+687626,2022,25.0,Brighton and Hove Albion Football Club,1237,Moisés Caicedo,Midfield,20.7
+811779,2022,4.0,Manchester United Football Club,985,Alejandro Garnacho,Attack,18.1
+429014,2022,25.0,Nottingham Forest Football Club,703,Morgan Gibbs-White,Midfield,22.5
+292808,2022,15.0,Leicester City,1003,Wout Faes,Defender,24.3
+246291,2022,16.0,Leeds United Association Football Club,399,Diego Llorente,Defender,29.0
+246968,2022,8.0,Leicester City,1003,Ayoze Pérez,Attack,29.0
+249565,2022,45.0,Leicester City,1003,Youri Tielemans,Midfield,25.2
+488362,2022,30.0,Chelsea Football Club,631,Conor Gallagher,Midfield,22.5
+470607,2022,20.0,Nottingham Forest Football Club,703,Brennan Johnson,Attack,21.2
+474701,2022,3.0,Leeds United Association Football Club,399,Crysencio Summerville,Attack,20.8
+475188,2022,15.0,Leicester City,1003,Kiernan Dewsbury-Hall,Midfield,23.9
+475411,2022,65.0,Chelsea Football Club,631,Wesley Fofana,Defender,21.6
+476344,2022,30.0,Tottenham Hotspur Football Club,148,Emerson Royal,Defender,23.5
+476352,2022,25.0,Nottingham Forest Football Club,703,Renan Lodi,Defender,24.3
+477758,2022,18.0,Manchester United Football Club,985,Aaron Wan-Bissaka,Defender,24.7
+251664,2022,40.0,Brentford Football Club,1148,Ivan Toney,Attack,26.4
+255906,2022,7.0,Nottingham Forest Football Club,703,Scott McKenna,Defender,25.7
+256178,2022,25.0,Liverpool Football Club,31,Joe Gomez,Defender,25.2
+258878,2022,18.0,Fulham Football Club,931,Tosin Adarabioyo,Defender,24.9
+258919,2022,22.0,Nottingham Forest Football Club,703,Dean Henderson,Goalkeeper,25.4
+67420,2022,3.0,Leeds United Association Football Club,399,Luke Ayling,Defender,30.9
+67063,2022,6.0,Brighton and Hove Albion Football Club,1237,Danny Welbeck,Attack,31.7
+61842,2022,3.0,Everton Football Club,29,Andros Townsend,Attack,31.0
+61644,2022,0.8,Nottingham Forest Football Club,703,Jack Colback,Midfield,32.8
+183334,2022,14.0,Leeds United Association Football Club,399,Patrick Bamford,Attack,28.9
+568177,2022,10.0,Manchester City Football Club,281,Cole Palmer,Midfield,20.2
+614258,2022,10.0,Brighton and Hove Albion Football Club,1237,Levi Colwill,Defender,19.4
+543387,2022,22.0,Crystal Palace Football Club,873,Cheick Doucouré,Midfield,22.6
+546543,2022,70.0,Liverpool Football Club,31,Darwin Núñez,Attack,23.1
+557612,2022,12.0,Southampton FC,180,Sékou Mara,Attack,20.0
+559263,2022,15.0,Liverpool Football Club,31,Fábio Carvalho,Midfield,19.9
+560694,2022,8.0,Nottingham Forest Football Club,703,Lewis O'Brien,Midfield,23.8
+565822,2022,35.0,Liverpool Football Club,31,Harvey Elliott,Midfield,19.3
+567576,2022,1.5,Newcastle United Football Club,762,Elliot Anderson,Midfield,19.7
+123275,2022,3.0,Fulham Football Club,931,Tom Cairney,Midfield,31.5
+74300,2022,3.0,Crystal Palace Football Club,873,Luka Milivojevic,Midfield,31.3
+77100,2022,15.0,Tottenham Hotspur Football Club,148,Lucas Moura,Attack,30.0
+82873,2022,8.0,Brighton and Hove Albion Football Club,1237,Pascal Groß,Midfield,31.1
+85177,2022,3.5,Crystal Palace Football Club,873,Nathaniel Clyne,Defender,31.3
+90836,2022,3.0,Nottingham Forest Football Club,703,Steve Cook,Defender,31.3
+135343,2022,9.0,Newcastle United Football Club,762,Fabian Schär,Defender,30.6
+95976,2022,2.0,Southampton FC,180,Alex McCarthy,Goalkeeper,32.7
+99331,2022,9.0,Leicester City,1003,Jannik Vestergaard,Defender,30.0
+110864,2022,8.0,Crystal Palace Football Club,873,Sam Johnstone,Goalkeeper,29.4
+111422,2022,4.0,Fulham Football Club,931,Neeskens Kebano,Attack,30.4
+111455,2022,25.0,Arsenal Football Club,11,Granit Xhaka,Midfield,29.8
+118534,2022,16.0,Everton Football Club,29,Michael Keane,Defender,29.6
+119269,2022,4.0,Fulham Football Club,931,Shane Duffy,Defender,30.6
+126422,2022,10.0,Everton Football Club,29,Allan,Midfield,31.6
+126665,2022,10.0,Everton Football Club,29,Idrissa Gueye,Midfield,32.8
+127032,2022,8.0,Nottingham Forest Football Club,703,Serge Aurier,Defender,29.6
+127187,2022,18.0,Everton Football Club,29,Abdoulaye Doucouré,Midfield,29.6
+128901,2022,18.0,Everton Football Club,29,Conor Coady,Defender,29.4
+129588,2022,11.0,Leicester City,1003,Dennis Praet,Midfield,28.2
+130164,2022,28.0,Everton Football Club,29,Jordan Pickford,Goalkeeper,28.4
+16306,2022,50.0,Manchester United Football Club,985,Casemiro,Midfield,30.4
+378710,2022,50.0,Tottenham Hotspur Football Club,148,Richarlison,Attack,25.2
+388165,2022,15.0,Brentford Football Club,1148,Yoane Wissa,Attack,25.9
+392775,2022,22.0,Tottenham Hotspur Football Club,148,Ryan Sessegnon,Defender,22.2
+393323,2022,30.0,Leeds United Association Football Club,399,Brenden Aaronson,Midfield,21.8
+398402,2022,2.5,Nottingham Forest Football Club,703,Sam Surridge,Attack,24.0
+399434,2022,10.0,Association Football Club Bournemouth,989,Marcus Tavernier,Midfield,23.4
+403151,2022,25.0,Brighton and Hove Albion Football Club,1237,Robert Sánchez,Goalkeeper,24.7
+469050,2022,22.0,Wolverhampton Wanderers Football Club,543,Nathan Collins,Defender,21.3
+410708,2022,18.0,Leeds United Association Football Club,399,Pascal Struijk,Defender,23.0
+413039,2022,25.0,Brentford Football Club,1148,Bryan Mbeumo,Attack,23.0
+415970,2022,10.0,Nottingham Forest Football Club,703,Joe Worrall,Defender,25.6
+417346,2022,28.0,Leeds United Association Football Club,399,Jack Harrison,Attack,25.7
+419025,2022,0.9,West Ham United Football Club,379,Conor Coventry,Midfield,22.4
+424015,2022,14.0,Everton Football Club,29,Nathan Patterson,Defender,20.8
+425902,2022,8.0,Nottingham Forest Football Club,703,Ryan Yates,Midfield,24.7
+431755,2022,50.0,Tottenham Hotspur Football Club,148,Dejan Kulusevski,Midfield,22.3
+433177,2022,70.0,Arsenal Football Club,11,Bukayo Saka,Attack,20.9
+433188,2022,25.0,Liverpool Football Club,31,Curtis Jones,Midfield,21.5
+444523,2022,45.0,West Ham United Football Club,379,Lucas Paquetá,Midfield,24.9
+447661,2022,35.0,Aston Villa Football Club,405,Douglas Luiz,Midfield,24.2
+467563,2022,16.0,Southampton FC,180,Armel Bella-Kotchap,Defender,20.6
+468198,2022,15.0,Southampton FC,180,Joe Aribo,Midfield,26.0
+51152,2022,25.0,Fulham Football Club,931,Aleksandar Mitrović,Attack,27.9
+203026,2022,8.0,Leicester City,1003,Danny Ward,Goalkeeper,29.1
+68390,2022,1.8,Everton Football Club,29,Séamus Coleman,Defender,33.8
+69633,2022,22.0,Manchester United Football Club,985,Christian Eriksen,Midfield,30.5
+401604,2022,2.0,Brighton and Hove Albion Football Club,1237,Michal Karbownik,Defender,21.4
+476367,2022,0.075,West Ham United Football Club,379,Bernardo Rosa,Midfield,21.9
+209781,2022,0.5,Everton Football Club,29,Oumar Niasse,Attack,32.3
+19368,2022,0.4,Tottenham Hotspur Football Club,148,Mousa Dembélé,Midfield,35.0
+45882,2022,0.3,Fulham Football Club,931,Fabri,Goalkeeper,34.6
+67252,2022,0.7,Leicester City,1003,Ryan Bennett,Defender,32.4
+92381,2022,0.4,Newcastle United Football Club,762,Sammy Ameobi,Attack,30.3
+128912,2022,0.3,Liverpool Football Club,31,Andre Wisdom,Defender,29.2
+73491,2022,0.7,Chelsea Football Club,631,Danny Drinkwater,Midfield,32.4
+157490,2022,1.7,Fulham Football Club,931,Michael Hector,Defender,30.0
+245805,2022,0.8,Chelsea Football Club,631,Izzy Brown,Attack,25.6
+283655,2022,0.3,Tottenham Hotspur Football Club,148,Grant Ward,Midfield,27.7
+73472,2022,0.35,Manchester United Football Club,985,Ben Amos,Goalkeeper,32.3
+48066,2022,0.4,Newcastle United Football Club,762,Andy Carroll,Attack,33.6
+62008,2022,1.0,Fulham Football Club,931,Stefan Johansen,Midfield,31.6
+62052,2022,0.4,Newcastle United Football Club,762,Shane Ferguson,Midfield,31.1
+73522,2022,0.9,Leicester City,1003,Matty James,Midfield,31.0
+249873,2022,2.0,Brentford Football Club,1148,Tariqe Fosu,Attack,26.7
+258884,2022,2.0,Everton Football Club,29,Ryan Ledson,Midfield,25.0
+287247,2022,3.0,Arsenal Football Club,11,Krystian Bielik,Midfield,24.6
+287528,2022,0.4,Association Football Club Bournemouth,989,Connor Mahoney,Attack,25.5
+340307,2022,0.15,Arsenal Football Club,11,Tolaji Bola,Defender,23.6
+342050,2022,0.6,Chelsea Football Club,631,Nathan Baxter,Goalkeeper,23.7
+344015,2022,1.0,Liverpool Football Club,31,Ben Woodburn,Midfield,22.8
+345961,2022,0.15,West Ham United Football Club,379,Djair Parfitt-Williams,Attack,25.8
+351597,2022,0.9,Everton Football Club,29,Shayne Lavery,Attack,23.6
+353674,2022,0.4,Crystal Palace Football Club,873,Keshi Anderson,Attack,27.3
+37304,2022,0.3,Southampton FC,180,Shane Long,Attack,35.5
+433180,2022,0.3,Liverpool Football Club,31,Elijah Dixon-Bonner,Midfield,21.6
+480191,2022,0.4,Arsenal Football Club,11,Cohen Bramall,Defender,26.3
+502065,2022,1.0,West Ham United Football Club,379,Aji Alese,Defender,21.5
+531679,2022,5.0,Manchester United Football Club,985,Ethan Laird,Defender,21.0
+484551,2022,0.4,Brighton and Hove Albion Football Club,1237,Taylor Richards,Midfield,21.7
+534700,2022,2.5,Leeds United Association Football Club,399,Jamie Shackleton,Midfield,22.8
+559801,2022,0.2,Leeds United Association Football Club,399,Niall Huggins,Defender,21.6
+581674,2022,3.5,Arsenal Football Club,11,Charlie Patino,Midfield,18.8
+183283,2022,0.3,Wolverhampton Wanderers Football Club,543,Jordan Graham,Attack,27.4
+191320,2022,0.9,West Ham United Football Club,379,Sean Maguire,Attack,28.3
+197693,2022,4.5,Chelsea Football Club,631,John Swift,Midfield,27.1
+198589,2022,3.0,Chelsea Football Club,631,Lewis Baker,Midfield,27.3
+110861,2022,0.8,Aston Villa Football Club,405,Gary Gardner,Midfield,30.1
+110860,2022,0.3,Everton Football Club,29,Luke Garbutt,Defender,29.2
+158623,2022,1.2,Fulham Football Club,931,Cyrus Christie,Defender,29.8
+404584,2022,3.0,Brentford Football Club,1148,Marcus Forss,Attack,23.1
+293784,2022,0.3,Liverpool Football Club,31,Conor Masterson,Defender,23.9
+298240,2022,0.4,Leicester City,1003,George Thomas,Midfield,25.4
+308632,2022,1.2,Everton Football Club,29,Callum Connolly,Midfield,24.9
+314341,2022,6.0,Arsenal Football Club,11,Chris Willock,Attack,24.5
+316551,2022,2.5,Chelsea Football Club,631,Jake Clarke-Salter,Defender,24.9
+322089,2022,0.05,Wolverhampton Wanderers Football Club,543,Benny Ashley-Seal,Attack,23.7
+227183,2022,3.5,Southampton FC,180,Sam Gallagher,Attack,26.9
+314284,2022,0.1,Leicester City,1003,Layton Ndukwu,Midfield,23.9
+51540,2022,0.6,Newcastle United Football Club,762,Henri Saivet,Midfield,31.8
+465294,2022,0.9,Southampton FC,180,Allan Tchaptchet,Defender,20.6
+194460,2022,3.0,Fulham Football Club,931,Joe Bryan,Defender,28.9
+45494,2022,0.5,Nottingham Forest Football Club,703,Wayne Hennessey,Goalkeeper,35.5
+52570,2022,1.5,Tottenham Hotspur Football Club,148,Fraser Forster,Goalkeeper,34.4
+52769,2022,3.0,Fulham Football Club,931,Willian,Attack,34.0
+53622,2022,25.0,Manchester City Football Club,281,İlkay Gündoğan,Midfield,31.8
+55742,2022,0.6,Nottingham Forest Football Club,703,Harry Arter,Midfield,32.6
+57500,2022,8.0,Chelsea Football Club,631,César Azpilicueta,Defender,32.9
+58864,2022,12.0,Chelsea Football Club,631,Pierre-Emerick Aubameyang,Attack,33.1
+59377,2022,15.0,Manchester United Football Club,985,David de Gea,Goalkeeper,31.7
+60444,2022,18.0,Liverpool Football Club,31,Thiago Alcántara,Midfield,31.3
+61560,2022,2.0,Leicester City,1003,Marc Albrighton,Midfield,32.7
+61592,2022,1.0,Crystal Palace Football Club,873,James Tomkins,Defender,33.3
+61651,2022,15.0,Liverpool Football Club,31,Jordan Henderson,Midfield,32.1
+61841,2022,1.5,Association Football Club Bournemouth,989,Adam Smith,Defender,31.3
+64399,2022,1.5,Crystal Palace Football Club,873,Vicente Guaita,Goalkeeper,35.6
+19948,2022,0.2,Southampton FC,180,Willy Caballero,Goalkeeper,40.8
+17965,2022,7.0,Tottenham Hotspur Football Club,148,Hugo Lloris,Goalkeeper,35.6
+14555,2022,0.25,Manchester City Football Club,281,Scott Carson,Goalkeeper,36.9
+14086,2022,1.0,Aston Villa Football Club,405,Ashley Young,Defender,37.1
+71271,2022,1.0,Liverpool Football Club,31,Adrián San Miguel,Goalkeeper,35.6
+33873,2022,1.0,Everton Football Club,29,Asmir Begovic,Goalkeeper,35.1
+105470,2022,50.0,Liverpool Football Club,31,Alisson,Goalkeeper,29.8
+73564,2022,0.6,Brighton and Hove Albion Football Club,1237,Jason Steele,Goalkeeper,32.0
+3333,2022,2.0,Liverpool Football Club,31,James Milner,Midfield,36.6
+2857,2022,0.2,Everton Football Club,29,Eldin Jakupovic,Goalkeeper,37.8
+29364,2022,2.0,Wolverhampton Wanderers Football Club,543,João Moutinho,Midfield,35.9
+29241,2022,2.5,Chelsea Football Club,631,Thiago Silva,Defender,37.9
+111819,2022,2.5,Association Football Club Bournemouth,989,Neto,Goalkeeper,33.0
+111873,2022,25.0,Aston Villa Football Club,405,Emiliano Martínez,Goalkeeper,29.9
+112988,2022,4.0,Arsenal Football Club,11,Cédric Soares,Defender,30.9
+116648,2022,2.0,Chelsea Football Club,631,Marcus Bettinelli,Goalkeeper,30.2
+117996,2022,2.0,Manchester United Football Club,985,Phil Jones,Defender,30.4
+120629,2022,8.0,West Ham United Football Club,379,Alphonse Areola,Goalkeeper,29.4
+121257,2022,1.8,Leeds United Association Football Club,399,Adam Forshaw,Midfield,30.8
+121477,2022,2.5,West Ham United Football Club,379,Craig Dawson,Defender,32.2
+123682,2022,18.0,Newcastle United Football Club,762,Callum Wilson,Attack,30.4
+125314,2022,5.0,Brentford Football Club,1148,Pontus Jansson,Defender,31.5
+126664,2022,22.0,Aston Villa Football Club,405,Lucas Digne,Defender,29.0
+126710,2022,5.0,Fulham Football Club,931,Layvin Kurzawa,Defender,29.9
+128899,2022,1.5,Crystal Palace Football Club,873,Jack Butland,Goalkeeper,29.4
+128900,2022,2.5,Fulham Football Club,931,Nathaniel Chalobah,Midfield,27.6
+131505,2022,9.0,Leeds United Association Football Club,399,Rodrigo,Attack,31.4
+132098,2022,90.0,Tottenham Hotspur Football Club,148,Harry Kane,Attack,29.0
+134270,2022,12.0,Newcastle United Football Club,762,Dan Burn,Defender,30.2
+134294,2022,16.0,Aston Villa Football Club,405,Danny Ings,Attack,30.0
+134425,2022,70.0,Chelsea Football Club,631,Raheem Sterling,Attack,27.6
+135853,2022,10.0,West Ham United Football Club,379,Manuel Lanzini,Midfield,29.5
+139208,2022,50.0,Liverpool Football Club,31,Virgil van Dijk,Defender,31.1
+140191,2022,2.0,Association Football Club Bournemouth,989,Ryan Fredericks,Defender,29.8
+141660,2022,14.0,Nottingham Forest Football Club,703,Jesse Lingard,Midfield,29.6
+142310,2022,4.0,Nottingham Forest Football Club,703,Willy Boly,Defender,31.5
+142389,2022,0.3,Newcastle United Football Club,762,Mark Gillespie,Goalkeeper,30.3
+145988,2022,32.0,Crystal Palace Football Club,873,Wilfried Zaha,Attack,29.7
+146795,2022,10.0,Newcastle United Football Club,762,Ryan Fraser,Attack,28.4
+148153,2022,18.0,Brighton and Hove Albion Football Club,1237,Lewis Dunk,Defender,30.7
+148367,2022,14.0,Brentford Football Club,1148,Christian Nørgaard,Midfield,28.4
+148455,2022,80.0,Liverpool Football Club,31,Mohamed Salah,Attack,30.1
+157506,2022,8.0,Crystal Palace Football Club,873,Jeffrey Schlupp,Midfield,29.6
+157672,2022,9.0,West Ham United Football Club,379,Vladimír Coufal,Defender,29.9
+160438,2022,9.0,Arsenal Football Club,11,Mohamed Elneny,Midfield,30.1
+162029,2022,3.0,Newcastle United Football Club,762,Javier Manquillo,Defender,28.2
+163744,2022,5.0,Association Football Club Bournemouth,989,Jack Stephens,Defender,28.5
+164770,2022,40.0,Manchester United Football Club,985,Raphaël Varane,Defender,29.3
+168157,2022,22.0,Aston Villa Football Club,405,Leander Dendoncker,Midfield,27.3
+170321,2022,1.2,Newcastle United Football Club,762,Paul Dummett,Defender,30.8
+170646,2022,4.0,Aston Villa Football Club,405,Ludwig Augustinsson,Defender,28.3
+171424,2022,30.0,Manchester City Football Club,281,Riyad Mahrez,Attack,31.4
+171679,2022,12.0,Tottenham Hotspur Football Club,148,Matt Doherty,Defender,30.5
+173504,2022,22.0,Everton Football Club,29,James Tarkowski,Defender,29.7
+175722,2022,30.0,Tottenham Hotspur Football Club,148,Eric Dier,Defender,28.5
+176553,2022,38.0,Manchester City Football Club,281,Aymeric Laporte,Defender,28.2
+177476,2022,30.0,Manchester City Football Club,281,Nathan Aké,Defender,27.4
+181579,2022,35.0,Southampton FC,180,James Ward-Prowse,Midfield,27.7
+182712,2022,70.0,Manchester City Football Club,281,João Cancelo,Defender,28.2
+182877,2022,15.0,Manchester United Football Club,985,Anthony Martial,Attack,26.7
+182904,2022,12.0,Tottenham Hotspur Football Club,148,Clément Lenglet,Defender,27.1
+183293,2022,3.5,Association Football Club Bournemouth,989,Joe Rothwell,Midfield,27.6
+183302,2022,2.5,Association Football Club Bournemouth,989,Ben Pearson,Midfield,27.6
+183318,2022,7.0,Newcastle United Football Club,762,Jamaal Lascelles,Defender,28.7
+183321,2022,7.0,Fulham Football Club,931,Kevin Mbabu,Defender,27.3
+184528,2022,4.0,Newcastle United Football Club,762,Emil Krafth,Defender,28.0
+186186,2022,7.0,Fulham Football Club,931,Bobby De Cordova-Reid,Midfield,29.5
+186644,2022,12.0,Southampton FC,180,Mohamed Elyounoussi,Attack,28.0
+188077,2022,9.0,Association Football Club Bournemouth,989,Ryan Christie,Midfield,27.4
+191614,2022,20.0,Manchester United Football Club,985,Fred,Midfield,29.4
+192279,2022,15.0,Chelsea Football Club,631,Kepa Arrizabalaga,Goalkeeper,27.8
+192765,2022,20.0,Tottenham Hotspur Football Club,148,Ben Davies,Defender,29.3
+193116,2022,30.0,Aston Villa Football Club,405,John McGinn,Midfield,27.8
+197838,2022,4.0,Leicester City,1003,Jamie Vardy,Attack,35.6
+203460,2022,70.0,Manchester City Football Club,281,Jack Grealish,Attack,26.9
+203655,2022,0.6,Nottingham Forest Football Club,703,Cafú,Midfield,29.4
+204294,2022,2.2,Brentford Football Club,1148,Saman Ghoddos,Midfield,28.9
+207014,2022,5.0,Crystal Palace Football Club,873,Will Hughes,Midfield,27.3
+212847,2022,22.0,Brighton and Hove Albion Football Club,1237,Adam Webster,Defender,27.6
+215118,2022,10.0,Aston Villa Football Club,405,Calum Chambers,Defender,27.5
+225083,2022,30.0,Chelsea Football Club,631,N'Golo Kanté,Midfield,31.3
+225161,2022,40.0,Wolverhampton Wanderers Football Club,543,Rúben Neves,Midfield,25.4
+225693,2022,55.0,Liverpool Football Club,31,Fabinho,Midfield,28.8
+226973,2022,15.0,Fulham Football Club,931,Harrison Reed,Midfield,27.5
+228948,2022,22.0,West Ham United Football Club,379,Thilo Kehrer,Defender,25.9
+230784,2022,38.0,Arsenal Football Club,11,Thomas Partey,Midfield,29.1
+232964,2022,1.8,Association Football Club Bournemouth,989,Emiliano Marcondes,Midfield,27.4
+234803,2022,55.0,Liverpool Football Club,31,Andrew Robertson,Defender,28.4
+238223,2022,45.0,Manchester City Football Club,281,Ederson,Goalkeeper,29.0
+238266,2022,14.0,Southampton FC,180,Duje Caleta-Car,Defender,25.9
+239949,2022,1.5,Association Football Club Bournemouth,989,Jamal Lowe,Attack,28.0
+240306,2022,75.0,Manchester United Football Club,985,Bruno Fernandes,Midfield,27.9
+241481,2022,4.0,Crystal Palace Football Club,873,Jaïro Riedewald,Midfield,25.9
+241641,2022,80.0,Manchester City Football Club,281,Bernardo Silva,Midfield,28.0
+243028,2022,18.0,Aston Villa Football Club,405,Jan Bednarek,Defender,26.3
+249089,2022,10.0,Association Football Club Bournemouth,989,Lewis Cook,Midfield,25.5
+249356,2022,3.0,Association Football Club Bournemouth,989,Jack Stacey,Defender,26.3
+249994,2022,18.0,Wolverhampton Wanderers Football Club,543,José Sá,Goalkeeper,29.5
+250426,2022,15.0,Southampton FC,180,Adam Armstrong,Attack,25.5
+250478,2022,15.0,Newcastle United Football Club,762,Matt Targett,Defender,26.9
+251845,2022,12.0,Brentford Football Club,1148,Sergi Canós,Attack,25.5
+253341,2022,10.0,Arsenal Football Club,11,Rob Holding,Defender,26.9
+253677,2022,25.0,Aston Villa Football Club,405,Tyrone Mings,Defender,29.4
+256977,2022,20.0,Wolverhampton Wanderers Football Club,543,Daniel Podence,Attack,26.8
+257455,2022,28.0,Fulham Football Club,931,João Palhinha,Midfield,27.1
+258004,2022,75.0,Manchester City Football Club,281,Rúben Dias,Defender,25.2
+258889,2022,18.0,Association Football Club Bournemouth,989,Dominic Solanke,Attack,24.9
+258923,2022,55.0,Manchester United Football Club,985,Marcus Rashford,Attack,24.8
+260841,2022,2.0,Leicester City,1003,Daniel Iversen,Goalkeeper,25.0
+262226,2022,28.0,Leicester City,1003,Timothy Castagne,Defender,26.7
+262749,2022,22.0,Brentford Football Club,1148,David Raya,Goalkeeper,26.9
+262980,2022,15.0,Association Football Club Bournemouth,989,Jefferson Lerma,Midfield,27.8
+270171,2022,16.0,Brentford Football Club,1148,Vitaly Janelt,Midfield,24.2
+275590,2022,4.0,Association Football Club Bournemouth,989,Kieffer Moore,Attack,30.0
+277033,2022,14.0,Association Football Club Bournemouth,989,David Brooks,Attack,25.1
+279455,2022,17.0,Fulham Football Club,931,Harry Wilson,Attack,25.4
+283628,2022,45.0,West Ham United Football Club,379,Tomáš Souček,Midfield,27.4
+284730,2022,30.0,Manchester City Football Club,281,Manuel Akanji,Defender,27.0
+285845,2022,8.0,Southampton FC,180,Ainsley Maitland-Niles,Defender,24.9
+289446,2022,18.0,Everton Football Club,29,Yerry Mina,Defender,27.9
+289592,2022,12.0,Nottingham Forest Football Club,703,Orel Mangala,Midfield,24.4
+290532,2022,22.0,West Ham United Football Club,379,Saïd Benrahma,Attack,27.0
+291200,2022,18.0,Nottingham Forest Football Club,703,Moussa Niakhaté,Defender,26.4
+292246,2022,12.0,Wolverhampton Wanderers Football Club,543,Hee-chan Hwang,Attack,26.5
+294057,2022,55.0,Leicester City,1003,James Maddison,Midfield,25.7
+295313,2022,20.0,Nottingham Forest Football Club,703,Taiwo Awoniyi,Attack,25.0
+295330,2022,17.0,Leicester City,1003,Kelechi Iheanacho,Attack,25.8
+300716,2022,30.0,Arsenal Football Club,11,Kieran Tierney,Defender,25.2
+302215,2022,20.0,Liverpool Football Club,31,Naby Keïta,Midfield,27.5
+306024,2022,30.0,Everton Football Club,29,Dominic Calvert-Lewin,Attack,25.4
+309400,2022,70.0,Chelsea Football Club,631,Kai Havertz,Attack,23.1
+314210,2022,12.0,Everton Football Club,29,Tom Davies,Midfield,24.1
+314353,2022,70.0,Liverpool Football Club,31,Trent Alexander-Arnold,Defender,23.8
+314875,2022,42.0,West Ham United Football Club,379,Jarrod Bowen,Attack,25.6
+315779,2022,38.0,Chelsea Football Club,631,Christian Pulisic,Attack,23.9
+315867,2022,30.0,West Ham United Football Club,379,Gianluca Scamacca,Attack,23.6
+315969,2022,30.0,Manchester United Football Club,985,Scott McTominay,Midfield,25.6
+316125,2022,38.0,Chelsea Football Club,631,Ben Chilwell,Defender,25.6
+318523,2022,10.0,Southampton FC,180,Romain Perraud,Defender,24.9
+319301,2022,16.0,Fulham Football Club,931,Daniel James,Attack,24.7
+320411,2022,18.0,Association Football Club Bournemouth,989,Philip Billing,Midfield,26.1
+321247,2022,28.0,Aston Villa Football Club,405,Emiliano Buendía,Midfield,25.6
+324358,2022,32.0,Aston Villa Football Club,405,Ollie Watkins,Attack,26.6
+324882,2022,5.0,Aston Villa Football Club,405,Marvelous Nakamba,Midfield,28.5
+328658,2022,16.0,Brentford Football Club,1148,Kristoffer Ajer,Defender,24.3
+328784,2022,18.0,Leeds United Association Football Club,399,Robin Koch,Defender,26.0
+332705,2022,17.0,Leeds United Association Football Club,399,Tyler Adams,Midfield,23.5
+334526,2022,20.0,Chelsea Football Club,631,Denis Zakaria,Midfield,25.7
+335721,2022,45.0,Arsenal Football Club,11,Ben White,Defender,24.8
+337787,2022,0.8,Wolverhampton Wanderers Football Club,543,Connor Ronan,Midfield,24.4
+338070,2022,18.0,Liverpool Football Club,31,Konstantinos Tsimikas,Defender,26.2
+339314,2022,6.0,Brighton and Hove Albion Football Club,1237,Deniz Undav,Attack,26.0
+339556,2022,22.0,Brentford Football Club,1148,Rico Henry,Defender,25.1
+340321,2022,9.0,Brentford Football Club,1148,Josh Dasilva,Midfield,23.8
+340324,2022,18.0,Arsenal Football Club,11,Eddie Nketiah,Attack,23.2
+340325,2022,7.0,Arsenal Football Club,11,Reiss Nelson,Attack,22.6
+340918,2022,8.0,Liverpool Football Club,31,Caoimhín Kelleher,Goalkeeper,23.7
+340950,2022,55.0,Liverpool Football Club,31,Diogo Jota,Attack,25.7
+341429,2022,25.0,Tottenham Hotspur Football Club,148,Davinson Sánchez,Defender,26.1
+342046,2022,6.0,Manchester United Football Club,985,Axel Tuanzebe,Defender,24.7
+343475,2022,18.0,Everton Football Club,29,Ben Godfrey,Defender,24.5
+344605,2022,25.0,Leicester City,1003,Boubakary Soumaré,Midfield,23.4
+346018,2022,8.0,Newcastle United Football Club,762,Jamal Lewis,Defender,24.5
+346314,2022,22.0,Chelsea Football Club,631,Trevoh Chalobah,Defender,23.1
+346478,2022,9.0,Tottenham Hotspur Football Club,148,Japhet Tanganga,Defender,23.3
+346483,2022,75.0,Chelsea Football Club,631,Mason Mount,Midfield,23.6
+348623,2022,16.0,Everton Football Club,29,Mason Holgate,Defender,25.8
+349599,2022,20.0,Brighton and Hove Albion Football Club,1237,Pervis Estupiñán,Defender,24.5
+349701,2022,10.0,Fulham Football Club,931,Antonee Robinson,Defender,25.0
+351749,2022,45.0,Manchester City Football Club,281,Kalvin Phillips,Midfield,26.7
+354017,2022,0.15,Nottingham Forest Football Club,703,Adnan Kanuric,Goalkeeper,22.0
+354352,2022,5.0,Aston Villa Football Club,405,Frédéric Guilbert,Defender,27.6
+357119,2022,35.0,Liverpool Football Club,31,Ibrahima Konaté,Defender,23.2
+357158,2022,5.0,Everton Football Club,29,Rúben Vinagre,Midfield,23.3
+357565,2022,80.0,Manchester City Football Club,281,Rodri,Midfield,26.1
+357658,2022,2.0,Association Football Club Bournemouth,989,Mark Travers,Goalkeeper,23.2
+357662,2022,80.0,West Ham United Football Club,379,Declan Rice,Midfield,23.5
+362842,2022,18.0,Liverpool Football Club,31,Arthur Melo,Midfield,26.0
+365172,2022,20.0,Leicester City,1003,Patson Daka,Attack,23.8
+369684,2022,15.0,Leeds United Association Football Club,399,Rasmus Kristensen,Defender,25.1
+371814,2022,6.0,Liverpool Football Club,31,Nathaniel Phillips,Defender,25.4
+374139,2022,12.0,Leeds United Association Football Club,399,Junior Firpo,Defender,25.9
+376856,2022,0.8,Brentford Football Club,1148,Charlie Goode,Defender,27.0
+379807,2022,4.0,Southampton FC,180,Lyanco,Defender,25.5
+381967,2022,15.0,Arsenal Football Club,11,Albert Sambi Lokonga,Midfield,22.8
+384461,2022,12.0,Brighton and Hove Albion Football Club,1237,Jakub Moder,Midfield,23.3
+387626,2022,25.0,Aston Villa Football Club,405,Leon Bailey,Attack,25.0
+391005,2022,2.2,Brentford Football Club,1148,Mads Roerslev,Defender,23.1
+392757,2022,35.0,Crystal Palace Football Club,873,Marc Guéhi,Defender,22.1
+392765,2022,38.0,Arsenal Football Club,11,Emile Smith Rowe,Midfield,22.0
+394327,2022,25.0,Aston Villa Football Club,405,Boubacar Kamara,Midfield,22.7
+396638,2022,18.0,Fulham Football Club,931,Manor Solomon,Attack,23.0
+398065,2022,32.0,Leicester City,1003,Harvey Barnes,Attack,24.6
+401173,2022,60.0,Manchester United Football Club,985,Jadon Sancho,Attack,22.4
+404842,2022,22.0,Everton Football Club,29,Vitaliy Mykolenko,Defender,23.2
+406556,2022,0.2,Brighton and Hove Albion Football Club,1237,Tom McGill,Goalkeeper,22.4
+406635,2022,110.0,Manchester City Football Club,281,Phil Foden,Midfield,22.2
+410425,2022,32.0,Tottenham Hotspur Football Club,148,Yves Bissouma,Midfield,25.9
+413032,2022,8.0,Southampton FC,180,Ibrahima Diallo,Midfield,23.4
+413220,2022,25.0,Leicester City,1003,James Justin,Defender,24.4
+413403,2022,22.0,Aston Villa Football Club,405,Ezri Konsa,Defender,24.8
+418560,2022,170.0,Manchester City Football Club,281,Erling Haaland,Attack,22.0
+418561,2022,2.0,Leeds United Association Football Club,399,Kristoffer Klaesson,Goalkeeper,21.7
+420002,2022,9.0,Crystal Palace Football Club,873,Jean-Philippe Mateta,Attack,25.1
+421637,2022,9.0,Brentford Football Club,1148,Frank Onyeka,Midfield,24.6
+423744,2022,12.0,Brighton and Hove Albion Football Club,1237,Billy Gilmour,Midfield,21.1
+424881,2022,7.0,Nottingham Forest Football Club,703,Omar Richards,Defender,24.5
+425306,2022,5.0,Arsenal Football Club,11,Matt Turner,Goalkeeper,28.1
+425334,2022,22.0,Aston Villa Football Club,405,Matty Cash,Defender,25.0
+427568,2022,30.0,Arsenal Football Club,11,Aaron Ramsdale,Goalkeeper,24.2
+428016,2022,0.3,Tottenham Hotspur Football Club,148,Brandon Austin,Goalkeeper,23.6
+434015,2022,0.2,Fulham Football Club,931,Terry Ablade,Attack,20.8
+435338,2022,40.0,Arsenal Football Club,11,Gabriel,Defender,24.6
+442248,2022,12.0,Brentford Football Club,1148,Ethan Pinnock,Defender,29.2
+442531,2022,25.0,Chelsea Football Club,631,Edouard Mendy,Goalkeeper,30.4
+448854,2022,12.0,Nottingham Forest Football Club,703,Emmanuel Dennis,Attack,24.7
+452707,2022,0.3,Nottingham Forest Football Club,703,Jordan Smith,Goalkeeper,27.6
+463610,2022,2.5,Nottingham Forest Football Club,703,Loïc Mbe Soh,Defender,21.1
+468002,2022,12.0,West Ham United Football Club,379,Ben Johnson,Defender,22.5
+469781,2022,17.0,Association Football Club Bournemouth,989,Marcos Senesi,Defender,25.2
+472423,2022,70.0,Chelsea Football Club,631,Reece James,Defender,22.6
+480987,2022,6.0,Association Football Club Bournemouth,989,Chris Mepham,Defender,24.7
+488656,2022,2.5,Association Football Club Bournemouth,989,Siriki Dembélé,Attack,25.9
+493513,2022,1.5,Arsenal Football Club,11,Karl Hein,Goalkeeper,20.3
+495033,2022,0.3,Manchester United Football Club,985,Nathan Bishop,Goalkeeper,22.8
+503749,2022,28.0,Aston Villa Football Club,405,Jacob Ramsey,Midfield,21.2
+503975,2022,0.5,Wolverhampton Wanderers Football Club,543,Joe Hodge,Midfield,19.9
+503981,2022,25.0,Southampton FC,180,Tino Livramento,Defender,19.7
+504148,2022,15.0,Brighton and Hove Albion Football Club,1237,Tariq Lamptey,Defender,21.8
+504507,2022,0.15,Everton Football Club,29,Kyle John,Defender,21.5
+505194,2022,10.0,Leicester City,1003,Luke Thomas,Defender,21.1
+507254,2022,2.0,Crystal Palace Football Club,873,Nathan Ferguson,Defender,21.8
+507700,2022,10.0,Manchester United Football Club,985,Brandon Williams,Defender,21.9
+511964,2022,0.15,Wolverhampton Wanderers Football Club,543,Jackson Smith,Goalkeeper,20.8
+512385,2022,22.0,Leeds United Association Football Club,399,Luis Sinisterra,Attack,23.1
+528894,2022,0.35,Arsenal Football Club,11,Matt Smith,Midfield,21.8
+530916,2022,0.15,Brighton and Hove Albion Football Club,1237,Jack Spong,Midfield,20.5
+531957,2022,3.0,Leeds United Association Football Club,399,Cody Drameh,Defender,20.6
+533657,2022,0.1,Leicester City,1003,Lewis Brunt,Midfield,21.7
+533662,2022,8.0,Aston Villa Football Club,405,Cameron Archer,Attack,20.6
+533916,2022,3.0,Brentford Football Club,1148,Shandon Baptiste,Midfield,24.3
+540941,2022,15.0,Brentford Football Club,1148,Mikkel Damsgaard,Midfield,22.1
+542586,2022,22.0,Leeds United Association Football Club,399,Illan Meslier,Goalkeeper,22.4
+554098,2022,0.3,West Ham United Football Club,379,Keenan Appiah-Forson,Midfield,20.8
+563963,2022,18.0,Southampton FC,180,Mohammed Salisu,Defender,23.3
+565817,2022,0.25,Fulham Football Club,931,Connor McAvoy,Defender,20.5
+566723,2022,22.0,Crystal Palace Football Club,873,Michael Olise,Attack,20.6
+568005,2022,3.0,Brighton and Hove Albion Football Club,1237,Jeremy Sarmiento,Attack,20.1
+568007,2022,0.3,Manchester City Football Club,281,Ben Knight,Attack,20.1
+568693,2022,15.0,Tottenham Hotspur Football Club,148,Pape Matar Sarr,Midfield,19.9
+576314,2022,5.0,Brighton and Hove Albion Football Club,1237,Jan Paul van Hecke,Defender,22.1
+580030,2022,0.2,Brighton and Hove Albion Football Club,1237,James Furlong,Defender,20.2
+582078,2022,0.2,Association Football Club Bournemouth,989,Will Dennis,Goalkeeper,22.1
+584769,2022,18.0,Everton Football Club,29,Dwight McNeil,Attack,22.7
+591949,2022,18.0,Brentford Football Club,1148,Aaron Hickey,Defender,20.1
+606718,2022,2.5,Wolverhampton Wanderers Football Club,543,Toti,Defender,23.5
+610706,2022,0.25,West Ham United Football Club,379,Jamal Baptiste,Defender,18.7
+610786,2022,0.25,Fulham Football Club,931,Ollie O'Neill,Attack,19.6
+610789,2022,0.15,Fulham Football Club,931,Luciano D'Auria-Henry,Defender,19.7
+611793,2022,1.0,Association Football Club Bournemouth,989,James Hill,Defender,20.6
+614261,2022,0.15,Southampton FC,180,Diamond Edwards,Midfield,18.9
+614262,2022,0.2,Manchester United Football Club,985,Charlie McNeill,Attack,18.9
+614603,2022,0.5,Wolverhampton Wanderers Football Club,543,Chem Campbell,Midfield,19.6
+627626,2022,10.0,Leeds United Association Football Club,399,Wilfried Gnonto,Attack,18.7
+633530,2022,4.0,Association Football Club Bournemouth,989,Jordan Zemura,Defender,22.7
+646209,2022,0.15,Nottingham Forest Football Club,703,Alex Gibson-Hammond,Midfield,19.7
+646214,2022,0.25,Nottingham Forest Football Club,703,Oliver Hammond,Midfield,19.7
+655488,2022,60.0,Arsenal Football Club,11,Gabriel Martinelli,Attack,21.1
+657724,2022,0.15,Fulham Football Club,931,Stefan Parkes,Defender,18.3
+660867,2022,11.0,Brighton and Hove Albion Football Club,1237,Julio Enciso,Midfield,18.5
+661208,2022,0.8,Leeds United Association Football Club,399,Leo Fuhr Hjelde,Defender,18.9
+668268,2022,10.0,Arsenal Football Club,11,Marquinhos,Attack,19.3
+676318,2022,3.0,Manchester United Football Club,985,Facundo Pellistri,Attack,20.6
+684210,2022,5.0,Association Football Club Bournemouth,989,Jaidon Anthony,Attack,22.7
+695454,2022,2.5,Wolverhampton Wanderers Football Club,543,Chiquinho,Attack,22.5
+698678,2022,0.2,Wolverhampton Wanderers Football Club,543,Hugo Bueno,Defender,19.9
+701057,2022,1.0,Manchester City Football Club,281,Rico Lewis,Defender,17.7
+716276,2022,3.0,Wolverhampton Wanderers Football Club,543,Yerson Mosquera,Defender,21.2
+730581,2022,10.0,Nottingham Forest Football Club,703,Loïc Badé,Defender,22.3
+730893,2022,28.0,Crystal Palace Football Club,873,Tyrick Mitchell,Defender,22.9
+732529,2022,0.1,Brentford Football Club,1148,Tristan Crama,Defender,20.7
+733434,2022,0.1,Association Football Club Bournemouth,989,Jack Wadham,Missing,19.4
+744131,2022,0.2,Southampton FC,180,Lewis Payne,Defender,18.2
+746078,2022,0.15,Nottingham Forest Football Club,703,Billy Fewster,Midfield,19.0
+801005,2022,0.15,Everton Football Club,29,Stanley Mills,Attack,18.8
+807318,2022,0.15,Southampton FC,180,Ryan Finnigan,Midfield,18.9
+814524,2022,0.1,Leicester City,1003,Joe Wormleighton,Defender,18.6
+840640,2022,0.25,Leicester City,1003,Sammy Braybrooke,Midfield,18.4
+845717,2022,0.15,West Ham United Football Club,379,Regan Clayton,Defender,17.7
+854708,2022,0.1,Association Football Club Bournemouth,989,Ferdinand Okoh,Midfield,18.2
+855087,2022,0.1,Association Football Club Bournemouth,989,Chris Francis,Defender,19.7
+864496,2022,0.3,Southampton FC,180,Dom Ballard,Attack,17.3
+864799,2022,1.0,Liverpool Football Club,31,Stefan Bajcetic,Midfield,17.8
+921992,2022,0.15,Fulham Football Club,931,Charlie Robinson,Defender,17.9
+130765,2022,6.0,Southampton FC,180,Stuart Armstrong,Midfield,30.3
+43530,2022,1.5,Brighton and Hove Albion Football Club,1237,Adam Lallana,Midfield,34.2
+42460,2022,10.0,Tottenham Hotspur Football Club,148,Ivan Perišić,Attack,33.5
+74810,2022,1.8,Brentford Football Club,1148,Ben Mee,Defender,32.9
+74960,2022,4.0,Manchester United Football Club,985,Martin Dúbravka,Goalkeeper,33.5
+75067,2022,5.0,Leeds United Association Football Club,399,Liam Cooper,Defender,30.9
+75458,2022,2.0,Aston Villa Football Club,405,Robin Olsen,Goalkeeper,32.6
+95810,2022,13.0,Newcastle United Football Club,762,Kieran Trippier,Defender,31.9
+99397,2022,1.8,Newcastle United Football Club,762,Karl Darlow,Goalkeeper,31.8
+101118,2022,1.2,Leeds United Association Football Club,399,Joel Robles,Goalkeeper,32.1
+44779,2022,3.5,Wolverhampton Wanderers Football Club,543,Diego Costa,Attack,33.8
+108354,2022,6.0,Crystal Palace Football Club,873,Jordan Ayew,Attack,30.9
+108725,2022,10.0,Newcastle United Football Club,762,Chris Wood,Attack,30.7
+110867,2022,0.6,Aston Villa Football Club,405,Jed Steer,Goalkeeper,29.9
+111051,2022,3.5,Leicester City,1003,Nampalys Mendy,Midfield,30.1
+111195,2022,10.0,Brighton and Hove Albion Football Club,1237,Joël Veltman,Defender,30.5
+34130,2022,0.6,Manchester United Football Club,985,Tom Heaton,Goalkeeper,36.3
+48002,2022,1.0,West Ham United Football Club,379,Angelo Ogbonna,Defender,34.2
+51321,2022,0.5,West Ham United Football Club,379,Darren Randolph,Goalkeeper,35.2
+51471,2022,40.0,Chelsea Football Club,631,Mateo Kovacic,Midfield,28.2
+29692,2022,1.0,West Ham United Football Club,379,Lukasz Fabianski,Goalkeeper,37.3
+33713,2022,1.8,Southampton FC,180,Theo Walcott,Attack,33.4
+33754,2022,0.6,Leicester City,1003,Alex Smithies,Goalkeeper,32.4
+95424,2022,15.0,Manchester City Football Club,281,Kyle Walker,Defender,32.2
+80444,2022,18.0,Aston Villa Football Club,405,Philippe Coutinho,Midfield,30.1
+82105,2022,16.0,Liverpool Football Club,31,Joel Matip,Defender,31.0
+85864,2022,1.5,Newcastle United Football Club,762,Loris Karius,Goalkeeper,29.1
+85941,2022,6.0,Manchester City Football Club,281,Stefan Ortega,Goalkeeper,29.7
+87672,2022,0.7,Association Football Club Bournemouth,989,Junior Stanislas,Attack,32.7
+104495,2022,0.35,Nottingham Forest Football Club,703,Lyle Taylor,Attack,32.3
+91845,2022,70.0,Tottenham Hotspur Football Club,148,Heung-min Son,Attack,30.1
+92469,2022,1.8,Newcastle United Football Club,762,Matt Ritchie,Midfield,32.9
+92571,2022,2.5,West Ham United Football Club,379,Aaron Cresswell,Defender,32.6
+92572,2022,2.0,Crystal Palace Football Club,873,Joel Ward,Defender,32.8
+93128,2022,35.0,Chelsea Football Club,631,Kalidou Koulibaly,Defender,31.1
+80197,2022,2.0,Everton Football Club,29,Salomón Rondón,Attack,32.9
+66934,2022,3.0,Nottingham Forest Football Club,703,Cheikhou Kouyaté,Midfield,32.6
+102017,2022,35.0,Chelsea Football Club,631,Jorginho,Midfield,30.6
+104124,2022,9.0,West Ham United Football Club,379,Michail Antonio,Attack,32.3
+42412,2022,3.0,Leicester City,1003,Jonny Evans,Defender,34.6
+14044,2022,0.2,Everton Football Club,29,Andy Lonergan,Goalkeeper,38.8
+88755,2022,80.0,Manchester City Football Club,281,Kevin De Bruyne,Midfield,31.1
+85475,2022,1.0,Newcastle United Football Club,762,Federico Fernández,Defender,33.4
+50935,2022,2.0,West Ham United Football Club,379,Chicharito,Attack,34.2
+134416,2022,0.25,West Ham United Football Club,379,Matthias Fanimo,Attack,28.5
+166240,2022,2.0,Brighton and Hove Albion Football Club,1237,Jürgen Locadia,Attack,28.7
+88971,2022,0.7,Aston Villa Football Club,405,Jonathan Kodjia,Attack,32.8
+238988,2022,0.125,Everton Football Club,29,Leandro Rodríguez,Attack,29.7
+170322,2022,0.4,Crystal Palace Football Club,873,Jonathan Williams,Midfield,28.8
+540630,2022,0.05,Liverpool Football Club,31,Jakub Ojrzynski,Goalkeeper,19.4
+67431,2022,0.2,Wolverhampton Wanderers Football Club,543,Michal Zyro,Attack,29.9
+222830,2022,0.8,Chelsea Football Club,631,Danilo Pantic,Midfield,25.8
+81793,2022,0.175,Southampton FC,180,Tadanari Lee,Attack,36.6
+242603,2022,0.025,West Ham United Football Club,379,Jordan Brown,Attack,25.7
+242646,2022,0.15,West Ham United Football Club,379,Nathan Mavila,Defender,26.8
+57488,2022,0.125,Aston Villa Football Club,405,Simon Dawkins,Attack,34.7
+258888,2022,0.1,Chelsea Football Club,631,Kyle Scott,Midfield,24.6
+273773,2022,0.075,Crystal Palace Football Club,873,Jonathan Benteke,Attack,27.3
+339795,2022,0.05,Southampton FC,180,Marcus Barnes,Attack,25.7
+357397,2022,0.3,Tottenham Hotspur Football Club,148,Kazaiah Sterling,Attack,23.7
+35413,2022,0.5,Association Football Club Bournemouth,989,Lewis Grabban,Attack,34.6
+86643,2022,0.275,Arsenal Football Club,11,Thomas Eisfeld,Midfield,29.5
+51226,2022,0.3,West Ham United Football Club,379,Carlos Sánchez,Midfield,36.5
+433182,2022,0.15,Liverpool Football Club,31,Luis Longstaff,Attack,21.4
+634706,2022,0.05,Crystal Palace Football Club,873,David Boateng,Defender,21.2
+63824,2022,0.35,Aston Villa Football Club,405,Libor Kozak,Attack,33.2
+10375,2022,0.075,Association Football Club Bournemouth,989,Shaun MacDonald,Midfield,34.1
+339789,2022,0.1,West Ham United Football Club,379,Josh Pask,Defender,24.7
+486100,2022,0.075,Aston Villa Football Club,405,Jake Walker,Midfield,21.7
+88709,2022,0.175,Manchester City Football Club,281,Luca Scapuzzi,Attack,31.3
+112668,2022,0.25,Brighton and Hove Albion Football Club,1237,Tomer Hemed,Attack,35.2
+44741,2022,0.3,Brighton and Hove Albion Football Club,1237,Beram Kayal,Midfield,34.2
+434207,2022,5.0,Brighton and Hove Albion Football Club,1237,Aaron Connolly,Attack,22.5
+395239,2022,1.3,Manchester City Football Club,281,Claudio Gomes,Midfield,22.0
+177892,2022,0.275,Aston Villa Football Club,405,Graham Burke,Attack,28.9
+114116,2022,0.2,Brighton and Hove Albion Football Club,1237,Richie Towell,Midfield,31.0
+404386,2022,0.3,Arsenal Football Club,11,Robbie Burton,Midfield,22.6
+423571,2022,0.075,West Ham United Football Club,379,Alfie Lewis,Midfield,22.8
+30982,2022,0.175,Arsenal Football Club,11,Chu-young Park,Attack,37.1
+133858,2022,0.35,Wolverhampton Wanderers Football Club,543,Phil Ofosu-Ayeh,Defender,30.9
+372670,2022,0.2,Liverpool Football Club,31,Paulinho,Midfield,24.6
+70950,2022,0.2,Newcastle United Football Club,762,Mohamed Diamé,Midfield,35.1
+265132,2022,0.15,Aston Villa Football Club,405,Kevin Toner,Defender,26.0
+554175,2022,0.3,Manchester City Football Club,281,Alpha Diounkou,Defender,20.8
+547533,2022,0.8,Arsenal Football Club,11,Miguel Azeez,Midfield,19.9
+43084,2022,0.15,Leeds United Association Football Club,399,Gaetano Berardi,Defender,33.9
+46220,2022,0.1,Leeds United Association Football Club,399,Pablo Hernández,Midfield,37.3
+177862,2022,0.6,Chelsea Football Club,631,Charly Musonda Jr.,Attack,25.8
+177065,2022,1.0,Brighton and Hove Albion Football Club,1237,Florin Andone,Attack,29.3
+111419,2022,0.2,Arsenal Football Club,11,Sead Hajrovic,Defender,29.2
+121990,2022,0.45,Arsenal Football Club,11,Wellington Silva,Attack,29.6
+501156,2022,0.15,Aston Villa Football Club,405,Ákos Onódi,Goalkeeper,20.9
+160348,2022,0.3,Fulham Football Club,931,Mesca,Midfield,29.2
+295073,2022,0.25,Crystal Palace Football Club,873,Kleton Perntreou,Goalkeeper,27.6
+39679,2022,2.5,Manchester United Football Club,985,Marouane Fellaini,Midfield,34.7
+743600,2022,12.0,Chelsea Football Club,631,Andrey Santos,Midfield,18.2
+143219,2022,0.125,Liverpool Football Club,31,Krisztián Adorján,Midfield,29.5
+272621,2022,0.25,Wolverhampton Wanderers Football Club,543,Sylvain Deslandes,Defender,25.3
+62054,2022,0.025,Southampton FC,180,Vegard Forren,Defender,34.5
+272855,2022,17.0,Southampton FC,180,Paul Onuachu,Attack,28.2
+517894,2022,30.0,Wolverhampton Wanderers Football Club,543,Matheus Cunha,Attack,23.2
+170934,2022,10.0,Wolverhampton Wanderers Football Club,543,Mario Lemina,Midfield,28.9
+538971,2022,10.0,Crystal Palace Football Club,873,Naouirou Ahamada,Midfield,20.3
+538977,2022,22.0,Leeds United Association Football Club,399,Georginio Rutter,Attack,20.3
+548470,2022,2.0,Manchester United Football Club,985,Teden Mengi,Defender,20.3
+484387,2022,1.5,Newcastle United Football Club,762,Matty Longstaff,Midfield,22.4
+484838,2022,0.4,Aston Villa Football Club,405,Viljami Sinisalo,Goalkeeper,20.8
+746695,2022,22.0,Southampton FC,180,Kamaldeen Sulemana,Attack,20.5
+748319,2022,12.0,Southampton FC,180,Carlos Alcaraz,Midfield,19.7
+444641,2022,0.2,Wolverhampton Wanderers Football Club,543,Louie Moulden,Goalkeeper,20.6
+823231,2022,20.0,Association Football Club Bournemouth,989,Dango Ouattara,Attack,20.5
+668547,2022,10.0,Manchester City Football Club,281,Máximo Perrone,Midfield,19.6
+355861,2022,27.0,Tottenham Hotspur Football Club,148,Arnaut Danjuma,Attack,25.5
+537860,2022,60.0,Chelsea Football Club,631,Mykhaylo Mudryk,Attack,21.6
+583255,2022,9.0,Association Football Club Bournemouth,989,Antoine Semenyo,Attack,22.6
+473050,2022,20.0,Brentford Football Club,1148,Kevin Schade,Attack,20.7
+648195,2022,85.0,Chelsea Football Club,631,Enzo Fernández,Midfield,21.5
+503987,2022,28.0,Chelsea Football Club,631,Noni Madueke,Attack,20.4
+503988,2022,0.6,Nottingham Forest Football Club,703,Alex Mighten,Attack,20.3
+564529,2022,12.0,Leicester City,1003,Victor Kristiansen,Defender,19.6
+553875,2022,35.0,Tottenham Hotspur Football Club,148,Pedro Porro,Defender,22.9
+659089,2022,18.0,Association Football Club Bournemouth,989,Ilya Zabarnyi,Defender,19.9
+649317,2022,12.0,Aston Villa Football Club,405,Jhon Durán,Attack,18.6
+820374,2022,0.8,Manchester United Football Club,985,Kobbie Mainoo,Midfield,17.3
+787232,2022,10.0,Chelsea Football Club,631,David Datro Fofana,Attack,19.6
+298091,2022,15.0,Leicester City,1003,Harry Souttar,Defender,23.8
+74230,2022,16.0,Wolverhampton Wanderers Football Club,543,Pablo Sarabia,Midfield,30.2
+425918,2022,20.0,Arsenal Football Club,11,Jakub Kiwior,Defender,22.5
+119150,2022,7.0,Southampton FC,180,Mislav Orsic,Attack,29.6
+95435,2022,0.8,Crystal Palace Football Club,873,Connor Wickham,Attack,29.3
+244040,2022,0.3,Liverpool Football Club,31,Lloyd Jones,Defender,26.8
+245585,2022,0.5,Manchester United Football Club,985,Reece James,Defender,28.7
+208244,2022,0.4,Everton Football Club,29,Brendan Galloway,Defender,26.4
+337321,2022,0.4,West Ham United Football Club,379,Nathan Holland,Attack,24.1
+703474,2022,0.2,Crystal Palace Football Club,873,Robert Street,Attack,20.8
+242434,2022,0.15,Everton Football Club,29,Courtney Duffus,Attack,26.8
+396859,2022,1.0,Chelsea Football Club,631,Jamie Cumming,Goalkeeper,22.9
+703577,2022,0.25,Southampton FC,180,Kgaogelo Chauke,Midfield,19.6
+61561,2022,0.5,Crystal Palace Football Club,873,Barry Bannan,Midfield,32.7
+179471,2022,0.55,Newcastle United Football Club,762,Curtis Good,Defender,29.4
+163532,2022,0.2,Leicester City,1003,Adam Smith,Goalkeeper,29.7
+655835,2022,0.25,Association Football Club Bournemouth,989,Christian Saydee,Attack,20.2
+655880,2022,0.35,West Ham United Football Club,379,Mipo Odubeko,Attack,19.8
+340194,2022,0.45,Manchester United Football Club,985,Regan Poole,Defender,24.1
+340320,2022,0.3,Arsenal Football Club,11,Marcus McGuane,Midfield,23.5
+67339,2022,0.15,Fulham Football Club,931,David Stockdale,Goalkeeper,36.9
+686837,2022,0.6,Manchester United Football Club,985,Charlie Savage,Midfield,19.2
+15930,2022,0.15,West Ham United Football Club,379,David Martin,Goalkeeper,36.5
+406558,2022,0.5,Fulham Football Club,931,Steven Sessegnon,Defender,22.2
+67211,2022,0.15,Brighton and Hove Albion Football Club,1237,Sam Baldock,Attack,33.4
+406559,2022,0.5,Tottenham Hotspur Football Club,148,Timothy Eyoma,Defender,22.5
+531677,2022,2.5,Manchester United Football Club,985,Di'Shon Bernard,Defender,21.8
+533523,2022,0.5,Brighton and Hove Albion Football Club,1237,Haydon Roberts,Defender,20.2
+507235,2022,0.15,Newcastle United Football Club,762,Jack Young,Midfield,21.8
+314372,2022,0.15,Leicester City,1003,Darnell Johnson,Defender,23.9
+314253,2022,0.9,Liverpool Football Club,31,Herbie Kane,Midfield,23.7
+425026,2022,0.9,Leicester City,1003,Josh Knight,Defender,24.9
+419325,2022,0.5,Everton Football Club,29,Lewis Gibson,Defender,22.0
+411495,2022,0.25,Brighton and Hove Albion Football Club,1237,Max Sanders,Midfield,23.6
+61653,2022,0.7,Aston Villa Football Club,405,Conor Hourihane,Midfield,31.5
+503976,2022,0.8,Southampton FC,180,Dynel Simeu,Defender,20.4
+502073,2022,0.35,Wolverhampton Wanderers Football Club,543,Taylor Perry,Midfield,21.0
+474382,2022,0.2,Newcastle United Football Club,762,Lewis Cass,Defender,22.4
+369171,2022,0.4,Wolverhampton Wanderers Football Club,543,Niall Ennis,Attack,23.2
+354134,2022,0.5,West Ham United Football Club,379,Joe Powell,Midfield,23.8
+279454,2022,0.25,Liverpool Football Club,31,MJ Williams,Midfield,26.7
+242412,2022,0.35,Everton Football Club,29,Gethin Jones,Defender,26.8
+341993,2022,0.5,Leicester City,1003,Elliott Moore,Defender,25.4
+227185,2022,0.35,Southampton FC,180,Jason McCarthy,Defender,26.7
+236509,2022,0.35,Tottenham Hotspur Football Club,148,Connor Ogilvie,Defender,26.5
+226965,2022,0.15,Southampton FC,180,Lloyd Isgrove,Attack,29.5
+312553,2022,0.15,Newcastle United Football Club,762,Liam Gibson,Defender,25.3
+261357,2022,0.5,Liverpool Football Club,31,Cameron Brannagan,Midfield,26.2
+293450,2022,0.2,Association Football Club Bournemouth,989,Baily Cargill,Defender,27.1
+282821,2022,0.3,Aston Villa Football Club,405,Corey Blackett-Taylor,Attack,24.9
+233998,2022,0.6,Crystal Palace Football Club,873,Freddie Ladapo,Attack,29.5
+183301,2022,0.2,Tottenham Hotspur Football Club,148,Luke McGee,Goalkeeper,26.9
+183284,2022,0.3,Crystal Palace Football Club,873,Ryan Inniss,Defender,27.2
+128898,2022,0.4,Chelsea Football Club,631,Jamal Blackman,Goalkeeper,28.8
+119553,2022,0.3,Fulham Football Club,931,Jack Grimmer,Defender,28.5
+73482,2022,0.25,Aston Villa Football Club,405,James Chester,Defender,33.5
+226964,2022,0.2,Southampton FC,180,Dominic Gape,Midfield,27.9
+220755,2022,0.5,Everton Football Club,29,Matthew Pennington,Defender,27.8
+218355,2022,0.3,Everton Football Club,29,Conor Grant,Midfield,27.3
+197791,2022,0.3,Aston Villa Football Club,405,Janoi Donacien,Defender,28.7
+126321,2022,0.45,Arsenal Football Club,11,Carl Jenkinson,Defender,30.5
+395797,2022,0.35,Leicester City,1003,Sam Hughes,Defender,25.3
+391470,2022,0.3,West Ham United Football Club,379,Marcus Browne,Midfield,24.6
+506965,2022,0.2,Arsenal Football Club,11,James Olayinka,Midfield,21.8
+562254,2022,0.2,Association Football Club Bournemouth,989,Kyle Taylor,Midfield,22.9
+581598,2022,0.6,Tottenham Hotspur Football Club,148,Harvey White,Midfield,20.9
+587003,2022,1.2,Leeds United Association Football Club,399,Lewis Bate,Midfield,19.8
+463758,2022,0.3,Wolverhampton Wanderers Football Club,543,Terry Taylor,Midfield,21.1
+614082,2022,0.35,Leeds United Association Football Club,399,Liam McCarron,Defender,21.4
+610665,2022,0.25,Southampton FC,180,Caleb Watts,Midfield,20.5
+559800,2022,0.3,Leeds United Association Football Club,399,Oliver Casey,Defender,21.6
+540687,2022,0.15,Arsenal Football Club,11,Zak Swanson,Defender,21.8
+285583,2022,0.15,Wolverhampton Wanderers Football Club,543,Harry Burgoyne,Goalkeeper,25.6
+198861,2022,0.3,Southampton FC,180,Sam Hoskins,Attack,29.5
+221687,2022,0.2,Newcastle United Football Club,762,Alex Gilliead,Attack,26.5
+392772,2022,0.3,Tottenham Hotspur Football Club,148,Marcel Lavinier,Defender,21.6
+460683,2022,0.1,Manchester United Football Club,985,Max Taylor,Defender,22.6
+251289,2022,0.2,Aston Villa Football Club,405,Jordan Lyden,Midfield,26.5
+416622,2022,0.125,Association Football Club Bournemouth,989,Jordan Green,Attack,27.4
+320913,2022,0.15,Tottenham Hotspur Football Club,148,Anthony Georgiou,Attack,25.4
+335593,2022,0.1,Brighton and Hove Albion Football Club,1237,Ben Barclay,Defender,25.8
+289844,2022,0.25,Manchester United Football Club,985,Josh Harrop,Midfield,26.6
+314237,2022,0.2,Aston Villa Football Club,405,Rushian Hepburn-Murphy,Attack,23.9
+264191,2022,0.25,Everton Football Club,29,Harry Charsley,Midfield,25.7
+314388,2022,0.25,Manchester United Football Club,985,Ro-Shaun Williams,Defender,23.9
+121223,2022,0.125,Crystal Palace Football Club,873,Kwesi Appiah,Attack,32.0
+399373,2022,0.175,Everton Football Club,29,Morgan Feeney,Defender,23.5
+250431,2022,0.125,Newcastle United Football Club,762,Jamie Sterry,Defender,26.7
+244125,2022,0.2,Crystal Palace Football Club,873,Hiram Boateng,Midfield,26.6
+425894,2022,0.175,Wolverhampton Wanderers Football Club,543,Cameron John,Defender,22.9
+242652,2022,0.125,West Ham United Football Club,379,Lewis Page,Defender,26.2
+341043,2022,0.3,Southampton FC,180,Harry Lewis,Goalkeeper,24.6
+431424,2022,0.15,Tottenham Hotspur Football Club,148,George Marsh,Midfield,23.7
+359693,2022,0.25,Brighton and Hove Albion Football Club,1237,James Tilley,Attack,24.1
+531678,2022,0.3,Manchester United Football Club,985,D'Mani Mellor,Attack,21.9
+184397,2022,0.2,Leicester City,1003,Tom Hopper,Attack,28.6
+396857,2022,0.3,West Ham United Football Club,379,Dan Kemp,Attack,23.6
+171234,2022,0.1,Southampton FC,180,Ben Reeves,Midfield,30.7
+186923,2022,0.2,Southampton FC,180,Jack Rose,Goalkeeper,27.5
+121474,2022,0.15,Manchester City Football Club,281,Emyr Huws,Midfield,28.8
+121269,2022,0.15,Leicester City,1003,Ryan Watson,Midfield,29.1
+129067,2022,0.25,Wolverhampton Wanderers Football Club,543,Ethan Ebanks-Landell,Defender,29.6
+486144,2022,0.25,Leicester City,1003,Jakub Stolarczyk,Goalkeeper,21.6
+392766,2022,0.175,Chelsea Football Club,631,George McEachran,Midfield,21.9
+387036,2022,0.125,Manchester United Football Club,985,Joe Riley,Midfield,25.7
+571827,2022,0.175,Wolverhampton Wanderers Football Club,543,Lewis Richards,Defender,20.8
+734375,2022,0.15,Leeds United Association Football Club,399,Jack Jenkins,Midfield,20.4
+742746,2022,0.2,Aston Villa Football Club,405,Caleb Chukwuemeka,Attack,20.5
+534698,2022,0.2,Leeds United Association Football Club,399,Robbie Gotts,Midfield,22.7
+503687,2022,0.1,Tottenham Hotspur Football Club,148,Tobi Omole,Defender,22.6
+94655,2022,0.175,Aston Villa Football Club,405,Jordan Bowery,Attack,31.1
+49409,2022,0.15,Newcastle United Football Club,762,James Perch,Midfield,36.8
+57207,2022,0.25,Crystal Palace Football Club,873,Jordon Mutch,Midfield,30.7
+565420,2022,0.2,Liverpool Football Club,31,Jake Cain,Midfield,20.9
+318547,2022,0.1,Everton Football Club,29,Mateusz Hewelt,Goalkeeper,25.9
+546194,2022,0.15,Liverpool Football Club,31,Tom Clayton,Defender,21.6
+581445,2022,0.15,Arsenal Football Club,11,Mazeed Ogungbo,Defender,19.8
+581670,2022,1.0,Aston Villa Football Club,405,Louie Barry,Attack,19.1
+741236,2022,0.5,Brentford Football Club,1148,Matthew Cox,Goalkeeper,19.2
+244309,2022,0.01,Crystal Palace Football Club,873,Luke Croll,Defender,27.6
+596216,2022,0.05,Brentford Football Club,1148,Max Haygarth,Attack,20.5
+233124,2022,2.2,Aston Villa Football Club,405,Kortney Hause,Defender,27.0
+221624,2022,3.5,Manchester City Football Club,281,Zack Steffen,Goalkeeper,27.3
+224884,2022,1.2,Chelsea Football Club,631,Abdul Rahman Baba,Defender,28.1
+148262,2022,1.5,Newcastle United Football Club,762,Jeff Hendrick,Midfield,30.5
+503977,2022,20.0,Manchester City Football Club,281,Taylor Harwood-Bellis,Defender,20.5
+504581,2022,9.0,Wolverhampton Wanderers Football Club,543,Ryan Giles,Defender,22.5
+506470,2022,1.8,Nottingham Forest Football Club,703,Josh Bowler,Attack,23.4
+444211,2022,3.5,Southampton FC,180,Will Smallbone,Midfield,22.4
+465606,2022,2.0,Brentford Football Club,1148,Halil Dervişoğlu,Attack,22.6
+485583,2022,3.5,Wolverhampton Wanderers Football Club,543,Ki-Jana Hoever,Defender,20.5
+389253,2022,10.0,Arsenal Football Club,11,Auston Trusty,Defender,24.0
+392763,2022,0.9,Leeds United Association Football Club,399,Ian Poveda,Attack,22.5
+392777,2022,3.0,Nottingham Forest Football Club,703,Jonathan Panzo,Defender,21.8
+412660,2022,3.0,Aston Villa Football Club,405,Keinan Davis,Attack,24.5
+340322,2022,18.0,Southampton FC,180,Nathan Tella,Attack,23.1
+341501,2022,5.0,Leicester City,1003,Hamza Choudhury,Midfield,24.8
+811778,2022,7.0,Manchester United Football Club,985,Álvaro Carreras,Defender,19.4
+735571,2022,5.0,Fulham Football Club,931,Rodrigo Muniz,Attack,21.2
+696589,2022,5.0,Aston Villa Football Club,405,Tim Iroegbunam,Midfield,19.1
+669366,2022,5.0,Everton Football Club,29,Tom Cannon,Attack,19.6
+532541,2022,3.0,Wolverhampton Wanderers Football Club,543,Luke Cundle,Midfield,20.3
+665390,2022,2.8,Aston Villa Football Club,405,Jaden Philogene,Attack,20.5
+622380,2022,12.0,Chelsea Football Club,631,Cesare Casadei,Midfield,19.6
+607224,2022,8.0,Manchester United Football Club,985,Hannibal,Midfield,19.5
+597659,2022,5.0,Leeds United Association Football Club,399,Charlie Cresswell,Defender,20.0
+536835,2022,18.0,Manchester United Football Club,985,Amad Diallo,Attack,20.1
+576121,2022,1.5,Manchester City Football Club,281,Josh Wilson-Esbrand,Defender,19.6
+36291,2022,0.15,Brighton and Hove Albion Football Club,1237,Gaëtan Bong,Defender,34.3
+42411,2022,0.15,Crystal Palace Football Club,873,Fraizer Campbell,Attack,34.9
+382555,2022,0.075,Liverpool Football Club,31,Joe Hardy,Attack,23.8
+686845,2022,1.0,Manchester United Football Club,985,Zidane Iqbal,Midfield,19.3
+79422,2022,4.0,Nottingham Forest Football Club,703,Keylor Navas,Goalkeeper,35.6
+586986,2022,1.0,Crystal Palace Football Club,873,Luke Plange,Attack,19.7
+587019,2022,0.3,Brentford Football Club,1148,Fin Stevens,Defender,19.3
+735570,2022,18.0,Wolverhampton Wanderers Football Club,543,João Gomes,Midfield,21.5
+656316,2022,9.0,Chelsea Football Club,631,Gabriel Slonina,Goalkeeper,18.2
+667287,2022,6.0,Brighton and Hove Albion Football Club,1237,Yasin Ayari,Midfield,18.8
+45403,2022,1.8,Nottingham Forest Football Club,703,André Ayew,Attack,32.6
+136401,2022,2.0,Wolverhampton Wanderers Football Club,543,Daniel Bentley,Goalkeeper,29.1
+106987,2022,20.0,Manchester United Football Club,985,Marcel Sabitzer,Midfield,28.4
+131996,2022,12.0,Aston Villa Football Club,405,Bertrand Traoré,Attack,26.9
+156501,2022,2.0,Nottingham Forest Football Club,703,Felipe,Defender,33.2
+245056,2022,12.0,Fulham Football Club,931,Saša Lukić,Midfield,26.0
+193098,2022,15.0,Aston Villa Football Club,405,Álex Moreno,Defender,29.1
+196722,2022,0.35,Crystal Palace Football Club,873,Remi Matthews,Goalkeeper,28.5
+282823,2022,0.5,Tottenham Hotspur Football Club,148,Alfie Whiteman,Goalkeeper,23.8
+228645,2022,12.0,Manchester United Football Club,985,Wout Weghorst,Attack,30.0
+263361,2022,14.0,Leeds United Association Football Club,399,Maximilian Wöber,Defender,24.5
+371256,2022,25.0,Leicester City,1003,Tetê,Attack,22.5
+324223,2022,2.0,Southampton FC,180,James Bree,Defender,24.6
+330085,2022,10.0,Nottingham Forest Football Club,703,Gustavo Scarpa,Midfield,28.6
+332697,2022,18.0,Leeds United Association Football Club,399,Weston McKennie,Midfield,23.9
+346482,2022,0.9,Southampton FC,180,Dan Nlundulu,Attack,23.5
+456292,2022,0.3,Brentford Football Club,1148,Ellery Balcombe,Goalkeeper,22.8
+462250,2022,50.0,Chelsea Football Club,631,João Félix,Attack,22.7
+463603,2022,40.0,Chelsea Football Club,631,Benoît Badiashile,Defender,21.3
+391065,2022,22.0,Association Football Club Bournemouth,989,Hamed Traoré,Attack,22.5
+503679,2022,2.0,Liverpool Football Club,31,Rhys Williams,Defender,21.5
+420808,2022,0.8,Leicester City,1003,George Hirst,Attack,23.5
+434675,2022,55.0,Liverpool Football Club,31,Cody Gakpo,Attack,23.2
+439072,2022,8.0,Association Football Club Bournemouth,989,Matías Viña,Defender,24.7
+469064,2022,0.4,Association Football Club Bournemouth,989,Gavin Kilkenny,Midfield,22.5
+484389,2022,0.3,Newcastle United Football Club,762,Kell Watts,Defender,22.7
+528888,2022,0.5,Fulham Football Club,931,Tyrese Francois,Midfield,22.0
+808509,2022,28.0,Nottingham Forest Football Club,703,Danilo,Midfield,21.3
+983989,2022,12.0,Brighton and Hove Albion Football Club,1237,Facundo Buonanotte,Midfield,17.6
+386201,2022,0.1,Brighton and Hove Albion Football Club,1237,Archie Davies,Defender,23.8
+122721,2022,0.25,Arsenal Football Club,11,Nico Yennaris,Midfield,29.2
+141655,2022,0.1,Crystal Palace Football Club,873,Zeki Fryers,Defender,29.9
+614084,2022,0.3,Wolverhampton Wanderers Football Club,543,Luke Matheson,Defender,19.8
+2857,2023,0.1,Everton Football Club,29,Eldin Jakupovic,Goalkeeper,38.8
+128287,2023,0.6,Aston Villa Football Club,405,Derrick Williams,Defender,30.5
+49542,2023,0.2,Sheffield United,350,Billy Sharp,Attack,37.5
+719673,2023,3.0,Liverpool Football Club,31,Ben Gannon-Doak,Attack,17.7
+77760,2023,2.5,Tottenham Hotspur Football Club,148,Victor Wanyama,Midfield,32.1
+50935,2023,1.0,West Ham United Football Club,379,Chicharito,Attack,35.2
+709960,2023,0.025,Manchester United Football Club,985,Marc Jurado,Defender,19.3
+470597,2023,0.175,Arsenal Football Club,11,Ben Cottrell,Midfield,21.7
+133858,2023,0.4,Wolverhampton Wanderers Football Club,543,Phil Ofosu-Ayeh,Defender,31.9
+242646,2023,0.15,West Ham United Football Club,379,Nathan Mavila,Defender,27.8
+476367,2023,0.15,West Ham United Football Club,379,Bernardo Rosa,Midfield,22.9
+295073,2023,0.2,Crystal Palace Football Club,873,Kleton Perntreou,Goalkeeper,28.6
+158700,2023,0.4,Burnley Football Club,1132,Tendayi Darikwa,Defender,31.6
+431424,2023,0.25,Tottenham Hotspur Football Club,148,George Marsh,Midfield,24.7
+177862,2023,0.5,Chelsea Football Club,631,Charly Musonda Jr.,Attack,26.8
+85475,2023,0.5,Newcastle United Football Club,762,Federico Fernández,Defender,34.4
+410425,2023,30.0,Tottenham Hotspur Football Club,148,Yves Bissouma,Midfield,26.9
+236490,2023,5.0,Nottingham Forest Football Club,703,Ola Aina,Defender,26.8
+246963,2023,10.0,Luton Town,1031,Carlton Morris,Attack,27.6
+249565,2023,20.0,Aston Villa Football Club,405,Youri Tielemans,Midfield,26.2
+257455,2023,55.0,Fulham Football Club,931,João Palhinha,Midfield,28.1
+258878,2023,12.0,Fulham Football Club,931,Tosin Adarabioyo,Defender,25.9
+258923,2023,75.0,Manchester United Football Club,985,Marcus Rashford,Attack,25.7
+262226,2023,17.0,Fulham Football Club,931,Timothy Castagne,Defender,27.7
+262749,2023,32.0,Arsenal Football Club,11,David Raya,Goalkeeper,27.9
+272622,2023,22.0,Fulham Football Club,931,Issa Diop,Defender,26.6
+392768,2023,12.0,Nottingham Forest Football Club,703,Callum Hudson-Odoi,Attack,22.7
+395516,2023,55.0,Aston Villa Football Club,405,Moussa Diaby,Attack,24.1
+397033,2023,60.0,Newcastle United Football Club,762,Sandro Tonali,Midfield,23.2
+401173,2023,32.0,Manchester United Football Club,985,Jadon Sancho,Attack,23.4
+403151,2023,28.0,Chelsea Football Club,631,Robert Sánchez,Goalkeeper,25.7
+407021,2023,3.0,Luton Town,1031,Mads Andersen,Defender,25.6
+475959,2023,80.0,Manchester City Football Club,281,Josko Gvardiol,Defender,21.5
+478573,2023,35.0,Liverpool Football Club,31,Ryan Gravenberch,Midfield,21.2
+479999,2023,48.0,Crystal Palace Football Club,873,Eberechi Eze,Midfield,25.1
+485585,2023,20.0,Chelsea Football Club,631,Ian Maatsen,Defender,21.4
+485706,2023,50.0,Everton Football Club,29,Amadou Onana,Midfield,22.0
+486049,2023,60.0,Manchester City Football Club,281,Jérémy Doku,Attack,21.2
+486604,2023,0.25,Liverpool Football Club,31,Vitezslav Jaros,Goalkeeper,22.0
+487465,2023,32.0,Wolverhampton Wanderers Football Club,543,Pedro Neto,Attack,23.4
+488362,2023,40.0,Chelsea Football Club,631,Conor Gallagher,Midfield,23.5
+490606,2023,0.5,Chelsea Football Club,631,Lucas Bergström,Goalkeeper,20.9
+493513,2023,1.5,Arsenal Football Club,11,Karl Hein,Goalkeeper,21.3
+495666,2023,70.0,Arsenal Football Club,11,William Saliba,Defender,22.4
+503733,2023,45.0,Newcastle United Football Club,762,Anthony Gordon,Attack,22.4
+503981,2023,30.0,Newcastle United Football Club,762,Tino Livramento,Defender,20.7
+504581,2023,6.0,Luton Town,1031,Ryan Giles,Defender,23.5
+504849,2023,50.0,Brighton and Hove Albion Football Club,1237,Kaoru Mitoma,Attack,26.2
+505653,2023,15.0,Wolverhampton Wanderers Football Club,543,Fábio Silva,Attack,21.0
+423744,2023,18.0,Brighton and Hove Albion Football Club,1237,Billy Gilmour,Midfield,22.1
+425306,2023,10.0,Nottingham Forest Football Club,703,Matt Turner,Goalkeeper,29.1
+427568,2023,32.0,Arsenal Football Club,11,Aaron Ramsdale,Goalkeeper,25.2
+428016,2023,0.6,Tottenham Hotspur Football Club,148,Brandon Austin,Goalkeeper,24.6
+433188,2023,30.0,Liverpool Football Club,31,Curtis Jones,Midfield,22.5
+444523,2023,65.0,West Ham United Football Club,379,Lucas Paquetá,Midfield,25.9
+447661,2023,55.0,Aston Villa Football Club,405,Douglas Luiz,Midfield,25.2
+450050,2023,15.0,Wolverhampton Wanderers Football Club,543,Jean-Ricner Bellegarde,Midfield,25.1
+451276,2023,70.0,Liverpool Football Club,31,Dominik Szoboszlai,Midfield,22.8
+465555,2023,9.0,Chelsea Football Club,631,Djordje Petrovic,Goalkeeper,23.8
+467623,2023,13.0,Burnley Football Club,1132,Lyle Foster,Attack,22.9
+469958,2023,4.0,Luton Town,1031,Jacob Brown,Attack,25.3
+470607,2023,48.0,Tottenham Hotspur Football Club,148,Brennan Johnson,Attack,22.2
+472423,2023,55.0,Chelsea Football Club,631,Reece James,Defender,23.6
+475411,2023,40.0,Chelsea Football Club,631,Wesley Fofana,Defender,22.6
+576099,2023,0.25,West Ham United Football Club,379,Joseph Anang,Goalkeeper,23.1
+578391,2023,25.0,Wolverhampton Wanderers Football Club,543,Rayan Aït-Nouri,Defender,22.2
+586834,2023,2.0,Crystal Palace Football Club,873,Jesurun Rak-Sakyi,Attack,20.8
+591949,2023,30.0,Brentford Football Club,1148,Aaron Hickey,Defender,21.1
+601883,2023,55.0,Manchester City Football Club,281,Matheus Nunes,Defender,24.9
+602105,2023,50.0,Manchester United Football Club,985,Antony,Attack,23.4
+607224,2023,12.0,Manchester United Football Club,985,Hannibal,Midfield,20.5
+609556,2023,1.0,Sheffield United,350,William Osula,Attack,20.0
+609887,2023,0.5,Manchester City Football Club,281,Alex Robertson,Midfield,20.3
+610442,2023,65.0,Manchester United Football Club,985,Rasmus Højlund,Attack,20.5
+610863,2023,0.5,Aston Villa Football Club,405,Filip Marschall,Goalkeeper,20.3
+614258,2023,42.0,Chelsea Football Club,631,Levi Colwill,Defender,20.4
+620598,2023,11.0,Burnley Football Club,1132,Ameen Al-Dakhil,Defender,21.4
+621993,2023,11.0,Nottingham Forest Football Club,703,Andrew Omobamidele,Defender,21.1
+628451,2023,50.0,Chelsea Football Club,631,Roméo Lavia,Midfield,19.6
+632349,2023,2.0,Liverpool Football Club,31,Jarell Quansah,Defender,20.5
+638649,2023,0.2,Sheffield United,350,Femi Seriki,Defender,21.3
+646658,2023,15.0,Burnley Football Club,1132,Aaron Ramsey,Midfield,20.5
+648046,2023,65.0,Brighton and Hove Albion Football Club,1237,Evan Ferguson,Attack,18.8
+649317,2023,17.0,Aston Villa Football Club,405,Jhon Durán,Attack,19.6
+658536,2023,15.0,Brighton and Hove Albion Football Club,1237,Simon Adingra,Attack,21.6
+661053,2023,18.0,Everton Football Club,29,Jarrad Branthwaite,Defender,21.1
+661207,2023,10.0,Manchester City Football Club,281,Oscar Bobb,Attack,20.1
+663581,2023,12.0,Sheffield United,350,Vini Souza,Midfield,24.1
+670688,2023,9.0,Everton Football Club,29,Youssef Chermiti,Attack,19.2
+670848,2023,0.8,West Ham United Football Club,379,Divin Mubama,Attack,18.8
+670858,2023,18.0,Newcastle United Football Club,762,Lewis Hall,Defender,18.9
+676318,2023,8.0,Manchester United Football Club,985,Facundo Pellistri,Attack,21.6
+687626,2023,90.0,Chelsea Football Club,631,Moisés Caicedo,Midfield,21.7
+711999,2023,25.0,Chelsea Football Club,631,Lesley Ugochukwu,Midfield,19.3
+717411,2023,1.0,Brentford Football Club,1148,Yegor Yarmolyuk,Midfield,19.4
+730861,2023,18.0,Association Football Club Bournemouth,989,Milos Kerkez,Defender,19.7
+735570,2023,22.0,Wolverhampton Wanderers Football Club,543,João Gomes,Midfield,22.5
+743498,2023,9.0,Burnley Football Club,1132,Wilson Odobert,Attack,18.7
+743597,2023,15.0,Crystal Palace Football Club,873,Matheus França,Midfield,19.3
+745461,2023,6.0,Burnley Football Club,1132,Luca Koleosho,Attack,18.9
+747153,2023,0.6,Manchester United Football Club,985,Dan Gore,Midfield,18.8
+776890,2023,35.0,Chelsea Football Club,631,Nicolas Jackson,Attack,22.1
+817612,2023,1.0,Fulham Football Club,931,Luke Harris,Midfield,18.4
+852024,2023,4.0,Sheffield United,350,Bénie Traoré,Attack,20.7
+867688,2023,1.0,Brighton and Hove Albion Football Club,1237,Jack Hinshelwood,Midfield,18.3
+888493,2023,11.0,Tottenham Hotspur Football Club,148,Alejo Veliz,Attack,19.9
+922769,2023,2.5,Newcastle United Football Club,762,Lewis Miley,Midfield,17.3
+953135,2023,1.0,West Ham United Football Club,379,Callum Marshall,Attack,18.7
+973085,2023,20.0,Brighton and Hove Albion Football Club,1237,Carlos Baleba,Midfield,19.6
+1005649,2023,9.0,Nottingham Forest Football Club,703,Murillo,Defender,21.1
+1060740,2023,4.0,Wolverhampton Wanderers Football Club,543,Enso González,Attack,18.5
+1082850,2023,9.0,Chelsea Football Club,631,Deivid Washington,Attack,18.2
+512385,2023,20.0,Association Football Club Bournemouth,989,Luis Sinisterra,Attack,24.1
+517894,2023,28.0,Wolverhampton Wanderers Football Club,543,Matheus Cunha,Attack,24.2
+520624,2023,85.0,Newcastle United Football Club,762,Bruno Guimarães,Midfield,25.7
+525247,2023,35.0,Wolverhampton Wanderers Football Club,543,Maximilian Kilman,Defender,26.2
+533662,2023,18.0,Sheffield United,350,Cameron Archer,Attack,21.6
+537860,2023,45.0,Chelsea Football Club,631,Mykhaylo Mudryk,Attack,22.6
+548729,2023,15.0,Burnley Football Club,1132,Zeki Amdouni,Attack,22.7
+556385,2023,38.0,Tottenham Hotspur Football Club,148,Destiny Udogie,Defender,20.7
+557459,2023,40.0,Tottenham Hotspur Football Club,148,Micky van de Ven,Defender,22.3
+565093,2023,15.0,Brighton and Hove Albion Football Club,1237,Bart Verbruggen,Goalkeeper,21.0
+566723,2023,50.0,Crystal Palace Football Club,873,Michael Olise,Attack,21.6
+567576,2023,13.0,Newcastle United Football Club,762,Elliot Anderson,Midfield,20.7
+568177,2023,32.0,Chelsea Football Club,631,Cole Palmer,Midfield,21.2
+568693,2023,35.0,Tottenham Hotspur Football Club,148,Pape Matar Sarr,Midfield,20.9
+576024,2023,80.0,Manchester City Football Club,281,Julián Alvarez,Attack,23.5
+392765,2023,30.0,Arsenal Football Club,11,Emile Smith Rowe,Midfield,23.0
+389253,2023,8.0,Sheffield United,350,Auston Trusty,Defender,25.0
+234509,2023,40.0,Manchester United Football Club,985,André Onana,Goalkeeper,27.3
+228948,2023,13.0,West Ham United Football Club,379,Thilo Kehrer,Defender,26.9
+207929,2023,5.0,Everton Football Club,29,Dele Alli,Midfield,27.3
+167799,2023,32.0,Tottenham Hotspur Football Club,148,Pierre-Emile Højbjerg,Midfield,28.0
+146310,2023,13.0,Liverpool Football Club,31,Wataru Endo,Midfield,30.5
+134425,2023,50.0,Chelsea Football Club,631,Raheem Sterling,Attack,28.6
+131978,2023,4.5,Luton Town,1031,Ross Barkley,Midfield,29.7
+125714,2023,12.0,Brentford Football Club,1148,Mark Flekken,Goalkeeper,30.1
+124419,2023,10.0,Nottingham Forest Football Club,703,Odysseas Vlachodimos,Goalkeeper,29.3
+120629,2023,10.0,West Ham United Football Club,379,Alphonse Areola,Goalkeeper,30.4
+110864,2023,10.0,Crystal Palace Football Club,873,Sam Johnstone,Goalkeeper,30.4
+102017,2023,15.0,Arsenal Football Club,11,Jorginho,Midfield,31.6
+77757,2023,2.8,Luton Town,1031,Thomas Kaminski,Goalkeeper,30.8
+284857,2023,28.0,Chelsea Football Club,631,Marc Cucurella,Defender,25.0
+319859,2023,28.0,Brentford Football Club,1148,Mathias Jensen,Midfield,27.6
+314875,2023,48.0,West Ham United Football Club,379,Jarrod Bowen,Attack,26.6
+340324,2023,30.0,Arsenal Football Club,11,Eddie Nketiah,Attack,24.2
+286047,2023,20.0,Tottenham Hotspur Football Club,148,Guglielmo Vicario,Goalkeeper,26.8
+380350,2023,15.0,Brighton and Hove Albion Football Club,1237,Igor Julio,Defender,25.5
+378710,2023,40.0,Tottenham Hotspur Football Club,148,Richarlison,Attack,26.2
+381469,2023,1.0,Fulham Football Club,931,Steven Benda,Goalkeeper,24.8
+386047,2023,40.0,Chelsea Football Club,631,Axel Disasi,Defender,25.4
+355861,2023,20.0,Everton Football Club,29,Arnaut Danjuma,Attack,26.5
+351749,2023,28.0,Manchester City Football Club,281,Kalvin Phillips,Midfield,27.7
+357662,2023,100.0,Arsenal Football Club,11,Declan Rice,Midfield,24.5
+357565,2023,100.0,Manchester City Football Club,281,Rodri,Midfield,27.1
+349599,2023,35.0,Brighton and Hove Albion Football Club,1237,Pervis Estupiñán,Defender,25.5
+344830,2023,4.5,Luton Town,1031,Tahith Chong,Attack,23.7
+369567,2023,12.0,Wolverhampton Wanderers Football Club,543,Sasa Kalajdzic,Attack,26.1
+371021,2023,9.0,Burnley Football Club,1132,Arijanet Murić,Goalkeeper,24.7
+60444,2023,12.0,Liverpool Football Club,31,Thiago Alcántara,Midfield,32.3
+42460,2023,4.0,Tottenham Hotspur Football Club,148,Ivan Perišić,Attack,34.5
+17965,2023,2.0,Tottenham Hotspur Football Club,148,Hugo Lloris,Goalkeeper,36.6
+336077,2023,10.0,Manchester United Football Club,985,Altay Bayındır,Goalkeeper,25.3
+332705,2023,20.0,Association Football Club Bournemouth,989,Tyler Adams,Midfield,24.5
+329145,2023,18.0,Aston Villa Football Club,405,Diego Carlos,Defender,30.4
+324358,2023,55.0,Aston Villa Football Club,405,Ollie Watkins,Attack,27.6
+322985,2023,16.0,Sheffield United,350,Gustavo Hamer,Midfield,26.1
+294057,2023,70.0,Tottenham Hotspur Football Club,148,James Maddison,Midfield,26.7
+292246,2023,18.0,Wolverhampton Wanderers Football Club,543,Hee-chan Hwang,Attack,27.5
+309400,2023,60.0,Arsenal Football Club,11,Kai Havertz,Attack,24.1
+295313,2023,30.0,Nottingham Forest Football Club,703,Taiwo Awoniyi,Attack,26.0
+289592,2023,20.0,Nottingham Forest Football Club,703,Orel Mangala,Midfield,25.4
+288255,2023,10.0,Manchester United Football Club,985,Donny van de Beek,Midfield,26.3
+340918,2023,15.0,Liverpool Football Club,31,Caoimhín Kelleher,Goalkeeper,24.7
+69633,2023,18.0,Manchester United Football Club,985,Christian Eriksen,Midfield,31.5
+344152,2023,20.0,Crystal Palace Football Club,873,Odsonne Édouard,Attack,25.5
+74300,2023,2.0,Crystal Palace Football Club,873,Luka Milivojevic,Midfield,32.3
+111422,2023,2.0,Fulham Football Club,931,Neeskens Kebano,Attack,31.4
+273773,2023,0.075,Crystal Palace Football Club,873,Jonathan Benteke,Attack,28.3
+531461,2023,0.5,West Ham United Football Club,379,Armstrong Oko-Flex,Attack,21.4
+401604,2023,4.0,Brighton and Hove Albion Football Club,1237,Michal Karbownik,Defender,22.4
+62008,2023,0.6,Fulham Football Club,931,Stefan Johansen,Midfield,32.6
+117996,2023,1.0,Manchester United Football Club,985,Phil Jones,Defender,31.4
+249873,2023,1.5,Brentford Football Club,1148,Tariqe Fosu,Attack,27.7
+243589,2023,1.2,Fulham Football Club,931,Josh Onomah,Midfield,26.3
+214928,2023,0.5,Sheffield United,350,Kean Bryan,Defender,26.7
+95435,2023,0.4,Crystal Palace Football Club,873,Connor Wickham,Attack,30.3
+110867,2023,0.4,Aston Villa Football Club,405,Jed Steer,Goalkeeper,30.9
+66923,2023,0.5,Sheffield United,350,Luke Freeman,Midfield,31.4
+88971,2023,0.4,Aston Villa Football Club,405,Jonathan Kodjia,Attack,33.8
+434207,2023,3.5,Brighton and Hove Albion Football Club,1237,Aaron Connolly,Attack,23.5
+495033,2023,0.3,Manchester United Football Club,985,Nathan Bishop,Goalkeeper,23.8
+788283,2023,2.0,Burnley Football Club,1132,Bobby Thomas,Defender,22.5
+249356,2023,2.2,Association Football Club Bournemouth,989,Jack Stacey,Defender,27.3
+316551,2023,1.5,Chelsea Football Club,631,Jake Clarke-Salter,Defender,25.9
+357658,2023,3.5,Association Football Club Bournemouth,989,Mark Travers,Goalkeeper,24.2
+287247,2023,2.5,Arsenal Football Club,11,Krystian Bielik,Midfield,25.6
+314341,2023,2.0,Arsenal Football Club,11,Chris Willock,Attack,25.5
+531677,2023,2.0,Manchester United Football Club,985,Di'Shon Bernard,Defender,22.8
+531679,2023,5.0,Manchester United Football Club,985,Ethan Laird,Defender,22.0
+511550,2023,6.0,Everton Football Club,29,Ellis Simms,Attack,22.6
+512175,2023,2.2,Brighton and Hove Albion Football Club,1237,Ryan Longman,Attack,22.7
+381362,2023,2.5,Aston Villa Football Club,405,Wesley Moraes,Attack,26.7
+580801,2023,0.2,Liverpool Football Club,31,Layton Stewart,Attack,20.9
+198589,2023,2.5,Chelsea Football Club,631,Lewis Baker,Midfield,28.3
+542884,2023,0.1,Brentford Football Club,1148,Alex Gilbert,Attack,21.6
+419325,2023,0.9,Everton Football Club,29,Lewis Gibson,Defender,23.0
+262895,2023,0.35,Brighton and Hove Albion Football Club,1237,Soufyan Ahannach,Attack,27.9
+345961,2023,0.2,West Ham United Football Club,379,Djair Parfitt-Williams,Attack,26.8
+57488,2023,0.075,Aston Villa Football Club,405,Simon Dawkins,Attack,35.7
+244309,2023,0.01,Crystal Palace Football Club,873,Luke Croll,Defender,28.6
+258888,2023,0.175,Chelsea Football Club,631,Kyle Scott,Midfield,25.6
+357397,2023,0.25,Tottenham Hotspur Football Club,148,Kazaiah Sterling,Attack,24.7
+507235,2023,0.15,Newcastle United Football Club,762,Jack Young,Midfield,22.8
+433182,2023,0.15,Liverpool Football Club,31,Luis Longstaff,Attack,22.4
+530916,2023,0.175,Brighton and Hove Albion Football Club,1237,Jack Spong,Midfield,21.5
+565419,2023,0.075,Liverpool Football Club,31,Jack Bearne,Attack,21.9
+67431,2023,0.1,Wolverhampton Wanderers Football Club,543,Michal Zyro,Attack,30.9
+1056993,2023,10.0,Chelsea Football Club,631,Estêvão,Attack,16.3
+984096,2023,0.2,Nottingham Forest Football Club,703,Jair Cunha,Defender,18.4
+73547,2023,1.5,Sheffield United,350,Oliver Norwood,Midfield,32.3
+73564,2023,3.5,Brighton and Hove Albion Football Club,1237,Jason Steele,Goalkeeper,33.0
+74230,2023,12.0,Wolverhampton Wanderers Football Club,543,Pablo Sarabia,Midfield,31.2
+74810,2023,1.0,Brentford Football Club,1148,Ben Mee,Defender,33.9
+74960,2023,1.0,Newcastle United Football Club,762,Martin Dúbravka,Goalkeeper,34.5
+75458,2023,1.5,Aston Villa Football Club,405,Robin Olsen,Goalkeeper,33.6
+82105,2023,8.0,Liverpool Football Club,31,Joel Matip,Defender,32.0
+61841,2023,1.0,Association Football Club Bournemouth,989,Adam Smith,Defender,32.3
+61842,2023,1.8,Luton Town,1031,Andros Townsend,Attack,32.0
+66934,2023,1.0,Nottingham Forest Football Club,703,Cheikhou Kouyaté,Midfield,33.6
+67063,2023,6.0,Brighton and Hove Albion Football Club,1237,Danny Welbeck,Attack,32.7
+68390,2023,0.9,Everton Football Club,29,Séamus Coleman,Defender,34.8
+71271,2023,0.6,Liverpool Football Club,31,Adrián San Miguel,Goalkeeper,36.6
+72476,2023,13.0,Fulham Football Club,931,Bernd Leno,Goalkeeper,31.4
+52570,2023,1.2,Tottenham Hotspur Football Club,148,Fraser Forster,Goalkeeper,35.4
+52769,2023,3.0,Fulham Football Club,931,Willian,Attack,35.0
+53360,2023,1.0,Burnley Football Club,1132,Jay Rodríguez,Attack,34.0
+54383,2023,0.9,Sheffield United,350,John Fleck,Midfield,31.9
+55742,2023,0.4,Nottingham Forest Football Club,703,Harry Arter,Midfield,33.6
+61592,2023,0.7,Crystal Palace Football Club,873,James Tomkins,Defender,34.3
+61697,2023,0.9,Sheffield United,350,Wes Foderingham,Goalkeeper,32.5
+43530,2023,1.0,Brighton and Hove Albion Football Club,1237,Adam Lallana,Midfield,35.2
+45494,2023,0.25,Nottingham Forest Football Club,703,Wayne Hennessey,Goalkeeper,36.5
+48002,2023,0.7,West Ham United Football Club,379,Angelo Ogbonna,Defender,35.2
+51321,2023,0.3,Association Football Club Bournemouth,989,Darren Randolph,Goalkeeper,36.2
+51471,2023,38.0,Manchester City Football Club,281,Mateo Kovacic,Midfield,29.2
+52059,2023,1.0,Brentford Football Club,1148,Zanka,Defender,33.3
+52495,2023,0.3,Sheffield United,350,Chris Basham,Defender,35.0
+118534,2023,7.0,Everton Football Club,29,Michael Keane,Defender,30.6
+121254,2023,0.5,Sheffield United,350,Adam Davies,Goalkeeper,31.0
+121324,2023,5.0,Sheffield United,350,John Egan,Defender,30.8
+121477,2023,2.0,Wolverhampton Wanderers Football Club,543,Craig Dawson,Defender,33.2
+123275,2023,2.0,Fulham Football Club,931,Tom Cairney,Midfield,32.5
+123682,2023,13.0,Newcastle United Football Club,762,Callum Wilson,Attack,31.4
+108354,2023,4.0,Crystal Palace Football Club,873,Jordan Ayew,Attack,31.9
+108725,2023,7.0,Nottingham Forest Football Club,703,Chris Wood,Attack,31.6
+111195,2023,10.0,Brighton and Hove Albion Football Club,1237,Joël Veltman,Defender,31.5
+111819,2023,2.5,Association Football Club Bournemouth,989,Neto,Goalkeeper,34.0
+111873,2023,28.0,Aston Villa Football Club,405,Emiliano Martínez,Goalkeeper,30.9
+112988,2023,2.0,Arsenal Football Club,11,Cédric Soares,Defender,31.9
+116648,2023,1.0,Chelsea Football Club,631,Marcus Bettinelli,Goalkeeper,31.2
+92469,2023,1.0,Newcastle United Football Club,762,Matt Ritchie,Midfield,33.9
+92571,2023,0.9,West Ham United Football Club,379,Aaron Cresswell,Defender,33.6
+92572,2023,1.0,Crystal Palace Football Club,873,Joel Ward,Defender,33.8
+95424,2023,13.0,Manchester City Football Club,281,Kyle Walker,Defender,33.2
+95810,2023,11.0,Newcastle United Football Club,762,Kieran Trippier,Defender,32.9
+104124,2023,6.0,West Ham United Football Club,379,Michail Antonio,Attack,33.3
+105470,2023,32.0,Liverpool Football Club,31,Alisson,Goalkeeper,30.8
+82873,2023,8.0,Brighton and Hove Albion Football Club,1237,Pascal Groß,Midfield,32.1
+85177,2023,1.5,Crystal Palace Football Club,873,Nathaniel Clyne,Defender,32.3
+85864,2023,1.0,Newcastle United Football Club,762,Loris Karius,Goalkeeper,30.1
+85941,2023,9.0,Manchester City Football Club,281,Stefan Ortega,Goalkeeper,30.7
+88755,2023,60.0,Manchester City Football Club,281,Kevin De Bruyne,Midfield,32.1
+89231,2023,1.0,Burnley Football Club,1132,Jóhann Berg Gudmundsson,Attack,32.8
+91340,2023,0.2,Luton Town,1031,James Shea,Goalkeeper,32.1
+91845,2023,50.0,Tottenham Hotspur Football Club,148,Heung-min Son,Attack,31.1
+148153,2023,14.0,Brighton and Hove Albion Football Club,1237,Lewis Dunk,Defender,31.7
+148367,2023,20.0,Brentford Football Club,1148,Christian Nørgaard,Midfield,29.4
+148368,2023,5.0,Nottingham Forest Football Club,703,Divock Origi,Attack,28.3
+148455,2023,65.0,Liverpool Football Club,31,Mohamed Salah,Attack,31.1
+156501,2023,1.5,Nottingham Forest Football Club,703,Felipe,Defender,34.2
+157506,2023,7.0,Crystal Palace Football Club,873,Jeffrey Schlupp,Midfield,30.6
+157509,2023,25.0,West Ham United Football Club,379,Kurt Zouma,Defender,28.8
+157672,2023,9.0,West Ham United Football Club,379,Vladimír Coufal,Defender,30.9
+139208,2023,32.0,Liverpool Football Club,31,Virgil van Dijk,Defender,32.1
+140191,2023,1.5,Association Football Club Bournemouth,989,Ryan Fredericks,Defender,30.8
+142310,2023,2.5,Nottingham Forest Football Club,703,Willy Boly,Defender,32.5
+142389,2023,0.3,Newcastle United Football Club,762,Mark Gillespie,Goalkeeper,31.3
+144028,2023,38.0,Arsenal Football Club,11,Leandro Trossard,Attack,28.7
+145466,2023,1.0,Fulham Football Club,931,Tim Ream,Defender,35.8
+146690,2023,2.5,Sheffield United,350,George Baldock,Defender,30.4
+130164,2023,22.0,Everton Football Club,29,Jordan Pickford,Goalkeeper,29.4
+131996,2023,10.0,Aston Villa Football Club,405,Bertrand Traoré,Attack,27.9
+134270,2023,10.0,Newcastle United Football Club,762,Dan Burn,Defender,31.2
+134294,2023,9.0,West Ham United Football Club,379,Danny Ings,Attack,31.0
+135343,2023,10.0,Newcastle United Football Club,762,Fabian Schär,Defender,31.6
+136401,2023,2.0,Wolverhampton Wanderers Football Club,543,Daniel Bentley,Goalkeeper,30.1
+125685,2023,0.4,Luton Town,1031,Luke Berry,Midfield,31.1
+126664,2023,15.0,Aston Villa Football Club,405,Lucas Digne,Defender,30.0
+126665,2023,4.0,Everton Football Club,29,Idrissa Gueye,Midfield,33.8
+127032,2023,7.0,Nottingham Forest Football Club,703,Serge Aurier,Defender,30.6
+127187,2023,12.0,Everton Football Club,29,Abdoulaye Doucouré,Midfield,30.6
+128909,2023,1.0,Sheffield United,350,Jack Robinson,Defender,29.9
+129078,2023,7.0,Burnley Football Club,1132,Nathan Redmond,Attack,29.4
+186186,2023,6.0,Fulham Football Club,931,Bobby De Cordova-Reid,Midfield,30.5
+186590,2023,38.0,Manchester City Football Club,281,John Stones,Defender,29.2
+186901,2023,3.0,Fulham Football Club,931,Marek Rodák,Goalkeeper,26.6
+188077,2023,12.0,Association Football Club Bournemouth,989,Ryan Christie,Midfield,28.4
+191422,2023,14.0,Brighton and Hove Albion Football Club,1237,Mahmoud Dahoud,Midfield,27.6
+192080,2023,20.0,Newcastle United Football Club,762,Nick Pope,Goalkeeper,31.3
+192765,2023,15.0,Tottenham Hotspur Football Club,148,Ben Davies,Defender,30.3
+193098,2023,10.0,Aston Villa Football Club,405,Álex Moreno,Defender,30.1
+182877,2023,15.0,Manchester United Football Club,985,Anthony Martial,Attack,27.7
+182904,2023,8.0,Aston Villa Football Club,405,Clément Lenglet,Defender,28.1
+183288,2023,38.0,Manchester United Football Club,985,Luke Shaw,Defender,28.1
+183293,2023,4.0,Association Football Club Bournemouth,989,Joe Rothwell,Midfield,28.6
+183318,2023,7.0,Newcastle United Football Club,762,Jamaal Lascelles,Defender,29.7
+184129,2023,1.0,Luton Town,1031,Jordan Clark,Midfield,29.9
+184528,2023,2.5,Newcastle United Football Club,762,Emil Krafth,Defender,29.0
+184573,2023,18.0,Manchester United Football Club,985,Victor Lindelöf,Defender,29.0
+171679,2023,4.0,Wolverhampton Wanderers Football Club,543,Matt Doherty,Defender,31.5
+173504,2023,13.0,Everton Football Club,29,James Tarkowski,Defender,30.7
+175446,2023,8.0,Wolverhampton Wanderers Football Club,543,Jonny Otto,Defender,29.4
+175722,2023,12.0,Tottenham Hotspur Football Club,148,Eric Dier,Defender,29.5
+177476,2023,40.0,Manchester City Football Club,281,Nathan Aké,Defender,28.4
+177907,2023,20.0,Manchester United Football Club,985,Harry Maguire,Defender,30.4
+181579,2023,38.0,West Ham United Football Club,379,James Ward-Prowse,Midfield,28.7
+181778,2023,12.0,West Ham United Football Club,379,Emerson,Defender,29.0
+160438,2023,4.5,Arsenal Football Club,11,Mohamed Elneny,Midfield,31.1
+162029,2023,2.0,Newcastle United Football Club,762,Javier Manquillo,Defender,29.2
+164770,2023,25.0,Manchester United Football Club,985,Raphaël Varane,Defender,30.3
+168157,2023,11.0,Aston Villa Football Club,405,Leander Dendoncker,Midfield,28.3
+169801,2023,1.0,Luton Town,1031,Cauley Woodrow,Attack,28.7
+170321,2023,0.9,Newcastle United Football Club,762,Paul Dummett,Defender,31.8
+170934,2023,10.0,Wolverhampton Wanderers Football Club,543,Mario Lemina,Midfield,29.9
+221624,2023,2.5,Manchester City Football Club,281,Zack Steffen,Goalkeeper,28.3
+222209,2023,3.0,Brentford Football Club,1148,Thomas Strakosha,Goalkeeper,28.4
+226973,2023,18.0,Fulham Football Club,931,Harrison Reed,Midfield,28.5
+230784,2023,25.0,Arsenal Football Club,11,Thomas Partey,Midfield,30.1
+231572,2023,15.0,Wolverhampton Wanderers Football Club,543,Nélson Semedo,Defender,29.7
+232964,2023,1.5,Association Football Club Bournemouth,989,Emiliano Marcondes,Midfield,28.4
+233124,2023,2.0,Aston Villa Football Club,405,Kortney Hause,Defender,28.0
+209212,2023,22.0,Brighton and Hove Albion Football Club,1237,Solly March,Attack,29.0
+212847,2023,20.0,Brighton and Hove Albion Football Club,1237,Adam Webster,Defender,28.6
+214666,2023,7.0,Burnley Football Club,1132,Connor Roberts,Defender,27.9
+215118,2023,5.0,Aston Villa Football Club,405,Calum Chambers,Defender,28.5
+215810,2023,0.2,Wolverhampton Wanderers Football Club,543,Tom King,Goalkeeper,28.4
+217115,2023,10.0,Brentford Football Club,1148,Neal Maupay,Attack,27.0
+218087,2023,1.0,Sheffield United,350,Ben Osborn,Midfield,29.0
+221025,2023,12.0,Everton Football Club,29,André Gomes,Midfield,30.0
+204103,2023,9.0,Fulham Football Club,931,Adama Traoré,Attack,27.5
+204294,2023,2.0,Brentford Football Club,1148,Saman Ghoddos,Midfield,29.9
+206040,2023,6.0,Fulham Football Club,931,Raúl Jiménez,Attack,32.2
+206746,2023,15.0,Fulham Football Club,931,Kenny Tete,Defender,27.8
+207014,2023,9.0,Crystal Palace Football Club,873,Will Hughes,Midfield,28.3
+207037,2023,0.9,Luton Town,1031,Dan Potts,Defender,29.3
+207742,2023,3.5,Luton Town,1031,Tom Lockyer,Defender,28.7
+193116,2023,30.0,Aston Villa Football Club,405,John McGinn,Midfield,28.8
+195633,2023,3.0,Burnley Football Club,1132,Charlie Taylor,Defender,29.9
+196722,2023,0.5,Crystal Palace Football Club,873,Remi Matthews,Goalkeeper,29.5
+198516,2023,5.0,Nottingham Forest Football Club,703,Harry Toffolo,Defender,28.0
+199527,2023,15.0,Newcastle United Football Club,762,Jacob Murphy,Attack,28.4
+203394,2023,20.0,Fulham Football Club,931,Andreas Pereira,Midfield,27.6
+203460,2023,70.0,Manchester City Football Club,281,Jack Grealish,Attack,27.9
+203853,2023,42.0,Arsenal Football Club,11,Oleksandr Zinchenko,Defender,26.6
+258004,2023,80.0,Manchester City Football Club,281,Rúben Dias,Defender,26.2
+258885,2023,2.5,Sheffield United,350,Max Lowe,Defender,26.2
+258889,2023,25.0,Association Football Club Bournemouth,989,Dominic Solanke,Attack,25.9
+258919,2023,12.0,Crystal Palace Football Club,873,Dean Henderson,Goalkeeper,26.4
+260827,2023,35.0,Crystal Palace Football Club,873,Joachim Andersen,Defender,27.2
+249994,2023,16.0,Wolverhampton Wanderers Football Club,543,José Sá,Goalkeeper,30.5
+250478,2023,10.0,Newcastle United Football Club,762,Matt Targett,Defender,27.9
+251664,2023,35.0,Brentford Football Club,1148,Ivan Toney,Attack,27.4
+253341,2023,5.0,Crystal Palace Football Club,873,Rob Holding,Defender,27.9
+253677,2023,16.0,Aston Villa Football Club,405,Tyrone Mings,Defender,30.4
+255906,2023,10.0,Nottingham Forest Football Club,703,Scott McKenna,Defender,26.7
+256178,2023,22.0,Liverpool Football Club,31,Joe Gomez,Defender,26.2
+242284,2023,1.5,Nottingham Forest Football Club,703,Ethan Horvath,Goalkeeper,28.1
+242606,2023,13.0,Burnley Football Club,1132,Josh Cullen,Midfield,27.3
+242631,2023,28.0,Fulham Football Club,931,Alex Iwobi,Attack,27.2
+243591,2023,0.3,Burnley Football Club,1132,Lawrence Vigouroux,Goalkeeper,29.7
+244338,2023,1.5,Luton Town,1031,Pelly Ruddock Mpanzu,Midfield,29.4
+245056,2023,10.0,Fulham Football Club,931,Saša Lukić,Midfield,27.0
+249089,2023,10.0,Association Football Club Bournemouth,989,Lewis Cook,Midfield,26.5
+234781,2023,10.0,West Ham United Football Club,379,Maxwel Cornet,Attack,26.8
+234803,2023,35.0,Liverpool Football Club,31,Andrew Robertson,Defender,29.4
+238223,2023,40.0,Manchester City Football Club,281,Ederson,Goalkeeper,30.0
+240306,2023,70.0,Manchester United Football Club,985,Bruno Fernandes,Midfield,28.9
+241481,2023,2.0,Crystal Palace Football Club,873,Jaïro Riedewald,Midfield,26.9
+241641,2023,80.0,Manchester City Football Club,281,Bernardo Silva,Midfield,29.0
+293569,2023,18.0,Burnley Football Club,1132,Josh Brownhill,Midfield,27.6
+296422,2023,3.0,Fulham Football Club,931,Fodé Ballo-Touré,Defender,26.6
+298477,2023,4.5,Sheffield United,350,Oli McBurnie,Attack,27.2
+303657,2023,3.0,Association Football Club Bournemouth,989,Ionuț Radu,Goalkeeper,26.2
+306024,2023,22.0,Everton Football Club,29,Dominic Calvert-Lewin,Attack,26.4
+287579,2023,28.0,Manchester United Football Club,985,Sofyan Amrabat,Midfield,26.9
+290532,2023,22.0,West Ham United Football Club,379,Saïd Benrahma,Attack,28.0
+291200,2023,16.0,Nottingham Forest Football Club,703,Moussa Niakhaté,Defender,27.4
+293281,2023,3.0,Burnley Football Club,1132,Jacob Bruun Larsen,Attack,24.9
+277033,2023,9.0,Association Football Club Bournemouth,989,David Brooks,Attack,26.1
+278166,2023,2.5,Luton Town,1031,Amari'i Bell,Defender,29.2
+279455,2023,17.0,Fulham Football Club,931,Harry Wilson,Attack,26.4
+282429,2023,10.0,Manchester United Football Club,985,Sergio Reguilón,Defender,26.6
+282823,2023,0.5,Tottenham Hotspur Football Club,148,Alfie Whiteman,Goalkeeper,24.8
+283628,2023,35.0,West Ham United Football Club,379,Tomáš Souček,Midfield,28.4
+284730,2023,42.0,Manchester City Football Club,281,Manuel Akanji,Defender,28.0
+262980,2023,20.0,Crystal Palace Football Club,873,Jefferson Lerma,Midfield,28.8
+264220,2023,1.8,Luton Town,1031,Reece Burke,Defender,26.9
+270171,2023,22.0,Brentford Football Club,1148,Vitaly Janelt,Midfield,25.2
+272999,2023,30.0,Newcastle United Football Club,762,Miguel Almirón,Attack,29.5
+275590,2023,2.5,Association Football Club Bournemouth,989,Kieffer Moore,Attack,31.0
+338070,2023,22.0,Liverpool Football Club,31,Konstantinos Tsimikas,Defender,27.2
+338635,2023,4.0,Burnley Football Club,1132,Hannes Delcroix,Defender,24.4
+339340,2023,18.0,Manchester United Football Club,985,Tyrell Malacia,Defender,24.0
+339556,2023,25.0,Brentford Football Club,1148,Rico Henry,Defender,26.1
+340321,2023,12.0,Brentford Football Club,1148,Josh Dasilva,Midfield,24.8
+340325,2023,15.0,Arsenal Football Club,11,Reiss Nelson,Attack,23.6
+340329,2023,35.0,Newcastle United Football Club,762,Joe Willock,Midfield,23.9
+329813,2023,0.8,Everton Football Club,29,João Virgínia,Goalkeeper,23.8
+330659,2023,11.0,Association Football Club Bournemouth,989,Justin Kluivert,Midfield,24.2
+331560,2023,30.0,Arsenal Football Club,11,Takehiro Tomiyasu,Defender,24.7
+333014,2023,20.0,Burnley Football Club,1132,Sander Berge,Midfield,25.5
+333241,2023,42.0,Newcastle United Football Club,762,Joelinton,Midfield,27.0
+335721,2023,55.0,Arsenal Football Club,11,Ben White,Defender,25.8
+320411,2023,22.0,Association Football Club Bournemouth,989,Philip Billing,Midfield,27.1
+321247,2023,22.0,Aston Villa Football Club,405,Emiliano Buendía,Midfield,26.6
+322702,2023,6.0,Burnley Football Club,1132,Benson Manuel,Attack,26.3
+324882,2023,5.0,Luton Town,1031,Marvelous Nakamba,Midfield,29.5
+328658,2023,18.0,Brentford Football Club,1148,Kristoffer Ajer,Defender,25.3
+314210,2023,6.0,Sheffield United,350,Tom Davies,Midfield,25.1
+314353,2023,70.0,Liverpool Football Club,31,Trent Alexander-Arnold,Defender,24.8
+315969,2023,28.0,Manchester United Football Club,985,Scott McTominay,Midfield,26.6
+316125,2023,30.0,Chelsea Football Club,631,Ben Chilwell,Defender,26.6
+316264,2023,90.0,Arsenal Football Club,11,Martin Ødegaard,Midfield,24.6
+319900,2023,7.0,Luton Town,1031,Elijah Adebayo,Attack,25.6
+361093,2023,45.0,Newcastle United Football Club,762,Sven Botman,Defender,23.6
+361914,2023,38.0,West Ham United Football Club,379,Nayef Aguerd,Defender,27.3
+363205,2023,70.0,Arsenal Football Club,11,Gabriel Jesus,Attack,26.3
+364409,2023,1.0,Luton Town,1031,Gabriel Osho,Defender,25.0
+366930,2023,10.0,Manchester City Football Club,281,Sergio Gómez,Defender,22.9
+375885,2023,32.0,Nottingham Forest Football Club,703,Ibrahim Sangaré,Midfield,25.7
+355915,2023,65.0,Tottenham Hotspur Football Club,148,Cristian Romero,Defender,25.3
+357119,2023,38.0,Liverpool Football Club,31,Ibrahima Konaté,Defender,24.2
+357147,2023,35.0,Manchester United Football Club,985,Diogo Dalot,Defender,24.4
+357885,2023,17.0,West Ham United Football Club,379,Pablo Fornals,Midfield,27.4
+346483,2023,45.0,Manchester United Football Club,985,Mason Mount,Midfield,24.6
+346707,2023,25.0,Newcastle United Football Club,762,Sean Longstaff,Midfield,25.8
+348795,2023,16.0,Tottenham Hotspur Football Club,148,Giovani Lo Celso,Midfield,27.3
+349066,2023,70.0,Newcastle United Football Club,762,Alexander Isak,Attack,23.9
+349701,2023,20.0,Fulham Football Club,931,Antonee Robinson,Defender,26.0
+354362,2023,35.0,Tottenham Hotspur Football Club,148,Rodrigo Bentancur,Midfield,26.1
+340950,2023,50.0,Liverpool Football Club,31,Diogo Jota,Attack,26.7
+343475,2023,8.0,Everton Football Club,29,Ben Godfrey,Defender,25.5
+344381,2023,75.0,Chelsea Football Club,631,Christopher Nkunku,Attack,25.7
+344596,2023,4.0,Chelsea Football Club,631,Malang Sarr,Defender,24.5
+346314,2023,18.0,Chelsea Football Club,631,Trevoh Chalobah,Defender,24.1
+396638,2023,18.0,Tottenham Hotspur Football Club,148,Manor Solomon,Attack,24.0
+398065,2023,35.0,Newcastle United Football Club,762,Harvey Barnes,Attack,25.6
+399434,2023,17.0,Association Football Club Bournemouth,989,Marcus Tavernier,Midfield,24.4
+399776,2023,45.0,Aston Villa Football Club,405,Pau Torres,Defender,26.5
+401320,2023,7.0,Burnley Football Club,1132,Dara O'Shea,Defender,24.4
+392085,2023,25.0,Aston Villa Football Club,405,Nicolò Zaniolo,Attack,24.1
+392179,2023,7.0,Burnley Football Club,1132,Hjalmar Ekdal,Defender,24.8
+392591,2023,3.0,Luton Town,1031,Chiedozie Ogbene,Attack,26.3
+392757,2023,38.0,Crystal Palace Football Club,873,Marc Guéhi,Defender,23.0
+392775,2023,13.0,Tottenham Hotspur Football Club,148,Ryan Sessegnon,Defender,23.2
+394327,2023,38.0,Aston Villa Football Club,405,Boubacar Kamara,Midfield,23.7
+385412,2023,0.25,Sheffield United,350,Jordan Amissah,Goalkeeper,22.0
+386786,2023,2.0,Burnley Football Club,1132,Darko Churlinov,Attack,23.1
+387626,2023,30.0,Aston Villa Football Club,405,Leon Bailey,Attack,26.0
+388165,2023,25.0,Brentford Football Club,1148,Yoane Wissa,Attack,26.9
+391005,2023,8.0,Brentford Football Club,1148,Mads Roerslev,Defender,24.1
+391065,2023,18.0,Association Football Club Bournemouth,989,Hamed Traoré,Attack,23.5
+376856,2023,0.5,Brentford Football Club,1148,Charlie Goode,Defender,28.0
+377468,2023,18.0,Sheffield United,350,Anel Ahmedhodzic,Defender,24.4
+381963,2023,15.0,Burnley Football Club,1132,Mike Tresor,Midfield,24.2
+381967,2023,12.0,Luton Town,1031,Albert Sambi Lokonga,Midfield,23.8
+384461,2023,10.0,Brighton and Hove Albion Football Club,1237,Jakub Moder,Midfield,24.3
+425334,2023,28.0,Aston Villa Football Club,405,Matty Cash,Defender,26.0
+425902,2023,12.0,Nottingham Forest Football Club,703,Ryan Yates,Midfield,25.7
+425918,2023,25.0,Arsenal Football Club,11,Jakub Kiwior,Defender,23.5
+429014,2023,40.0,Nottingham Forest Football Club,703,Morgan Gibbs-White,Midfield,23.5
+431755,2023,55.0,Tottenham Hotspur Football Club,148,Dejan Kulusevski,Midfield,23.3
+417346,2023,22.0,Everton Football Club,29,Jack Harrison,Attack,26.7
+418560,2023,180.0,Manchester City Football Club,281,Erling Haaland,Attack,23.0
+419025,2023,1.5,West Ham United Football Club,379,Conor Coventry,Midfield,23.4
+420002,2023,7.0,Crystal Palace Football Club,873,Jean-Philippe Mateta,Attack,26.1
+420243,2023,40.0,Arsenal Football Club,11,Jurriën Timber,Defender,22.1
+421637,2023,9.0,Brentford Football Club,1148,Frank Onyeka,Midfield,25.6
+424015,2023,15.0,Everton Football Club,29,Nathan Patterson,Defender,21.8
+406638,2023,15.0,Tottenham Hotspur Football Club,148,Oliver Skipp,Midfield,22.9
+413039,2023,38.0,Brentford Football Club,1148,Bryan Mbeumo,Attack,24.0
+413403,2023,35.0,Aston Villa Football Club,405,Ezri Konsa,Defender,25.8
+415646,2023,1.0,Wolverhampton Wanderers Football Club,543,Bruno Jordão,Midfield,24.8
+415912,2023,14.0,West Ham United Football Club,379,Konstantinos Mavropanos,Defender,25.6
+415970,2023,12.0,Nottingham Forest Football Club,703,Joe Worrall,Defender,26.6
+401356,2023,35.0,West Ham United Football Club,379,Edson Álvarez,Midfield,25.8
+402733,2023,10.0,Nottingham Forest Football Club,703,Gonzalo Montiel,Defender,26.6
+403898,2023,16.0,Burnley Football Club,1132,Jordan Beyer,Defender,23.2
+404842,2023,28.0,Everton Football Club,29,Vitaliy Mykolenko,Defender,24.2
+406556,2023,0.6,Brighton and Hove Albion Football Club,1237,Tom McGill,Goalkeeper,23.4
+406560,2023,3.0,Sheffield United,350,Rhian Brewster,Attack,23.3
+406635,2023,110.0,Manchester City Football Club,281,Phil Foden,Midfield,23.2
+471690,2023,18.0,Association Football Club Bournemouth,989,Max Aarons,Defender,23.6
+473050,2023,25.0,Brentford Football Club,1148,Kevin Schade,Attack,21.7
+476344,2023,18.0,Tottenham Hotspur Football Club,148,Emerson Royal,Defender,24.5
+465717,2023,3.8,Sheffield United,350,Jayden Bogle,Defender,23.0
+466810,2023,30.0,Brighton and Hove Albion Football Club,1237,Ansu Fati,Attack,20.8
+468002,2023,8.0,West Ham United Football Club,379,Ben Johnson,Defender,23.5
+468249,2023,5.0,Burnley Football Club,1132,Vitinho,Defender,24.0
+469050,2023,25.0,Brentford Football Club,1148,Nathan Collins,Defender,22.3
+469064,2023,0.3,Association Football Club Bournemouth,989,Gavin Kilkenny,Midfield,23.5
+469781,2023,20.0,Association Football Club Bournemouth,989,Marcos Senesi,Defender,26.2
+456292,2023,0.3,Brentford Football Club,1148,Ellery Balcombe,Goalkeeper,23.8
+461883,2023,16.0,Fulham Football Club,931,Calvin Bassey,Defender,23.6
+463603,2023,35.0,Chelsea Football Club,631,Benoît Badiashile,Defender,22.3
+433177,2023,120.0,Arsenal Football Club,11,Bukayo Saka,Attack,21.9
+433183,2023,7.0,Wolverhampton Wanderers Football Club,543,Tommy Doyle,Midfield,21.8
+434675,2023,50.0,Liverpool Football Club,31,Cody Gakpo,Attack,24.2
+435338,2023,60.0,Arsenal Football Club,11,Gabriel,Defender,25.6
+438001,2023,8.0,Wolverhampton Wanderers Football Club,543,Santiago Bueno,Defender,24.7
+442248,2023,15.0,Brentford Football Club,1148,Ethan Pinnock,Defender,30.2
+444208,2023,3.5,Burnley Football Club,1132,Michael Obafemi,Attack,23.1
+503987,2023,25.0,Chelsea Football Club,631,Noni Madueke,Attack,21.4
+504148,2023,12.0,Brighton and Hove Albion Football Club,1237,Tariq Lamptey,Defender,22.8
+505194,2023,10.0,Sheffield United,350,Luke Thomas,Defender,22.1
+505219,2023,20.0,Everton Football Club,29,James Garner,Midfield,22.4
+507254,2023,1.0,Crystal Palace Football Club,873,Nathan Ferguson,Defender,22.8
+497291,2023,17.0,Nottingham Forest Football Club,703,Nicolás Domínguez,Midfield,25.1
+503680,2023,17.0,Nottingham Forest Football Club,703,Neco Williams,Defender,22.3
+503749,2023,42.0,Aston Villa Football Club,405,Jacob Ramsey,Midfield,22.2
+503975,2023,1.8,Wolverhampton Wanderers Football Club,543,Joe Hodge,Midfield,20.9
+490224,2023,0.9,Sheffield United,350,Ismaila Coulibaly,Midfield,22.6
+491296,2023,9.0,Burnley Football Club,1132,Anass Zaroury,Attack,22.7
+477758,2023,20.0,Manchester United Football Club,985,Aaron Wan-Bissaka,Defender,25.7
+480116,2023,16.0,Association Football Club Bournemouth,989,Lloyd Kelly,Defender,24.8
+480692,2023,75.0,Liverpool Football Club,31,Luis Díaz,Attack,26.5
+480762,2023,50.0,Manchester United Football Club,985,Lisandro Martínez,Defender,25.5
+480987,2023,7.0,Association Football Club Bournemouth,989,Chris Mepham,Defender,25.7
+553875,2023,45.0,Tottenham Hotspur Football Club,148,Pedro Porro,Defender,23.9
+554251,2023,3.0,Sheffield United,350,Yasser Larouci,Defender,22.6
+565822,2023,30.0,Liverpool Football Club,31,Harvey Elliott,Midfield,20.3
+538971,2023,8.0,Crystal Palace Football Club,873,Naouirou Ahamada,Midfield,21.3
+540941,2023,10.0,Brentford Football Club,1148,Mikkel Damsgaard,Midfield,23.1
+543164,2023,2.5,Sheffield United,350,Rhys Norrington-Davies,Defender,24.3
+543387,2023,35.0,Crystal Palace Football Club,873,Cheick Doucouré,Midfield,23.6
+543499,2023,45.0,West Ham United Football Club,379,Mohammed Kudus,Attack,23.0
+546543,2023,65.0,Liverpool Football Club,31,Darwin Núñez,Attack,24.1
+546712,2023,2.5,Sheffield United,350,Anis Ben Slimane,Midfield,22.4
+548470,2023,7.0,Luton Town,1031,Teden Mengi,Defender,21.3
+533916,2023,2.5,Brentford Football Club,1148,Shandon Baptiste,Midfield,25.3
+534033,2023,65.0,Liverpool Football Club,31,Alexis Mac Allister,Midfield,24.6
+535955,2023,16.0,Nottingham Forest Football Club,703,Nuno Tavares,Defender,23.5
+536508,2023,4.0,Burnley Football Club,1132,Han-Noah Massengo,Midfield,22.1
+536835,2023,18.0,Manchester United Football Club,985,Amad Diallo,Attack,21.1
+537382,2023,16.0,Tottenham Hotspur Football Club,148,Bryan Gil,Attack,22.5
+537598,2023,28.0,Arsenal Football Club,11,Fábio Vieira,Midfield,23.2
+512354,2023,3.0,Crystal Palace Football Club,873,Malcolm Ebiowei,Attack,19.9
+525287,2023,6.0,Fulham Football Club,931,Carlos Vinícius,Attack,28.4
+528888,2023,0.5,Fulham Football Club,931,Tyrese Francois,Midfield,23.0
+608175,2023,4.5,Luton Town,1031,Alfie Doughty,Midfield,23.6
+620322,2023,25.0,Chelsea Football Club,631,Malo Gusto,Defender,20.2
+587002,2023,0.7,Brentford Football Club,1148,Myles Peart-Harris,Midfield,20.9
+595809,2023,22.0,Everton Football Club,29,Beto,Attack,25.5
+606576,2023,0.25,Burnley Football Club,1132,Denis Franchi,Goalkeeper,20.8
+606718,2023,14.0,Wolverhampton Wanderers Football Club,543,Toti,Defender,24.5
+578539,2023,8.0,Crystal Palace Football Club,873,Chris Richards,Defender,23.3
+581669,2023,2.0,Burnley Football Club,1132,CJ Egan-Riley,Defender,20.6
+583189,2023,18.0,Nottingham Forest Football Club,703,Anthony Elanga,Attack,21.3
+583199,2023,12.0,Sheffield United,350,James McAtee,Midfield,20.8
+583255,2023,10.0,Association Football Club Bournemouth,989,Antoine Semenyo,Attack,23.6
+584769,2023,20.0,Everton Football Club,29,Dwight McNeil,Attack,23.7
+566799,2023,15.0,Burnley Football Club,1132,James Trafford,Goalkeeper,20.8
+571743,2023,28.0,Chelsea Football Club,631,Armando Broja,Attack,21.9
+576314,2023,15.0,Brighton and Hove Albion Football Club,1237,Jan Paul van Hecke,Defender,23.1
+696589,2023,4.0,Aston Villa Football Club,405,Tim Iroegbunam,Midfield,20.1
+698678,2023,6.0,Wolverhampton Wanderers Football Club,543,Hugo Bueno,Defender,20.9
+701057,2023,38.0,Manchester City Football Club,281,Rico Lewis,Defender,18.7
+659089,2023,25.0,Association Football Club Bournemouth,989,Ilya Zabarnyi,Defender,20.9
+659459,2023,15.0,Chelsea Football Club,631,Carney Chukwuemeka,Midfield,19.8
+660867,2023,22.0,Brighton and Hove Albion Football Club,1237,Julio Enciso,Midfield,19.5
+662334,2023,0.4,Liverpool Football Club,31,Marcelo Pitaluga,Goalkeeper,20.6
+648195,2023,80.0,Chelsea Football Club,631,Enzo Fernández,Midfield,22.5
+649020,2023,6.0,Wolverhampton Wanderers Football Club,543,Boubacar Traoré,Midfield,21.9
+649452,2023,10.0,Luton Town,1031,Issa Kaboré,Defender,22.2
+655488,2023,85.0,Arsenal Football Club,11,Gabriel Martinelli,Attack,22.1
+624258,2023,2.0,Liverpool Football Club,31,Conor Bradley,Defender,20.1
+626724,2023,35.0,Brighton and Hove Albion Football Club,1237,João Pedro,Attack,21.8
+627248,2023,1.0,Everton Football Club,29,Lewis Dobbin,Attack,20.6
+631996,2023,0.3,Nottingham Forest Football Club,703,Brandon Aguilera,Midfield,20.1
+644401,2023,12.0,Brentford Football Club,1148,Keane Lewis-Potter,Midfield,22.4
+983989,2023,12.0,Brighton and Hove Albion Football Club,1237,Facundo Buonanotte,Midfield,18.6
+820374,2023,6.0,Manchester United Football Club,985,Kobbie Mainoo,Midfield,18.3
+823231,2023,20.0,Association Football Club Bournemouth,989,Dango Ouattara,Attack,21.5
+855256,2023,20.0,Association Football Club Bournemouth,989,Alex Scott,Midfield,19.9
+859951,2023,2.0,Tottenham Hotspur Football Club,148,Ashley Phillips,Defender,18.1
+864799,2023,11.0,Liverpool Football Club,31,Stefan Bajcetic,Midfield,18.8
+743600,2023,14.0,Nottingham Forest Football Club,703,Andrey Santos,Midfield,19.2
+746739,2023,2.5,Sheffield United,350,Andre Brooks,Midfield,19.9
+746740,2023,1.0,Sheffield United,350,Daniel Jebbison,Attack,20.0
+808509,2023,28.0,Nottingham Forest Football Club,703,Danilo,Midfield,22.3
+811779,2023,30.0,Manchester United Football Club,985,Alejandro Garnacho,Attack,19.1
+730893,2023,22.0,Crystal Palace Football Club,873,Tyrick Mitchell,Defender,23.9
+735571,2023,5.0,Fulham Football Club,931,Rodrigo Muniz,Attack,22.2
+16306,2023,30.0,Manchester United Football Club,985,Casemiro,Midfield,31.4
+29241,2023,2.0,Chelsea Football Club,631,Thiago Silva,Defender,38.9
+29692,2023,0.7,West Ham United Football Club,379,Lukasz Fabianski,Goalkeeper,38.3
+33027,2023,0.5,Luton Town,1031,Tim Krul,Goalkeeper,35.3
+34130,2023,0.25,Manchester United Football Club,985,Tom Heaton,Goalkeeper,37.3
+40613,2023,0.8,Burnley Football Club,1132,Jack Cork,Midfield,34.1
+42412,2023,2.0,Manchester United Football Club,985,Jonny Evans,Defender,35.6
+3333,2023,1.0,Brighton and Hove Albion Football Club,1237,James Milner,Midfield,37.6
+14044,2023,0.1,Everton Football Club,29,Andy Lonergan,Goalkeeper,39.8
+14086,2023,0.6,Everton Football Club,29,Ashley Young,Defender,38.1
+14555,2023,0.2,Manchester City Football Club,281,Scott Carson,Goalkeeper,37.9
+488935,2023,2.5,Brentford Football Club,1148,Hákon Valdimarsson,Goalkeeper,21.8
+493003,2023,15.0,Crystal Palace Football Club,873,Daniel Muñoz,Defender,27.2
+503743,2023,8.0,Aston Villa Football Club,405,Morgan Rogers,Midfield,21.0
+724783,2023,0.5,Wolverhampton Wanderers Football Club,543,Tawanda Chirewa,Midfield,19.8
+591844,2023,1.5,Aston Villa Football Club,405,Joe Gauci,Goalkeeper,23.1
+568559,2023,25.0,Tottenham Hotspur Football Club,148,Radu Drăgușin,Defender,21.5
+1141628,2023,3.5,Brentford Football Club,1148,Yunus Konak,Midfield,17.6
+744149,2023,20.0,Crystal Palace Football Club,873,Adam Wharton,Midfield,19.5
+780630,2023,5.0,Manchester United Football Club,985,Willy Kambwala,Defender,18.9
+787232,2023,10.0,Burnley Football Club,1132,David Datro Fofana,Attack,20.6
+967318,2023,0.1,Sheffield United,350,Billy Blacker,Attack,17.2
+251106,2023,20.0,Association Football Club Bournemouth,989,Enes Ünal,Attack,26.2
+849410,2023,13.0,Brighton and Hove Albion Football Club,1237,Valentín Barco,Midfield,19.0
+655006,2023,3.0,Chelsea Football Club,631,Diego Moreira,Midfield,19.0
+711969,2023,10.0,Burnley Football Club,1132,Lorenz Assignon,Defender,23.1
+816124,2023,0.5,Wolverhampton Wanderers Football Club,543,Noha Lemina,Midfield,18.1
+842341,2023,7.0,Burnley Football Club,1132,Maxime Estève,Defender,21.2
+874066,2023,0.45,Sheffield United,350,Oliver Arblaster,Midfield,19.6
+874538,2023,0.275,Brentford Football Club,1148,Ryan Trevitt,Midfield,20.4
+790992,2023,5.0,Chelsea Football Club,631,Alfie Gilchrist,Defender,19.7
+127202,2023,7.0,Nottingham Forest Football Club,703,Matz Sels,Goalkeeper,31.4
+170527,2023,17.0,Tottenham Hotspur Football Club,148,Timo Werner,Attack,27.4
+226073,2023,3.5,Sheffield United,350,Ivo Grbic,Goalkeeper,27.5
+348623,2023,5.0,Sheffield United,350,Mason Holgate,Defender,26.8
+305274,2023,0.5,Luton Town,1031,Fred Onyedinma,Midfield,26.7
+426192,2023,8.0,Sheffield United,350,Ben Brereton Díaz,Attack,24.3
+368629,2023,0.4,Luton Town,1031,Jack Walton,Goalkeeper,25.3
+387191,2023,2.0,Luton Town,1031,Daiki Hashioka,Defender,24.2
+503679,2023,1.8,Liverpool Football Club,31,Rhys Williams,Defender,22.5
+504215,2023,18.0,Nottingham Forest Football Club,703,Giovanni Reyna,Midfield,20.7
+496661,2023,0.2,Luton Town,1031,Elliot Thorpe,Midfield,22.7
+626888,2023,2.2,Aston Villa Football Club,405,Kaine Kesler-Hayden,Defender,20.8
+622380,2023,10.0,Chelsea Football Club,631,Cesare Casadei,Midfield,20.6
+555076,2023,15.0,Association Football Club Bournemouth,989,Romain Faivre,Midfield,25.0
+726701,2023,3.0,Nottingham Forest Football Club,703,Rodrigo Ribeiro,Attack,18.3
+670845,2023,2.0,Manchester United Football Club,985,Omari Forson,Attack,19.0
+611793,2023,2.0,Association Football Club Bournemouth,989,James Hill,Defender,21.6
+863741,2023,1.0,Wolverhampton Wanderers Football Club,543,Nathan Fraser,Attack,18.4
+444641,2023,0.175,Wolverhampton Wanderers Football Club,543,Louie Moulden,Goalkeeper,21.6
+1005583,2024,0.1,Aston Villa Football Club,405,Alysson,Attack,18.2
+16306,2024,15.0,Manchester United Football Club,985,Casemiro,Midfield,32.4
+53622,2024,12.0,Manchester City Football Club,281,İlkay Gündoğan,Midfield,33.8
+74230,2024,8.0,Wolverhampton Wanderers Football Club,543,Pablo Sarabia,Midfield,32.2
+88755,2024,45.0,Manchester City Football Club,281,Kevin De Bruyne,Midfield,33.1
+111195,2024,8.0,Brighton and Hove Albion Football Club,1237,Joël Veltman,Defender,32.5
+126665,2024,2.0,Everton Football Club,29,Idrissa Gueye,Midfield,34.8
+181579,2024,22.0,Nottingham Forest Football Club,703,James Ward-Prowse,Midfield,29.7
+183288,2024,28.0,Manchester United Football Club,985,Luke Shaw,Defender,29.1
+203460,2024,55.0,Manchester City Football Club,281,Jack Grealish,Attack,28.9
+203853,2024,35.0,Arsenal Football Club,11,Oleksandr Zinchenko,Defender,27.6
+209212,2024,15.0,Brighton and Hove Albion Football Club,1237,Solly March,Attack,30.0
+427568,2024,22.0,Southampton FC,180,Aaron Ramsdale,Goalkeeper,26.2
+435338,2024,75.0,Arsenal Football Club,11,Gabriel,Defender,26.6
+442248,2024,10.0,Brentford Football Club,1148,Ethan Pinnock,Defender,31.2
+444523,2024,55.0,West Ham United Football Club,379,Lucas Paquetá,Midfield,26.9
+450050,2024,18.0,Wolverhampton Wanderers Football Club,543,Jean-Ricner Bellegarde,Midfield,26.1
+472423,2024,35.0,Chelsea Football Club,631,Reece James,Defender,24.6
+474701,2024,22.0,West Ham United Football Club,379,Crysencio Summerville,Attack,22.8
+476701,2024,50.0,Manchester United Football Club,985,Manuel Ugarte,Midfield,23.3
+478573,2024,40.0,Liverpool Football Club,31,Ryan Gravenberch,Midfield,22.2
+479999,2024,60.0,Crystal Palace Football Club,873,Eberechi Eze,Midfield,26.1
+480692,2024,80.0,Liverpool Football Club,31,Luis Díaz,Attack,27.5
+485706,2024,55.0,Aston Villa Football Club,405,Amadou Onana,Midfield,23.0
+503743,2024,22.0,Aston Villa Football Club,405,Morgan Rogers,Midfield,22.0
+503749,2024,32.0,Aston Villa Football Club,405,Jacob Ramsey,Midfield,23.2
+503987,2024,35.0,Chelsea Football Club,631,Noni Madueke,Attack,22.4
+700106,2024,25.0,Brighton and Hove Albion Football Club,1237,Brajan Gruda,Midfield,20.2
+701057,2024,40.0,Manchester City Football Club,281,Rico Lewis,Defender,19.7
+711544,2024,15.0,Everton Football Club,29,Jake O'Brien,Defender,23.2
+735570,2024,40.0,Wolverhampton Wanderers Football Club,543,João Gomes,Midfield,23.5
+741238,2024,18.0,Ipswich Town,677,Omari Hutchinson,Midfield,20.8
+743498,2024,18.0,Tottenham Hotspur Football Club,148,Wilson Odobert,Attack,19.7
+776890,2024,40.0,Chelsea Football Club,631,Nicolas Jackson,Attack,23.1
+805714,2024,8.0,Chelsea Football Club,631,Renato Veiga,Defender,21.0
+811779,2024,50.0,Manchester United Football Club,985,Alejandro Garnacho,Attack,20.1
+864121,2024,13.0,Leicester City,1003,Abdul Fatawu,Attack,20.4
+866246,2024,12.0,Tottenham Hotspur Football Club,148,Lucas Bergvall,Midfield,18.5
+866655,2024,5.0,Southampton FC,180,Tyler Dibling,Attack,18.5
+867688,2024,20.0,Brighton and Hove Albion Football Club,1237,Jack Hinshelwood,Midfield,19.3
+880245,2024,12.0,Southampton FC,180,Mateus Fernandes,Midfield,20.1
+890290,2024,12.0,Association Football Club Bournemouth,989,Dean Huijsen,Defender,19.3
+890719,2024,12.0,Arsenal Football Club,11,Ethan Nwaneri,Midfield,17.4
+890721,2024,5.0,Arsenal Football Club,11,Myles Lewis-Skelly,Defender,17.8
+922693,2024,25.0,Tottenham Hotspur Football Club,148,Archie Gray,Midfield,18.4
+923831,2024,55.0,Manchester United Football Club,985,Leny Yoro,Defender,18.7
+936842,2024,2.0,Leicester City,1003,Michael Golding,Midfield,18.2
+1005649,2024,40.0,Nottingham Forest Football Club,703,Murillo,Defender,22.1
+1011147,2024,1.0,Tottenham Hotspur Football Club,148,Mikey Moore,Attack,17.0
+1012534,2024,28.0,Brighton and Hove Albion Football Club,1237,Yankuba Minteh,Attack,20.0
+1193867,2024,5.0,Wolverhampton Wanderers Football Club,543,Pedro Lima,Defender,18.1
+506189,2024,13.0,Southampton FC,180,Flynn Downes,Midfield,25.5
+536835,2024,22.0,Manchester United Football Club,985,Amad Diallo,Attack,22.1
+525247,2024,38.0,West Ham United Football Club,379,Maximilian Kilman,Defender,27.2
+537860,2024,30.0,Chelsea Football Club,631,Mykhaylo Mudryk,Attack,23.6
+538977,2024,28.0,Brighton and Hove Albion Football Club,1237,Georginio Rutter,Attack,22.3
+565093,2024,22.0,Brighton and Hove Albion Football Club,1237,Bart Verbruggen,Goalkeeper,22.0
+541231,2024,18.0,Brentford Football Club,1148,Sepp van den Berg,Defender,22.6
+546543,2024,65.0,Liverpool Football Club,31,Darwin Núñez,Attack,25.1
+559263,2024,18.0,Brentford Football Club,1148,Fábio Carvalho,Midfield,21.9
+568177,2024,90.0,Chelsea Football Club,631,Cole Palmer,Midfield,22.2
+567576,2024,22.0,Nottingham Forest Football Club,703,Elliot Anderson,Midfield,21.7
+571743,2024,18.0,Everton Football Club,29,Armando Broja,Attack,22.9
+576314,2024,22.0,Brighton and Hove Albion Football Club,1237,Jan Paul van Hecke,Defender,24.1
+316125,2024,22.0,Chelsea Football Club,631,Ben Chilwell,Defender,27.6
+583189,2024,25.0,Nottingham Forest Football Club,703,Anthony Elanga,Attack,22.3
+583255,2024,20.0,Association Football Club Bournemouth,989,Antoine Semenyo,Attack,24.6
+591949,2024,25.0,Brentford Football Club,1148,Aaron Hickey,Defender,22.1
+596446,2024,15.0,Ipswich Town,677,Leif Davis,Defender,24.6
+601883,2024,40.0,Manchester City Football Club,281,Matheus Nunes,Defender,25.9
+602105,2024,20.0,Manchester United Football Club,985,Antony,Attack,24.4
+609556,2024,7.0,Newcastle United Football Club,762,William Osula,Attack,21.0
+610581,2024,2.0,Ipswich Town,677,Ali Al-Hamadi,Attack,22.4
+610849,2024,15.0,Ipswich Town,677,Liam Delap,Attack,21.5
+626724,2024,50.0,Brighton and Hove Albion Football Club,1237,João Pedro,Attack,22.8
+644401,2024,18.0,Brentford Football Club,1148,Keane Lewis-Potter,Midfield,23.4
+648046,2024,45.0,Brighton and Hove Albion Football Club,1237,Evan Ferguson,Attack,19.8
+649317,2024,35.0,Aston Villa Football Club,405,Jhon Durán,Attack,20.6
+654253,2024,2.0,Manchester United Football Club,985,Toby Collyer,Midfield,20.6
+655488,2024,60.0,Arsenal Football Club,11,Gabriel Martinelli,Attack,23.1
+667121,2024,15.0,Wolverhampton Wanderers Football Club,543,Rodrigo Gomes,Midfield,21.1
+670858,2024,22.0,Newcastle United Football Club,762,Lewis Hall,Defender,19.9
+693095,2024,20.0,Ipswich Town,677,Jacob Greaves,Defender,23.9
+696589,2024,10.0,Everton Football Club,29,Tim Iroegbunam,Midfield,21.1
+212847,2024,15.0,Brighton and Hove Albion Football Club,1237,Adam Webster,Defender,29.6
+226973,2024,13.0,Fulham Football Club,931,Harrison Reed,Midfield,29.5
+240306,2024,65.0,Manchester United Football Club,985,Bruno Fernandes,Midfield,29.9
+249565,2024,30.0,Aston Villa Football Club,405,Youri Tielemans,Midfield,27.2
+249994,2024,10.0,Wolverhampton Wanderers Football Club,543,José Sá,Goalkeeper,31.5
+250478,2024,8.0,Newcastle United Football Club,762,Matt Targett,Defender,28.9
+251106,2024,15.0,Association Football Club Bournemouth,989,Enes Ünal,Attack,27.2
+253677,2024,10.0,Aston Villa Football Club,405,Tyrone Mings,Defender,31.4
+258889,2024,45.0,Tottenham Hotspur Football Club,148,Dominic Solanke,Attack,26.9
+262980,2024,18.0,Crystal Palace Football Club,873,Jefferson Lerma,Midfield,29.8
+300716,2024,10.0,Arsenal Football Club,11,Kieran Tierney,Defender,27.2
+309400,2024,75.0,Arsenal Football Club,11,Kai Havertz,Attack,25.1
+406638,2024,18.0,Leicester City,1003,Oliver Skipp,Midfield,23.9
+320411,2024,18.0,Association Football Club Bournemouth,989,Philip Billing,Midfield,28.1
+321247,2024,20.0,Aston Villa Football Club,405,Emiliano Buendía,Midfield,27.6
+326031,2024,55.0,Manchester United Football Club,985,Matthijs de Ligt,Defender,25.0
+329145,2024,12.0,Aston Villa Football Club,405,Diego Carlos,Defender,31.4
+341092,2024,30.0,Liverpool Football Club,31,Federico Chiesa,Attack,26.8
+342046,2024,3.0,Ipswich Town,677,Axel Tuanzebe,Defender,26.7
+351749,2024,22.0,Ipswich Town,677,Kalvin Phillips,Midfield,28.7
+357147,2024,40.0,Manchester United Football Club,985,Diogo Dalot,Defender,25.4
+363205,2024,55.0,Arsenal Football Club,11,Gabriel Jesus,Attack,27.3
+378710,2024,35.0,Tottenham Hotspur Football Club,148,Richarlison,Attack,27.2
+386047,2024,35.0,Chelsea Football Club,631,Axel Disasi,Defender,26.4
+392757,2024,45.0,Crystal Palace Football Club,873,Marc Guéhi,Defender,24.1
+392765,2024,28.0,Fulham Football Club,931,Emile Smith Rowe,Midfield,24.0
+392768,2024,22.0,Nottingham Forest Football Club,703,Callum Hudson-Odoi,Attack,23.7
+401320,2024,10.0,Ipswich Town,677,Dara O'Shea,Defender,25.4
+418560,2024,200.0,Manchester City Football Club,281,Erling Haaland,Attack,24.0
+413507,2024,18.0,Nottingham Forest Football Club,703,Nikola Milenković,Defender,26.8
+425306,2024,5.0,Crystal Palace Football Club,873,Matt Turner,Goalkeeper,30.1
+111819,2024,2.0,Arsenal Football Club,11,Neto,Goalkeeper,35.0
+102017,2024,10.0,Arsenal Football Club,11,Jorginho,Midfield,32.6
+104124,2024,3.0,West Ham United Football Club,379,Michail Antonio,Attack,34.3
+105470,2024,25.0,Liverpool Football Club,31,Alisson,Goalkeeper,31.8
+108354,2024,3.5,Leicester City,1003,Jordan Ayew,Attack,32.9
+108725,2024,7.0,Nottingham Forest Football Club,703,Chris Wood,Attack,32.7
+110864,2024,8.0,Wolverhampton Wanderers Football Club,543,Sam Johnstone,Goalkeeper,31.4
+85177,2024,1.5,Crystal Palace Football Club,873,Nathaniel Clyne,Defender,33.3
+85941,2024,9.0,Manchester City Football Club,281,Stefan Ortega,Goalkeeper,31.7
+91845,2024,38.0,Tottenham Hotspur Football Club,148,Heung-min Son,Attack,32.1
+92571,2024,0.7,West Ham United Football Club,379,Aaron Cresswell,Defender,34.6
+92572,2024,0.9,Crystal Palace Football Club,873,Joel Ward,Defender,34.8
+95424,2024,10.0,Manchester City Football Club,281,Kyle Walker,Defender,34.2
+95810,2024,8.0,Newcastle United Football Club,762,Kieran Trippier,Defender,33.9
+68390,2024,0.5,Everton Football Club,29,Séamus Coleman,Defender,35.8
+69633,2024,6.0,Manchester United Football Club,985,Christian Eriksen,Midfield,32.5
+72476,2024,11.0,Fulham Football Club,931,Bernd Leno,Goalkeeper,32.4
+73564,2024,3.0,Brighton and Hove Albion Football Club,1237,Jason Steele,Goalkeeper,34.0
+74960,2024,1.0,Newcastle United Football Club,762,Martin Dúbravka,Goalkeeper,35.5
+75458,2024,1.5,Aston Villa Football Club,405,Robin Olsen,Goalkeeper,34.6
+75489,2024,15.0,West Ham United Football Club,379,Niclas Füllkrug,Attack,31.5
+14555,2024,0.2,Manchester City Football Club,281,Scott Carson,Goalkeeper,38.9
+43530,2024,0.9,Southampton FC,180,Adam Lallana,Midfield,36.2
+51471,2024,28.0,Manchester City Football Club,281,Mateo Kovacic,Midfield,30.2
+52570,2024,1.2,Tottenham Hotspur Football Club,148,Fraser Forster,Goalkeeper,36.4
+61697,2024,0.9,West Ham United Football Club,379,Wes Foderingham,Goalkeeper,33.5
+61841,2024,1.0,Association Football Club Bournemouth,989,Adam Smith,Defender,33.3
+67063,2024,5.0,Brighton and Hove Albion Football Club,1237,Danny Welbeck,Attack,33.7
+14086,2024,0.5,Everton Football Club,29,Ashley Young,Defender,39.1
+142389,2024,0.3,Newcastle United Football Club,762,Mark Gillespie,Goalkeeper,32.3
+144028,2024,30.0,Arsenal Football Club,11,Leandro Trossard,Attack,29.7
+146310,2024,12.0,Liverpool Football Club,31,Wataru Endo,Midfield,31.5
+146509,2024,1.2,Ipswich Town,677,Conor Townsend,Defender,31.4
+146795,2024,3.0,Southampton FC,180,Ryan Fraser,Attack,30.4
+148153,2024,10.0,Brighton and Hove Albion Football Club,1237,Lewis Dunk,Defender,32.7
+148367,2024,15.0,Brentford Football Club,1148,Christian Nørgaard,Midfield,30.4
+130164,2024,20.0,Everton Football Club,29,Jordan Pickford,Goalkeeper,30.4
+131978,2024,8.0,Aston Villa Football Club,405,Ross Barkley,Midfield,30.7
+134270,2024,7.0,Newcastle United Football Club,762,Dan Burn,Defender,32.2
+134294,2024,7.0,West Ham United Football Club,379,Danny Ings,Attack,32.0
+134425,2024,22.0,Arsenal Football Club,11,Raheem Sterling,Attack,29.6
+135343,2024,9.0,Newcastle United Football Club,762,Fabian Schär,Defender,32.6
+136401,2024,2.0,Wolverhampton Wanderers Football Club,543,Daniel Bentley,Goalkeeper,31.1
+139208,2024,28.0,Liverpool Football Club,31,Virgil van Dijk,Defender,33.1
+123682,2024,11.0,Newcastle United Football Club,762,Callum Wilson,Attack,32.4
+124419,2024,7.0,Newcastle United Football Club,762,Odysseas Vlachodimos,Goalkeeper,30.3
+125714,2024,10.0,Brentford Football Club,1148,Mark Flekken,Goalkeeper,31.1
+126664,2024,12.0,Aston Villa Football Club,405,Lucas Digne,Defender,31.0
+127187,2024,8.0,Everton Football Club,29,Abdoulaye Doucouré,Midfield,31.6
+127202,2024,7.0,Nottingham Forest Football Club,703,Matz Sels,Goalkeeper,32.4
+128901,2024,3.0,Leicester City,1003,Conor Coady,Defender,31.4
+29692,2024,0.7,West Ham United Football Club,379,Lukasz Fabianski,Goalkeeper,39.3
+111873,2024,25.0,Aston Villa Football Club,405,Emiliano Martínez,Goalkeeper,31.9
+116648,2024,0.8,Chelsea Football Club,631,Marcus Bettinelli,Goalkeeper,32.2
+118534,2024,6.0,Everton Football Club,29,Michael Keane,Defender,31.6
+120629,2024,10.0,West Ham United Football Club,379,Alphonse Areola,Goalkeeper,31.4
+121477,2024,2.0,Wolverhampton Wanderers Football Club,543,Craig Dawson,Defender,34.2
+123275,2024,2.0,Fulham Football Club,931,Tom Cairney,Midfield,33.5
+123551,2024,0.9,Ipswich Town,677,Sam Morsy,Midfield,32.9
+195633,2024,2.8,Southampton FC,180,Charlie Taylor,Defender,30.9
+196722,2024,0.5,Crystal Palace Football Club,873,Remi Matthews,Goalkeeper,30.5
+197838,2024,1.0,Leicester City,1003,Jamie Vardy,Attack,37.6
+198516,2024,5.0,Nottingham Forest Football Club,703,Harry Toffolo,Defender,29.0
+199527,2024,14.0,Newcastle United Football Club,762,Jacob Murphy,Attack,29.4
+203026,2024,1.5,Leicester City,1003,Danny Ward,Goalkeeper,31.1
+203394,2024,20.0,Fulham Football Club,931,Andreas Pereira,Midfield,28.6
+184573,2024,10.0,Manchester United Football Club,985,Victor Lindelöf,Defender,30.0
+186590,2024,32.0,Manchester City Football Club,281,John Stones,Defender,30.2
+188077,2024,12.0,Association Football Club Bournemouth,989,Ryan Christie,Midfield,29.4
+192080,2024,14.0,Newcastle United Football Club,762,Nick Pope,Goalkeeper,32.3
+192279,2024,11.0,Association Football Club Bournemouth,989,Kepa Arrizabalaga,Goalkeeper,29.8
+192765,2024,8.0,Tottenham Hotspur Football Club,148,Ben Davies,Defender,31.3
+193098,2024,11.0,Nottingham Forest Football Club,703,Álex Moreno,Defender,31.1
+193116,2024,23.0,Aston Villa Football Club,405,John McGinn,Midfield,29.8
+177476,2024,35.0,Manchester City Football Club,281,Nathan Aké,Defender,29.5
+177907,2024,15.0,Manchester United Football Club,985,Harry Maguire,Defender,31.4
+181687,2024,0.5,Ipswich Town,677,Massimo Luongo,Midfield,31.8
+181778,2024,12.0,West Ham United Football Club,379,Emerson,Defender,30.0
+183318,2024,6.0,Newcastle United Football Club,762,Jamaal Lascelles,Defender,30.7
+184528,2024,2.5,Newcastle United Football Club,762,Emil Krafth,Defender,30.0
+148455,2024,55.0,Liverpool Football Club,31,Mohamed Salah,Attack,32.1
+157506,2024,6.0,Crystal Palace Football Club,873,Jeffrey Schlupp,Midfield,31.6
+157672,2024,7.0,West Ham United Football Club,379,Vladimír Coufal,Defender,31.9
+163744,2024,2.0,Southampton FC,180,Jack Stephens,Defender,30.5
+170527,2024,15.0,Tottenham Hotspur Football Club,148,Timo Werner,Attack,28.4
+170934,2024,9.0,Wolverhampton Wanderers Football Club,543,Mario Lemina,Midfield,30.9
+171679,2024,2.5,Wolverhampton Wanderers Football Club,543,Matt Doherty,Defender,32.5
+173504,2024,10.0,Everton Football Club,29,James Tarkowski,Defender,31.7
+245056,2024,10.0,Fulham Football Club,931,Saša Lukić,Midfield,28.0
+249089,2024,14.0,Association Football Club Bournemouth,989,Lewis Cook,Midfield,27.5
+249126,2024,12.0,Leicester City,1003,Harry Winks,Midfield,28.5
+250426,2024,16.0,Southampton FC,180,Adam Armstrong,Attack,27.5
+234781,2024,8.0,Southampton FC,180,Maxwel Cornet,Attack,27.8
+234803,2024,25.0,Liverpool Football Club,31,Andrew Robertson,Defender,30.4
+236490,2024,14.0,Nottingham Forest Football Club,703,Ola Aina,Defender,27.8
+238223,2024,30.0,Manchester City Football Club,281,Ederson,Goalkeeper,31.0
+241641,2024,60.0,Manchester City Football Club,281,Bernardo Silva,Midfield,30.0
+242631,2024,25.0,Fulham Football Club,931,Alex Iwobi,Attack,28.2
+243028,2024,11.0,Southampton FC,180,Jan Bednarek,Defender,28.3
+215810,2024,0.2,Wolverhampton Wanderers Football Club,543,Tom King,Goalkeeper,29.4
+215876,2024,7.0,Leicester City,1003,Ricardo Pereira,Defender,30.8
+225122,2024,15.0,Wolverhampton Wanderers Football Club,543,Gonçalo Guedes,Attack,27.7
+230784,2024,15.0,Arsenal Football Club,11,Thomas Partey,Midfield,31.1
+231572,2024,10.0,Wolverhampton Wanderers Football Club,543,Nélson Semedo,Defender,30.7
+233124,2024,2.0,Aston Villa Football Club,405,Kortney Hause,Defender,29.0
+234509,2024,35.0,Manchester United Football Club,985,André Onana,Goalkeeper,28.3
+204103,2024,10.0,Fulham Football Club,931,Adama Traoré,Attack,28.5
+206040,2024,5.0,Fulham Football Club,931,Raúl Jiménez,Attack,33.2
+206225,2024,1.5,Newcastle United Football Club,762,Isaac Hayden,Midfield,29.4
+206746,2024,15.0,Fulham Football Club,931,Kenny Tete,Defender,28.8
+207014,2024,9.0,Crystal Palace Football Club,873,Will Hughes,Midfield,29.3
+284857,2024,30.0,Chelsea Football Club,631,Marc Cucurella,Defender,26.0
+286047,2024,35.0,Tottenham Hotspur Football Club,148,Guglielmo Vicario,Goalkeeper,27.8
+289592,2024,20.0,Everton Football Club,29,Orel Mangala,Midfield,26.4
+292246,2024,22.0,Wolverhampton Wanderers Football Club,543,Hee-chan Hwang,Attack,28.5
+292808,2024,20.0,Leicester City,1003,Wout Faes,Defender,26.3
+294057,2024,60.0,Tottenham Hotspur Football Club,148,James Maddison,Midfield,27.7
+295313,2024,22.0,Nottingham Forest Football Club,703,Taiwo Awoniyi,Attack,27.0
+272855,2024,11.0,Southampton FC,180,Paul Onuachu,Attack,30.2
+272999,2024,16.0,Newcastle United Football Club,762,Miguel Almirón,Attack,30.5
+274839,2024,18.0,Leicester City,1003,Wilfred Ndidi,Midfield,27.6
+277033,2024,9.0,Association Football Club Bournemouth,989,David Brooks,Attack,27.1
+279455,2024,17.0,Fulham Football Club,931,Harry Wilson,Attack,27.4
+282429,2024,11.0,Tottenham Hotspur Football Club,148,Sergio Reguilón,Defender,27.6
+283628,2024,24.0,West Ham United Football Club,379,Tomáš Souček,Midfield,29.4
+284730,2024,40.0,Manchester City Football Club,281,Manuel Akanji,Defender,29.0
+260827,2024,32.0,Fulham Football Club,931,Joachim Andersen,Defender,28.2
+260841,2024,3.0,Leicester City,1003,Daniel Iversen,Goalkeeper,27.0
+262226,2024,15.0,Fulham Football Club,931,Timothy Castagne,Defender,28.7
+262300,2024,3.5,Southampton FC,180,Ryan Manning,Defender,28.1
+262749,2024,40.0,Arsenal Football Club,11,David Raya,Goalkeeper,28.9
+270171,2024,22.0,Brentford Football Club,1148,Vitaly Janelt,Midfield,26.2
+272622,2024,20.0,Fulham Football Club,931,Issa Diop,Defender,27.6
+253341,2024,4.0,Crystal Palace Football Club,873,Rob Holding,Defender,28.9
+256178,2024,28.0,Liverpool Football Club,31,Joe Gomez,Defender,27.2
+258004,2024,75.0,Manchester City Football Club,281,Rúben Dias,Defender,27.2
+258878,2024,20.0,Chelsea Football Club,631,Tosin Adarabioyo,Defender,26.9
+258919,2024,15.0,Crystal Palace Football Club,873,Dean Henderson,Goalkeeper,27.4
+258923,2024,55.0,Manchester United Football Club,985,Marcus Rashford,Attack,26.8
+338424,2024,45.0,Arsenal Football Club,11,Mikel Merino,Midfield,28.1
+339340,2024,15.0,Manchester United Football Club,985,Tyrell Malacia,Defender,25.0
+339556,2024,20.0,Brentford Football Club,1148,Rico Henry,Defender,27.1
+340321,2024,10.0,Brentford Football Club,1148,Josh Dasilva,Midfield,25.8
+340324,2024,25.0,Crystal Palace Football Club,873,Eddie Nketiah,Attack,25.2
+340325,2024,18.0,Fulham Football Club,931,Reiss Nelson,Attack,24.6
+340328,2024,11.0,Leicester City,1003,Stephy Mavididi,Attack,26.2
+340329,2024,28.0,Newcastle United Football Club,762,Joe Willock,Midfield,25.0
+331560,2024,32.0,Arsenal Football Club,11,Takehiro Tomiyasu,Defender,25.7
+332705,2024,15.0,Association Football Club Bournemouth,989,Tyler Adams,Midfield,25.5
+333014,2024,20.0,Fulham Football Club,931,Sander Berge,Midfield,26.5
+333241,2024,40.0,Newcastle United Football Club,762,Joelinton,Midfield,28.0
+335721,2024,55.0,Arsenal Football Club,11,Ben White,Defender,26.8
+336077,2024,10.0,Manchester United Football Club,985,Altay Bayındır,Goalkeeper,26.3
+336367,2024,0.6,Southampton FC,180,Joe Lumley,Goalkeeper,29.5
+338070,2024,20.0,Liverpool Football Club,31,Konstantinos Tsimikas,Defender,28.2
+324223,2024,2.5,Southampton FC,180,James Bree,Defender,26.6
+324358,2024,55.0,Aston Villa Football Club,405,Ollie Watkins,Attack,28.6
+328658,2024,18.0,Brentford Football Club,1148,Kristoffer Ajer,Defender,26.3
+329813,2024,0.8,Everton Football Club,29,João Virgínia,Goalkeeper,24.8
+330659,2024,22.0,Association Football Club Bournemouth,989,Justin Kluivert,Midfield,25.2
+306024,2024,22.0,Everton Football Club,29,Dominic Calvert-Lewin,Attack,27.4
+314353,2024,75.0,Liverpool Football Club,31,Trent Alexander-Arnold,Defender,25.8
+314875,2024,45.0,West Ham United Football Club,379,Jarrod Bowen,Attack,27.6
+316264,2024,110.0,Arsenal Football Club,11,Martin Ødegaard,Midfield,25.6
+319859,2024,25.0,Brentford Football Club,1148,Mathias Jensen,Midfield,28.6
+357565,2024,130.0,Manchester City Football Club,281,Rodri,Midfield,28.1
+357658,2024,4.0,Association Football Club Bournemouth,989,Mark Travers,Goalkeeper,25.2
+357662,2024,110.0,Arsenal Football Club,11,Declan Rice,Midfield,25.5
+361093,2024,45.0,Newcastle United Football Club,762,Sven Botman,Defender,24.6
+369316,2024,30.0,Brighton and Hove Albion Football Club,1237,Ferdi Kadıoğlu,Defender,24.8
+369567,2024,5.0,Wolverhampton Wanderers Football Club,543,Sasa Kalajdzic,Attack,27.1
+371021,2024,8.0,Ipswich Town,677,Arijanet Murić,Goalkeeper,25.7
+349599,2024,30.0,Brighton and Hove Albion Football Club,1237,Pervis Estupiñán,Defender,26.5
+349701,2024,28.0,Fulham Football Club,931,Antonee Robinson,Defender,27.0
+354362,2024,35.0,Tottenham Hotspur Football Club,148,Rodrigo Bentancur,Midfield,27.1
+355915,2024,65.0,Tottenham Hotspur Football Club,148,Cristian Romero,Defender,26.3
+356141,2024,15.0,Crystal Palace Football Club,873,Daichi Kamada,Midfield,28.0
+357119,2024,50.0,Liverpool Football Club,31,Ibrahima Konaté,Defender,25.2
+344009,2024,5.0,Ipswich Town,677,Nathan Broadhead,Attack,26.3
+344152,2024,14.0,Leicester City,1003,Odsonne Édouard,Attack,26.5
+344381,2024,50.0,Chelsea Football Club,631,Christopher Nkunku,Attack,26.7
+346314,2024,13.0,Crystal Palace Football Club,873,Trevoh Chalobah,Defender,25.1
+346483,2024,32.0,Manchester United Football Club,985,Mason Mount,Midfield,25.6
+346707,2024,25.0,Newcastle United Football Club,762,Sean Longstaff,Midfield,26.8
+349066,2024,75.0,Newcastle United Football Club,762,Alexander Isak,Attack,24.9
+349503,2024,8.0,Ipswich Town,677,Conor Chaplin,Attack,27.5
+340456,2024,32.0,Manchester United Football Club,985,Noussair Mazraoui,Defender,26.7
+340918,2024,22.0,Liverpool Football Club,31,Caoimhín Kelleher,Goalkeeper,25.7
+340950,2024,50.0,Liverpool Football Club,31,Diogo Jota,Attack,27.7
+341051,2024,20.0,Southampton FC,180,Kyle Walker-Peters,Defender,27.3
+341501,2024,4.5,Leicester City,1003,Hamza Choudhury,Midfield,26.8
+342385,2024,15.0,West Ham United Football Club,379,Guido Rodríguez,Midfield,30.3
+403151,2024,20.0,Chelsea Football Club,631,Robert Sánchez,Goalkeeper,26.7
+404842,2024,28.0,Everton Football Club,29,Vitaliy Mykolenko,Defender,25.2
+405385,2024,12.0,Southampton FC,180,Yukinari Sugawara,Defender,24.1
+406634,2024,22.0,Brighton and Hove Albion Football Club,1237,Matt O'Riley,Midfield,23.7
+406635,2024,140.0,Manchester City Football Club,281,Phil Foden,Midfield,24.2
+410225,2024,20.0,Crystal Palace Football Club,873,Ismaïla Sarr,Attack,26.4
+410425,2024,35.0,Tottenham Hotspur Football Club,148,Yves Bissouma,Midfield,27.9
+397033,2024,38.0,Newcastle United Football Club,762,Sandro Tonali,Midfield,24.2
+398065,2024,35.0,Newcastle United Football Club,762,Harvey Barnes,Attack,26.6
+399434,2024,20.0,Association Football Club Bournemouth,989,Marcus Tavernier,Midfield,25.4
+399776,2024,45.0,Aston Villa Football Club,405,Pau Torres,Defender,27.5
+400536,2024,12.0,Leicester City,1003,Mads Hermansen,Goalkeeper,24.1
+401173,2024,30.0,Chelsea Football Club,631,Jadon Sancho,Attack,24.4
+401356,2024,30.0,West Ham United Football Club,379,Edson Álvarez,Midfield,26.8
+388165,2024,28.0,Brentford Football Club,1148,Yoane Wissa,Attack,27.9
+391005,2024,12.0,Brentford Football Club,1148,Mads Roerslev,Defender,25.1
+392591,2024,8.0,Ipswich Town,677,Chiedozie Ogbene,Attack,27.3
+392775,2024,9.0,Fulham Football Club,931,Ryan Sessegnon,Defender,24.2
+394327,2024,38.0,Aston Villa Football Club,405,Boubacar Kamara,Midfield,24.7
+372246,2024,20.0,West Ham United Football Club,379,Carlos Soler,Midfield,27.6
+375885,2024,28.0,Nottingham Forest Football Club,703,Ibrahim Sangaré,Midfield,26.7
+380350,2024,22.0,Brighton and Hove Albion Football Club,1237,Igor Julio,Defender,26.5
+381469,2024,1.0,Fulham Football Club,931,Steven Benda,Goalkeeper,25.8
+384461,2024,10.0,Brighton and Hove Albion Football Club,1237,Jakub Moder,Midfield,25.3
+387626,2024,38.0,Aston Villa Football Club,405,Leon Bailey,Attack,27.0
+433183,2024,10.0,Wolverhampton Wanderers Football Club,543,Tommy Doyle,Midfield,22.8
+433188,2024,45.0,Liverpool Football Club,31,Curtis Jones,Midfield,23.5
+434224,2024,20.0,Crystal Palace Football Club,873,Maxence Lacroix,Defender,24.3
+434675,2024,60.0,Liverpool Football Club,31,Cody Gakpo,Attack,25.2
+435648,2024,42.0,Manchester United Football Club,985,Joshua Zirkzee,Attack,23.2
+438001,2024,8.0,Wolverhampton Wanderers Football Club,543,Santiago Bueno,Defender,25.7
+426192,2024,8.0,Southampton FC,180,Ben Brereton Díaz,Attack,25.3
+428016,2024,0.6,Tottenham Hotspur Football Club,148,Brandon Austin,Goalkeeper,25.6
+429014,2024,40.0,Nottingham Forest Football Club,703,Morgan Gibbs-White,Midfield,24.5
+429983,2024,27.0,Wolverhampton Wanderers Football Club,543,Jørgen Strand Larsen,Attack,24.5
+430310,2024,5.0,West Ham United Football Club,379,Andrew Irving,Midfield,24.2
+431755,2024,60.0,Tottenham Hotspur Football Club,148,Dejan Kulusevski,Midfield,24.3
+433177,2024,150.0,Arsenal Football Club,11,Bukayo Saka,Attack,22.9
+420002,2024,20.0,Crystal Palace Football Club,873,Jean-Philippe Mateta,Attack,27.1
+420243,2024,45.0,Arsenal Football Club,11,Jurriën Timber,Defender,23.1
+420808,2024,5.0,Ipswich Town,677,George Hirst,Attack,25.5
+424015,2024,15.0,Everton Football Club,29,Nathan Patterson,Defender,22.8
+425334,2024,28.0,Aston Villa Football Club,405,Matty Cash,Defender,27.0
+425902,2024,13.0,Nottingham Forest Football Club,703,Ryan Yates,Midfield,26.7
+425918,2024,28.0,Arsenal Football Club,11,Jakub Kiwior,Defender,24.5
+413039,2024,50.0,Brentford Football Club,1148,Bryan Mbeumo,Attack,25.0
+413220,2024,15.0,Leicester City,1003,James Justin,Defender,26.4
+413403,2024,35.0,Aston Villa Football Club,405,Ezri Konsa,Defender,26.8
+415381,2024,30.0,Brighton and Hove Albion Football Club,1237,Mats Wieffer,Midfield,24.7
+415912,2024,20.0,West Ham United Football Club,379,Konstantinos Mavropanos,Defender,26.6
+417346,2024,16.0,Everton Football Club,29,Jack Harrison,Attack,27.7
+477758,2024,22.0,West Ham United Football Club,379,Aaron Wan-Bissaka,Defender,26.7
+480116,2024,18.0,Newcastle United Football Club,762,Lloyd Kelly,Defender,25.8
+480762,2024,50.0,Manchester United Football Club,985,Lisandro Martínez,Defender,26.5
+483348,2024,8.0,Tottenham Hotspur Football Club,148,Djed Spence,Defender,24.0
+470607,2024,50.0,Tottenham Hotspur Football Club,148,Brennan Johnson,Attack,23.2
+471690,2024,16.0,Association Football Club Bournemouth,989,Max Aarons,Defender,24.6
+473050,2024,22.0,Brentford Football Club,1148,Kevin Schade,Attack,22.7
+475188,2024,28.0,Chelsea Football Club,631,Kiernan Dewsbury-Hall,Midfield,25.9
+475411,2024,30.0,Chelsea Football Club,631,Wesley Fofana,Defender,23.6
+475959,2024,75.0,Manchester City Football Club,281,Josko Gvardiol,Defender,22.5
+462250,2024,30.0,Chelsea Football Club,631,João Félix,Attack,24.7
+463603,2024,28.0,Chelsea Football Club,631,Benoît Badiashile,Defender,23.4
+467563,2024,12.0,Southampton FC,180,Armel Bella-Kotchap,Defender,22.6
+468002,2024,9.0,Ipswich Town,677,Ben Johnson,Defender,24.5
+468066,2024,12.0,Ipswich Town,677,Jens Cajuste,Midfield,25.0
+468198,2024,6.0,Southampton FC,180,Joe Aribo,Midfield,28.0
+469050,2024,28.0,Brentford Football Club,1148,Nathan Collins,Defender,23.3
+469781,2024,24.0,Association Football Club Bournemouth,989,Marcos Senesi,Defender,27.2
+444211,2024,7.0,Southampton FC,180,Will Smallbone,Midfield,24.4
+447995,2024,4.5,Southampton FC,180,Ross Stewart,Attack,28.1
+448854,2024,4.0,Nottingham Forest Football Club,703,Emmanuel Dennis,Attack,26.7
+451276,2024,75.0,Liverpool Football Club,31,Dominik Szoboszlai,Midfield,23.8
+458178,2024,3.0,Ipswich Town,677,Jack Taylor,Midfield,26.1
+461883,2024,16.0,Fulham Football Club,931,Calvin Bassey,Defender,24.6
+512385,2024,17.0,Association Football Club Bournemouth,989,Luis Sinisterra,Attack,25.1
+513245,2024,20.0,Everton Football Club,29,Jesper Lindstrøm,Attack,24.4
+513970,2024,10.0,Association Football Club Bournemouth,989,Julián Araujo,Defender,23.0
+517894,2024,50.0,Wolverhampton Wanderers Football Club,543,Matheus Cunha,Attack,25.2
+520624,2024,80.0,Newcastle United Football Club,762,Bruno Guimarães,Midfield,26.7
+525287,2024,4.0,Fulham Football Club,931,Carlos Vinícius,Attack,29.4
+503977,2024,25.0,Southampton FC,180,Taylor Harwood-Bellis,Defender,22.5
+503981,2024,35.0,Newcastle United Football Club,762,Tino Livramento,Defender,21.7
+503990,2024,3.8,Southampton FC,180,Nathan Wood,Defender,22.2
+504148,2024,12.0,Brighton and Hove Albion Football Club,1237,Tariq Lamptey,Defender,23.8
+504849,2024,45.0,Brighton and Hove Albion Football Club,1237,Kaoru Mitoma,Attack,27.2
+505194,2024,6.0,Leicester City,1003,Luke Thomas,Defender,23.1
+505219,2024,20.0,Everton Football Club,29,James Garner,Midfield,23.4
+494880,2024,6.0,Fulham Football Club,931,Jorge Cuenca,Defender,24.7
+495666,2024,80.0,Arsenal Football Club,11,William Saliba,Defender,23.4
+497291,2024,17.0,Nottingham Forest Football Club,703,Nicolás Domínguez,Midfield,26.1
+502821,2024,45.0,Arsenal Football Club,11,Riccardo Calafiori,Defender,22.2
+503680,2024,17.0,Nottingham Forest Football Club,703,Neco Williams,Defender,23.3
+503733,2024,60.0,Newcastle United Football Club,762,Anthony Gordon,Attack,23.4
+485585,2024,32.0,Aston Villa Football Club,405,Ian Maatsen,Defender,22.4
+486049,2024,60.0,Manchester City Football Club,281,Jérémy Doku,Attack,22.2
+486604,2024,5.0,Liverpool Football Club,31,Vitezslav Jaros,Goalkeeper,23.0
+487465,2024,55.0,Chelsea Football Club,631,Pedro Neto,Attack,24.4
+488935,2024,2.5,Brentford Football Club,1148,Hákon Valdimarsson,Goalkeeper,22.8
+490606,2024,0.7,Chelsea Football Club,631,Lucas Bergström,Goalkeeper,21.9
+493003,2024,25.0,Crystal Palace Football Club,873,Daniel Muñoz,Defender,28.2
+568693,2024,45.0,Tottenham Hotspur Football Club,148,Pape Matar Sarr,Midfield,21.9
+576121,2024,4.0,Manchester City Football Club,281,Josh Wilson-Esbrand,Defender,21.6
+578391,2024,35.0,Wolverhampton Wanderers Football Club,543,Rayan Aït-Nouri,Defender,23.2
+578539,2024,12.0,Crystal Palace Football Club,873,Chris Richards,Defender,24.3
+582078,2024,0.35,Association Football Club Bournemouth,989,Will Dennis,Goalkeeper,24.1
+559794,2024,15.0,Ipswich Town,677,Jack Clarke,Attack,23.7
+564529,2024,16.0,Leicester City,1003,Victor Kristiansen,Defender,21.6
+565822,2024,35.0,Liverpool Football Club,31,Harvey Elliott,Midfield,21.3
+568559,2024,25.0,Tottenham Hotspur Football Club,148,Radu Drăgușin,Defender,22.5
+540941,2024,15.0,Brentford Football Club,1148,Mikkel Damsgaard,Midfield,24.1
+543387,2024,35.0,Crystal Palace Football Club,873,Cheick Doucouré,Midfield,24.6
+543499,2024,50.0,West Ham United Football Club,379,Mohammed Kudus,Attack,24.0
+553875,2024,45.0,Tottenham Hotspur Football Club,148,Pedro Porro,Defender,24.9
+556385,2024,45.0,Tottenham Hotspur Football Club,148,Destiny Udogie,Defender,21.7
+557459,2024,55.0,Tottenham Hotspur Football Club,148,Micky van de Ven,Defender,23.3
+527425,2024,2.0,Ipswich Town,677,Luke Woolfenden,Defender,25.8
+528892,2024,5.0,Ipswich Town,677,Harry Clarke,Defender,23.4
+532541,2024,5.0,Wolverhampton Wanderers Football Club,543,Luke Cundle,Midfield,22.3
+533662,2024,14.0,Southampton FC,180,Cameron Archer,Attack,22.6
+534033,2024,80.0,Liverpool Football Club,31,Alexis Mac Allister,Midfield,25.6
+628451,2024,40.0,Chelsea Football Club,631,Roméo Lavia,Midfield,20.6
+632349,2024,22.0,Liverpool Football Club,31,Jarell Quansah,Defender,21.5
+641458,2024,4.0,Nottingham Forest Football Club,703,Carlos Miguel,Goalkeeper,25.8
+645686,2024,0.45,Aston Villa Football Club,405,Lamare Bogarde,Midfield,20.6
+646738,2024,4.5,Southampton FC,180,Juan Larios,Defender,20.6
+611793,2024,2.0,Association Football Club Bournemouth,989,James Hill,Defender,22.6
+614258,2024,55.0,Chelsea Football Club,631,Levi Colwill,Defender,21.4
+618494,2024,8.0,Liverpool Football Club,31,Tyler Morton,Midfield,21.8
+620322,2024,35.0,Chelsea Football Club,631,Malo Gusto,Defender,21.2
+621993,2024,11.0,Nottingham Forest Football Club,703,Andrew Omobamidele,Defender,22.1
+622380,2024,10.0,Chelsea Football Club,631,Cesare Casadei,Midfield,21.6
+623570,2024,18.0,Everton Football Club,29,Iliman Ndiaye,Attack,24.4
+624258,2024,20.0,Liverpool Football Club,31,Conor Bradley,Defender,21.1
+605184,2024,32.0,West Ham United Football Club,379,Jean-Clair Todibo,Defender,24.6
+606718,2024,20.0,Wolverhampton Wanderers Football Club,543,Toti,Defender,25.5
+610442,2024,60.0,Manchester United Football Club,985,Rasmus Højlund,Attack,21.5
+583199,2024,14.0,Manchester City Football Club,281,James McAtee,Midfield,21.8
+584769,2024,25.0,Everton Football Club,29,Dwight McNeil,Attack,24.7
+585323,2024,20.0,Chelsea Football Club,631,Filip Jørgensen,Goalkeeper,22.3
+591844,2024,1.5,Aston Villa Football Club,405,Joe Gauci,Goalkeeper,24.1
+595809,2024,20.0,Everton Football Club,29,Beto,Attack,26.5
+706815,2024,0.5,Liverpool Football Club,31,Harvey Davies,Goalkeeper,20.9
+711337,2024,35.0,Association Football Club Bournemouth,989,Evanilson,Attack,24.8
+711999,2024,25.0,Southampton FC,180,Lesley Ugochukwu,Midfield,20.4
+716276,2024,8.0,Wolverhampton Wanderers Football Club,543,Yerson Mosquera,Defender,23.2
+717411,2024,12.0,Brentford Football Club,1148,Yegor Yarmolyuk,Midfield,20.4
+730861,2024,28.0,Association Football Club Bournemouth,989,Milos Kerkez,Defender,20.7
+670688,2024,9.0,Everton Football Club,29,Youssef Chermiti,Attack,20.2
+673492,2024,15.0,Nottingham Forest Football Club,703,Morato,Defender,23.1
+687626,2024,80.0,Chelsea Football Club,631,Moisés Caicedo,Midfield,22.7
+689637,2024,15.0,Crystal Palace Football Club,873,Chadi Riad,Defender,21.1
+659459,2024,15.0,Chelsea Football Club,631,Carney Chukwuemeka,Midfield,20.8
+660867,2024,22.0,Brighton and Hove Albion Football Club,1237,Julio Enciso,Midfield,20.5
+661053,2024,42.0,Everton Football Club,29,Jarrad Branthwaite,Defender,22.1
+661207,2024,25.0,Manchester City Football Club,281,Oscar Bobb,Attack,21.1
+663244,2024,14.0,Nottingham Forest Football Club,703,Jota Silva,Attack,25.0
+665390,2024,15.0,Aston Villa Football Club,405,Jaden Philogene,Attack,22.5
+667287,2024,12.0,Brighton and Hove Albion Football Club,1237,Yasin Ayari,Midfield,20.8
+648195,2024,75.0,Chelsea Football Club,631,Enzo Fernández,Midfield,23.5
+649020,2024,6.0,Wolverhampton Wanderers Football Club,543,Boubacar Traoré,Midfield,22.9
+654982,2024,30.0,Leicester City,1003,Bilal El Khannouss,Midfield,20.2
+658536,2024,30.0,Brighton and Hove Albion Football Club,1237,Simon Adingra,Attack,22.6
+659089,2024,38.0,Association Football Club Bournemouth,989,Ilya Zabarnyi,Defender,21.9
+874538,2024,0.275,Brentford Football Club,1148,Ryan Trevitt,Midfield,21.4
+800176,2024,25.0,Wolverhampton Wanderers Football Club,543,André,Midfield,23.0
+808509,2024,28.0,Nottingham Forest Football Club,703,Danilo,Midfield,23.3
+820374,2024,55.0,Manchester United Football Club,985,Kobbie Mainoo,Midfield,19.3
+823231,2024,20.0,Association Football Club Bournemouth,989,Dango Ouattara,Attack,22.5
+848682,2024,8.5,Aston Villa Football Club,405,Kosta Nedeljkovic,Defender,18.6
+855256,2024,20.0,Association Football Club Bournemouth,989,Alex Scott,Midfield,20.9
+743591,2024,55.0,Manchester City Football Club,281,Savinho,Attack,20.3
+743597,2024,13.0,Crystal Palace Football Club,873,Matheus França,Midfield,20.3
+744149,2024,32.0,Crystal Palace Football Club,873,Adam Wharton,Midfield,20.5
+745191,2024,13.0,Nottingham Forest Football Club,703,Ramón Sosa,Attack,24.9
+746695,2024,13.0,Southampton FC,180,Kamaldeen Sulemana,Attack,22.5
+747009,2024,0.15,Crystal Palace Football Club,873,Justin Devenny,Midfield,20.8
+730893,2024,25.0,Crystal Palace Football Club,873,Tyrick Mitchell,Defender,24.9
+732165,2024,3.8,Southampton FC,180,Ronnie Edwards,Defender,21.3
+735571,2024,20.0,Fulham Football Club,931,Rodrigo Muniz,Attack,23.2
+739443,2024,25.0,Brentford Football Club,1148,Igor Thiago,Attack,23.1
+741236,2024,0.8,Brentford Football Club,1148,Matthew Cox,Goalkeeper,21.3
+742451,2024,8.0,Wolverhampton Wanderers Football Club,543,Carlos Forbs,Attack,20.4
+1060740,2024,4.0,Wolverhampton Wanderers Football Club,543,Enso González,Attack,19.5
+1107733,2024,0.5,Everton Football Club,29,Harrison Armstrong,Midfield,17.5
+938158,2024,8.0,Chelsea Football Club,631,Marc Guiu,Attack,18.6
+973085,2024,35.0,Brighton and Hove Albion Football Club,1237,Carlos Baleba,Midfield,20.6
+983989,2024,22.0,Leicester City,1003,Facundo Buonanotte,Midfield,19.6
+991800,2024,22.0,West Ham United Football Club,379,Luís Guilherme,Attack,18.5
+1011131,2024,0.2,Fulham Football Club,931,Josh King,Midfield,17.6
+897481,2024,1.0,Nottingham Forest Football Club,703,Eric da Silva Moreira,Defender,18.2
+922769,2024,22.0,Newcastle United Football Club,762,Lewis Miley,Midfield,18.3
+926135,2024,1.5,Chelsea Football Club,631,Omari Kellyman,Midfield,18.9
+933900,2024,0.3,Southampton FC,180,Samuel Amo-Ameyaw,Attack,18.0
+3333,2024,1.0,Brighton and Hove Albion Football Club,1237,James Milner,Midfield,38.6
+29712,2024,0.2,Newcastle United Football Club,762,John Ruddy,Goalkeeper,37.8
+33873,2024,0.3,Everton Football Club,29,Asmir Begovic,Goalkeeper,37.1
+95976,2024,0.5,Southampton FC,180,Alex McCarthy,Goalkeeper,34.7
+142310,2024,2.0,Nottingham Forest Football Club,703,Willy Boly,Defender,33.5
+34130,2024,0.25,Manchester United Football Club,985,Tom Heaton,Goalkeeper,38.3
+863741,2024,0.6,Wolverhampton Wanderers Football Club,543,Nathan Fraser,Attack,19.4
+936874,2024,1.0,Chelsea Football Club,631,Tyrique George,Attack,18.5
+326029,2024,25.0,Aston Villa Football Club,405,Donyell Malen,Attack,25.5
+414908,2024,15.0,Wolverhampton Wanderers Football Club,543,Marshall Munetsi,Midfield,28.1
+503866,2024,12.0,Southampton FC,180,Albert Grønbaek,Midfield,23.2
+466805,2024,40.0,Manchester City Football Club,281,Nico González,Midfield,22.6
+445939,2024,75.0,Manchester City Football Club,281,Omar Marmoush,Attack,25.5
+683895,2024,17.0,Wolverhampton Wanderers Football Club,543,Emmanuel Agbadou,Defender,27.1
+725912,2024,15.0,Tottenham Hotspur Football Club,148,Antonín Kinský,Goalkeeper,21.4
+743413,2024,7.0,Manchester City Football Club,281,Nico O'Reilly,Defender,19.4
+581330,2024,8.0,Brighton and Hove Albion Football Club,1237,Eiran Cashin,Defender,22.7
+1010854,2024,10.0,Chelsea Football Club,631,Mathis Amougou,Midfield,18.5
+1047261,2024,1.0,Crystal Palace Football Club,873,Caleb Kporha,Defender,18.0
+1063329,2024,7.0,Aston Villa Football Club,405,Andrés García,Defender,21.5
+1078163,2024,1.5,Manchester United Football Club,985,Ayden Heaven,Defender,17.9
+926952,2024,25.0,Manchester United Football Club,985,Patrick Dorgu,Defender,19.8
+967319,2024,12.0,Crystal Palace Football Club,873,Romain Esse,Attack,19.2
+986298,2024,1.5,Southampton FC,180,Joachim Kayi Sanda,Defender,17.7
+996897,2024,13.0,Brighton and Hove Albion Football Club,1237,Diego Gómez,Midfield,21.3
+1004708,2024,5.0,Chelsea Football Club,631,Josh Acheampong,Defender,18.2
+1005575,2024,30.0,Manchester City Football Club,281,Vitor Reis,Defender,18.6
+862297,2024,10.0,Wolverhampton Wanderers Football Club,543,Nasser Djiga,Defender,21.7
+922563,2024,4.0,West Ham United Football Club,379,Oliver Scarles,Defender,18.6
+746740,2024,4.0,Association Football Club Bournemouth,989,Daniel Jebbison,Attack,21.0
+763079,2024,35.0,Manchester City Football Club,281,Abdukodir Khusanov,Defender,20.4
+801734,2024,40.0,Tottenham Hotspur Football Club,148,Mathys Tel,Attack,19.3
+823486,2024,18.0,Brentford Football Club,1148,Michael Kayode,Defender,20.1
+854721,2024,0.5,Association Football Club Bournemouth,989,Ben Winterburn,Midfield,19.9
+992686,2024,0.6,Fulham Football Club,931,Martial Godo,Attack,21.4
+994536,2024,18.0,Manchester City Football Club,281,Claudio Echeverri,Midfield,18.6
+994604,2024,1.0,Association Football Club Bournemouth,989,Matai Akinmboni,Defender,17.8
+1009658,2024,8.0,Association Football Club Bournemouth,989,Julio Soler,Defender,19.5
+1011738,2024,5.0,Manchester United Football Club,985,Harry Amass,Defender,17.4
+1145504,2024,8.0,Chelsea Football Club,631,Aarón Anselmino,Defender,19.3
+52769,2024,0.75,Fulham Football Club,931,Willian,Attack,36.0
+263236,2024,25.0,Tottenham Hotspur Football Club,148,Kevin Danso,Defender,25.9
+296622,2024,20.0,Aston Villa Football Club,405,Marco Asensio,Midfield,28.5
+343475,2024,6.0,Ipswich Town,677,Ben Godfrey,Defender,26.5
+346018,2024,2.5,Newcastle United Football Club,762,Jamal Lewis,Defender,26.5
+406556,2024,0.6,Brighton and Hove Albion Football Club,1237,Tom McGill,Goalkeeper,24.4
+512354,2024,1.2,Crystal Palace Football Club,873,Malcolm Ebiowei,Attack,20.9
+592975,2024,2.0,Leicester City,1003,Woyo Coulibaly,Defender,25.2
+646353,2024,3.0,Brighton and Hove Albion Football Club,1237,Carl Rushworth,Goalkeeper,23.1
+656316,2024,3.5,Chelsea Football Club,631,Gabriel Slonina,Goalkeeper,20.2
+670883,2024,2.0,Tottenham Hotspur Football Club,148,Dane Scarlett,Attack,20.4
+729264,2024,3.0,Southampton FC,180,Welington,Defender,23.4
+748319,2024,14.0,Everton Football Club,29,Carlos Alcaraz,Midfield,21.7
+787232,2024,6.0,Chelsea Football Club,631,David Datro Fofana,Attack,21.6
+45494,2024,0.15,Nottingham Forest Football Club,703,Wayne Hennessey,Goalkeeper,37.5
+743600,2024,35.0,Chelsea Football Club,631,Andrey Santos,Midfield,20.2
+834397,2024,12.0,Chelsea Football Club,631,Mike Penders,Goalkeeper,19.0
+460939,2024,60.0,Manchester City Football Club,281,Tijjani Reijnders,Midfield,26.0
+614603,2024,0.9,Wolverhampton Wanderers Football Club,543,Chem Campbell,Midfield,21.6
+724783,2024,0.5,Wolverhampton Wanderers Football Club,543,Tawanda Chirewa,Midfield,20.8
+503975,2024,1.0,Wolverhampton Wanderers Football Club,543,Joe Hodge,Midfield,21.9
+950091,2024,22.0,Brighton and Hove Albion Football Club,1237,Stefanos Tzimas,Attack,18.6
+503679,2024,0.7,Liverpool Football Club,31,Rhys Williams,Defender,23.5
+614811,2024,0.275,Newcastle United Football Club,762,Joe White,Midfield,21.8

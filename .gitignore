@@ -1,0 +1,5 @@
+# Large raw data files too big for GitHub
+data/raw/transfermarkt_raw/transfermarkt-datasets.zip
+data/raw/transfermarkt_raw/game_lineups.csv.gz
+data/raw/transfermarkt_raw/game_events.csv.gz
+data/raw/transfermarkt_raw/appearances.csv.gz
