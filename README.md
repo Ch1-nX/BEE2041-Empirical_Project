@@ -26,7 +26,8 @@ Download "transfermarkt-datasets.zip" from https://github.com/dcaribou/transferm
 mkdir -p data/raw/transfermarkt_raw && cp /mnt/c/Users/$USER/Downloads/transfermarkt-datasets.zip data/raw/transfermarkt_raw/ && unzip data/raw/transfermarkt_raw/transfermarkt-datasets.zip -d data/raw/transfermarkt_raw/
 ```
 
-Run the scripts in order:
+Run the scripts in order.
+On Mac or Linux run:
  
 ```bash
 python scripts/01_soccerdata.py
@@ -39,6 +40,34 @@ To generate the HTML output:
  
 ```bash
 jupyter nbconvert --to html blog.ipynb --output docs/index.html
+```
+
+On Windows with WSL and Anaconda installed in the default location, run:
+
+```bash
+/mnt/c/Users/$USER/anaconda3/python.exe scripts/01_soccerdata.py
+/mnt/c/Users/$USER/anaconda3/python.exe scripts/02_transfermarkt.py
+/mnt/c/Users/$USER/anaconda3/python.exe scripts/03_clean.py
+/mnt/c/Users/$USER/anaconda3/python.exe scripts/04_analyse.py
+```
+
+To generate the HTML output:
+
+```bash
+/mnt/c/Users/$USER/anaconda3/Scripts/jupyter.exe nbconvert --to html blog.ipynb --output docs/index.html
+```
+
+There's also a makefile to automate the pipeline.
+On Mac or Linux run:
+
+```bash
+make
+```
+
+On Windows with WSL and Anaconda installed in the default location, run:
+
+```bash
+PYTHON=/mnt/c/Users/$USER/anaconda3/python.exe make
 ```
 
 ## Features
