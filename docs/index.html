@@ -7562,9 +7562,9 @@ a.anchor-link {
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<p>Two different datsets are combined for analysis in this blog.</p>
+<p>Two different datasets are combined for analysis in this blog.</p>
 <p>Player performance data was collected from Understat (<a href="https://understat.com">https://understat.com</a>) using the soccerdata python library. Understat tracks many insightful metrics for all players across the top leagues including but not limited to: Expected Goals (xG), Expected assists (xA), and non penalty Expected Goals (npxG), but for this project, they were specifically filtered for just the Premier League. These metrics are particularly useful because they help measure the quality of chances rather than just pure output.</p>
-<p>Transfer market valuations were sourced from the Transfermarkt-dataset.zip (<a href="https://github.com/dcaribou/transfermarkt-datasets">https://github.com/dcaribou/transfermarkt-datasets</a>) published openly on Kaggle by David Cariboo, who scrapes and maintains the data from Transfermarkt.com, the most widely used platform for player valuations in football.</p>
+<p>Transfer market valuations were sourced from the Transfermarkt-dataset.zip (<a href="https://github.com/dcaribou/transfermarkt-datasets">https://github.com/dcaribou/transfermarkt-datasets</a>) published openly on GitHub by David Cariboo, who scrapes and maintains the data from Transfermarkt.com, the most widely used platform for player valuations in football.</p>
 <p>Merging the data came to be a rather tedious task. Both sources used different naming for both players and clubs, and loan players faced issues with appearing at different clubs across the two datasets. After cleaning, normalising player names, and handling the loan transfers, the final polished dataset covered 1294 players across 20 Premier League clubs and three seasons, with zero missing values.</p>
 </div>
 </div>
@@ -7576,7 +7576,7 @@ a.anchor-link {
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<h2 id="The-Transfer-Market-in-Numbers">The Transfer Market in Numbers<a class="anchor-link" href="#The-Transfer-Market-in-Numbers">¶</a></h2><p>Before determing what factors drive transfer value, it's important to understand the data first.</p>
+<h2 id="The-Transfer-Market-in-Numbers">The Transfer Market in Numbers<a class="anchor-link" href="#The-Transfer-Market-in-Numbers">¶</a></h2><p>Before determining what factors drive transfer value, it's important to understand the data first.</p>
 </div>
 </div>
 </div>
@@ -7682,7 +7682,7 @@ a.anchor-link {
 <p>This heatmap displays a few important themes. Market value has a negative correlation with age (-0.25) which means that older players are worth less compared to if they were younger, despite output. Market Value also strongly correlates with Minutes
 played (0.32) which is understandable, as better players will tend to play more frequently. Similarly, Expected Assists p90 (0.34) and Non-penalty Expected Goals p90 (0.31) are positively correlated, highlighting the value of chance creation and getting into good positions to convert chances into goals.</p>
 <p>The heatmap also shows a strong correlation between Key Passes p90 and Expected Assists p90, which is expected as these two are very similar statistics. Hence, when building the regression, it's best to keep this in mind as including both can lead to multicollinearity which we ideally want to avoid. Note that p90 stats are used so players can be compared.</p>
-<p>To build our model, we'll use an Ordinary Last Squares (OLS) Regression to test which metrics independantly predict market value whilst controlling other variables.</p>
+<p>To build our model, we'll use an Ordinary Least Squares (OLS) Regression to test which metrics independently predict market value whilst controlling other variables.</p>
 </div>
 </div>
 </div>
@@ -7737,19 +7737,19 @@ played (0.32) which is understandable, as better players will tend to play more 
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<p>The model explains 45% of the variation in player market value with a R^2 value of 0.454. From only age and on page statistics, this is promising given the unpredictability of football with external factors such as marketability and injuries which also influence valuations.</p>
+<p>The model explains 45% of the variation in player market value with a R^2 value of 0.454. From only age and on pitch statistics, this is promising given the unpredictability of football with external factors such as marketability and injuries which also influence valuations.</p>
 <p>Four variables are statistically significant at the 5% level as shown by the figure:</p>
 <ul>
-<li><p>xA p90 has the largest coefficient amongst the metrics at 1.87, which means a one unit increase increase in xA p90 correlates to a 187% increase in market value, holding everything else constant. This highlights the importance of chance creation in modern football.</p>
+<li><p>xA p90 has the largest coefficient amongst the metrics at 1.87, which means players with 1 unit higher xA p90 are roughly valued 6.5 times more, holding everything else constant. This highlights the importance of chance creation in modern football.</p>
 </li>
 <li><p>npxG p90 has a coefficient of 0.93, showing that it remains important that players get themselves into positions and situations to score goals.</p>
 </li>
 <li><p>Minutes Played is also significant, despite the small coefficient of 0.0004 causing a virtually invisible bar. This means clubs pay a very small premium for players who can stay fit and perform consistently throughout the season.</p>
 </li>
-<li><p>Age and Age^2 are both significant with respective coefficients of 0.91 and -0.02. This tells us that market value increases with a player's age up until a peak, and then declines. The data implies this peak age is 24.3 years and every year after is assosciated with a decrease in market value even if output remains strong.</p>
+<li><p>Age and Age^2 are both significant with respective coefficients of 0.91 and -0.02. This tells us that market value increases with a player's age up until a peak, and then declines. The data implies this peak age is 24.3 years and every year after is associated with a decrease in market value even if output remains strong.</p>
 </li>
 </ul>
-<p>Position dummies are not shown on the figure as they are  statistically insignificant. This shows that the market values actual output and performance rather than specific positions, which can potentially be explained by modern tactics requiring players to increasingly play in various different positions and roles throughout the duration of a game.</p>
+<p>The position dummies on the figure are statistically insignificant. This shows that the market values actual output and performance rather than specific positions, which can potentially be explained by modern tactics requiring players to increasingly play in various different positions and roles throughout the duration of a game.</p>
 </div>
 </div>
 </div>
@@ -7802,11 +7802,11 @@ played (0.32) which is understandable, as better players will tend to play more 
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<p>The most overvalued player according to our model is Cristiano Ronaldo, whose average residual was significantly the largest. This isn't necessarily because his performance metrics were amazing, as his npxG p90 wasn't out of this world, but rather because the model's age penalty is so strong that it predicted a 37 year old to be worth almost nothing, whilst Transfermarkt valued him at €20m. However, from a non-data standpoint and in a footballing context, this valuation makes sense as Ronaldo is widely regarded as one of the greatest players of all time who could still perform at a high enough level despite his age, whilst offering great marketability. Ronaldo is truely an anomaly who highights the limitation of the model to not account for non-footballing factors.</p>
+<p>The most overvalued player according to our model is Cristiano Ronaldo, whose average residual was significantly the largest. This isn't necessarily because his performance metrics were amazing, as his npxG p90 wasn't out of this world, but rather because the model's age penalty is so strong that it predicted a 37 year old to be worth almost nothing, whilst Transfermarkt valued him at €20m. However, from a non-data standpoint and in a footballing context, this valuation makes sense as Ronaldo is widely regarded as one of the greatest players of all time who could still perform at a high enough level despite his age, whilst offering great marketability. Ronaldo is truely an anomaly who highlights the limitation of the model to not account for non-footballing factors.</p>
 <p>Leny Yoro however appears for a completely different reason. Due to him being a recent transfer to Manchester United from Ligue 1 (The French 1st Division), his statistics do not include his performance in France, meaning his stats come from a much smaller sample due to his limited Premier League minutes. This highlights another limitation of the model when it comes to new transfers coming from different leagues.</p>
 <p>The rest of the players on the chart are undervalued for a similar reason to Ronaldo, being overpenalised for old age despite being able to perform at a high level and having strong marketability; just not to the same extent of Ronaldo himself.</p>
-<p>On the other side of the spectrum, young players such Justin Devenney and Oliver Arblaster have lower market values despite decent p90 metrics. What the model doesn't sufficiently account for is that these players have limited minutes played; it sees their p90 stats as impressive and predicts accordingly. However in reality, the actual market draws from scouting reports and broader context that helps to give it more accurate valuations.</p>
-<p>The 270 minute minimum theshold in the data cleaning does slightly help alleviate this problem, but it does not completely eliminate it.</p>
+<p>On the other side of the spectrum, young players such Justin Devenny and Oliver Arblaster have lower market values despite decent p90 metrics. What the model doesn't sufficiently account for is that these players have limited minutes played; it sees their p90 stats as impressive and predicts accordingly. However in reality, the actual market draws from scouting reports and broader context that helps to give it more accurate valuations.</p>
+<p>The 270 minute minimum threshold in the data cleaning does slightly help alleviate this problem, but it does not completely eliminate it.</p>
 </div>
 </div>
 </div>
@@ -7864,7 +7864,7 @@ played (0.32) which is understandable, as better players will tend to play more 
 <p>Bournemouth has consistently punched above its financial weight, finishing above their Squad Value Rank in all 3 seasons. This can be explained by smart recruitment in the form of their manager Andoni Iraola who has consistently been praised for his tactics, and also in the form of the players they sign, who outperform their market value.</p>
 <p>Something similar can be said about Brighton, whose 2022/23 6th place finish, despite a very low squad value, reflects the effectiveness of owner Tony Bloom's moneyball-like transfer strategy.</p>
 <p>Chelsea on the other hand, finished 12th in the same season whilst having the 3rd most expensive squad, which can be explained by their ineffective transfer strategy, heavily investing into future potential following the takeover of new owners BlueCo.</p>
-<p>At the other side of the table, newly promoted clubs such as Burnley, Sheffield United, Luton and Ipswich can be seen in the top right. This shows the difficulties that newly promoted clubs when trying to remain in the Premier League, highlighting its competeitveness and the difference in level to the Championship</p>
+<p>At the other side of the table, newly promoted clubs such as Burnley, Sheffield United, Luton and Ipswich can be seen in the top right. This shows the difficulties that newly promoted clubs when trying to remain in the Premier League, highlighting its competitiveness and the difference in level to the Championship</p>
 </div>
 </div>
 </div>
@@ -7926,9 +7926,9 @@ played (0.32) which is understandable, as better players will tend to play more 
 <li><p>Does Money Buy Success?</p>
 </li>
 </ol>
-<p>To answer the first question, the data shows that xA is significantly rewarded by the market whilst position hardly matters when performance is accounted for. One of the more interesting discoveries was the peak age of 24.3 for market value. The age penalty can create inaccurate predictions for players who still perform at a high level despite old age. On the contrary, younger players with less Premier League experience can be overvalued by the model compared to their actual market value due limited evidence and inflated p90 statitistics.</p>
+<p>To answer the first question, the data shows that xA is significantly rewarded by the market whilst position hardly matters when performance is accounted for. One of the more interesting discoveries was the peak age of 24.3 for market value. The age penalty can create inaccurate predictions for players who still perform at a high level despite old age. On the contrary, younger players with less Premier League experience can be overvalued by the model compared to their actual market value due limited evidence and inflated p90 statistics.</p>
 <p>For the second question "Does Money Buy Success?", the answer is generally yes. Squad value explains more than half the variation in total league points across three seasons, and the richest clubs almost always finish near the top of the table. However clubs like Bournemouth, Nottingham Forest, and Brighton, show the impact that smart recruitment and management can have; clubs like Chelsea act as a cautionary tale for irresponsible hyperopic transfer strategy.</p>
-<p>Now whilst the data and conclusions that came from the analysis are interesting, it can be argued that what the data misses out is just as interesting, if not more. Factors such as commercial appeal, marketability, and future potential don't show up in statistics, but they have a signifiant impact on market valuations. Deep in the gaps between the predicted values from the model, and actual transfer values from Transfermarkt, lie iconic players like Cristiano Ronaldo, who some argue has achieved GOAT (Greatest of All Time) status. Given his performance is so out of reach of the model, it really is hard to argue otherwise.</p>
+<p>Now whilst the data and conclusions that came from the analysis are interesting, it can be argued that what the data misses out is just as interesting, if not more. Factors such as commercial appeal, marketability, and future potential don't show up in statistics, but they have a significant impact on market valuations. Deep in the gaps between the predicted values from the model, and actual transfer values from Transfermarkt, lie iconic players like Cristiano Ronaldo, who some argue has achieved GOAT (Greatest of All Time) status. Given his performance is so out of reach of the model, it really is hard to argue otherwise.</p>
 <p>At the end of the day, football is just like economics: the market is right most of the time, just not always.</p>
 </div>
 </div>
